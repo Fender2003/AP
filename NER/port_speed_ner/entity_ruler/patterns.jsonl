@@ -1,0 +1,4400 @@
+{"label":"PORT_SPEED","pattern":"1 mbps"}
+{"label":"PORT_SPEED","pattern":"2 mbps"}
+{"label":"PORT_SPEED","pattern":"3 mbps"}
+{"label":"PORT_SPEED","pattern":"4 mbps"}
+{"label":"PORT_SPEED","pattern":"5 mbps"}
+{"label":"PORT_SPEED","pattern":"6 mbps"}
+{"label":"PORT_SPEED","pattern":"7 mbps"}
+{"label":"PORT_SPEED","pattern":"8 mbps"}
+{"label":"PORT_SPEED","pattern":"9 mbps"}
+{"label":"PORT_SPEED","pattern":"10 mbps"}
+{"label":"PORT_SPEED","pattern":"11 mbps"}
+{"label":"PORT_SPEED","pattern":"12 mbps"}
+{"label":"PORT_SPEED","pattern":"13 mbps"}
+{"label":"PORT_SPEED","pattern":"14 mbps"}
+{"label":"PORT_SPEED","pattern":"15 mbps"}
+{"label":"PORT_SPEED","pattern":"16 mbps"}
+{"label":"PORT_SPEED","pattern":"17 mbps"}
+{"label":"PORT_SPEED","pattern":"18 mbps"}
+{"label":"PORT_SPEED","pattern":"19 mbps"}
+{"label":"PORT_SPEED","pattern":"20 mbps"}
+{"label":"PORT_SPEED","pattern":"21 mbps"}
+{"label":"PORT_SPEED","pattern":"22 mbps"}
+{"label":"PORT_SPEED","pattern":"23 mbps"}
+{"label":"PORT_SPEED","pattern":"24 mbps"}
+{"label":"PORT_SPEED","pattern":"25 mbps"}
+{"label":"PORT_SPEED","pattern":"26 mbps"}
+{"label":"PORT_SPEED","pattern":"27 mbps"}
+{"label":"PORT_SPEED","pattern":"28 mbps"}
+{"label":"PORT_SPEED","pattern":"29 mbps"}
+{"label":"PORT_SPEED","pattern":"30 mbps"}
+{"label":"PORT_SPEED","pattern":"31 mbps"}
+{"label":"PORT_SPEED","pattern":"32 mbps"}
+{"label":"PORT_SPEED","pattern":"33 mbps"}
+{"label":"PORT_SPEED","pattern":"34 mbps"}
+{"label":"PORT_SPEED","pattern":"35 mbps"}
+{"label":"PORT_SPEED","pattern":"36 mbps"}
+{"label":"PORT_SPEED","pattern":"37 mbps"}
+{"label":"PORT_SPEED","pattern":"38 mbps"}
+{"label":"PORT_SPEED","pattern":"39 mbps"}
+{"label":"PORT_SPEED","pattern":"40 mbps"}
+{"label":"PORT_SPEED","pattern":"41 mbps"}
+{"label":"PORT_SPEED","pattern":"42 mbps"}
+{"label":"PORT_SPEED","pattern":"43 mbps"}
+{"label":"PORT_SPEED","pattern":"44 mbps"}
+{"label":"PORT_SPEED","pattern":"45 mbps"}
+{"label":"PORT_SPEED","pattern":"46 mbps"}
+{"label":"PORT_SPEED","pattern":"47 mbps"}
+{"label":"PORT_SPEED","pattern":"48 mbps"}
+{"label":"PORT_SPEED","pattern":"49 mbps"}
+{"label":"PORT_SPEED","pattern":"50 mbps"}
+{"label":"PORT_SPEED","pattern":"51 mbps"}
+{"label":"PORT_SPEED","pattern":"52 mbps"}
+{"label":"PORT_SPEED","pattern":"53 mbps"}
+{"label":"PORT_SPEED","pattern":"54 mbps"}
+{"label":"PORT_SPEED","pattern":"55 mbps"}
+{"label":"PORT_SPEED","pattern":"56 mbps"}
+{"label":"PORT_SPEED","pattern":"57 mbps"}
+{"label":"PORT_SPEED","pattern":"58 mbps"}
+{"label":"PORT_SPEED","pattern":"59 mbps"}
+{"label":"PORT_SPEED","pattern":"60 mbps"}
+{"label":"PORT_SPEED","pattern":"61 mbps"}
+{"label":"PORT_SPEED","pattern":"62 mbps"}
+{"label":"PORT_SPEED","pattern":"63 mbps"}
+{"label":"PORT_SPEED","pattern":"64 mbps"}
+{"label":"PORT_SPEED","pattern":"65 mbps"}
+{"label":"PORT_SPEED","pattern":"66 mbps"}
+{"label":"PORT_SPEED","pattern":"67 mbps"}
+{"label":"PORT_SPEED","pattern":"68 mbps"}
+{"label":"PORT_SPEED","pattern":"69 mbps"}
+{"label":"PORT_SPEED","pattern":"70 mbps"}
+{"label":"PORT_SPEED","pattern":"71 mbps"}
+{"label":"PORT_SPEED","pattern":"72 mbps"}
+{"label":"PORT_SPEED","pattern":"73 mbps"}
+{"label":"PORT_SPEED","pattern":"74 mbps"}
+{"label":"PORT_SPEED","pattern":"75 mbps"}
+{"label":"PORT_SPEED","pattern":"76 mbps"}
+{"label":"PORT_SPEED","pattern":"77 mbps"}
+{"label":"PORT_SPEED","pattern":"78 mbps"}
+{"label":"PORT_SPEED","pattern":"79 mbps"}
+{"label":"PORT_SPEED","pattern":"80 mbps"}
+{"label":"PORT_SPEED","pattern":"81 mbps"}
+{"label":"PORT_SPEED","pattern":"82 mbps"}
+{"label":"PORT_SPEED","pattern":"83 mbps"}
+{"label":"PORT_SPEED","pattern":"84 mbps"}
+{"label":"PORT_SPEED","pattern":"85 mbps"}
+{"label":"PORT_SPEED","pattern":"86 mbps"}
+{"label":"PORT_SPEED","pattern":"87 mbps"}
+{"label":"PORT_SPEED","pattern":"88 mbps"}
+{"label":"PORT_SPEED","pattern":"89 mbps"}
+{"label":"PORT_SPEED","pattern":"90 mbps"}
+{"label":"PORT_SPEED","pattern":"91 mbps"}
+{"label":"PORT_SPEED","pattern":"92 mbps"}
+{"label":"PORT_SPEED","pattern":"93 mbps"}
+{"label":"PORT_SPEED","pattern":"94 mbps"}
+{"label":"PORT_SPEED","pattern":"95 mbps"}
+{"label":"PORT_SPEED","pattern":"96 mbps"}
+{"label":"PORT_SPEED","pattern":"97 mbps"}
+{"label":"PORT_SPEED","pattern":"98 mbps"}
+{"label":"PORT_SPEED","pattern":"99 mbps"}
+{"label":"PORT_SPEED","pattern":"100 mbps"}
+{"label":"PORT_SPEED","pattern":"101 mbps"}
+{"label":"PORT_SPEED","pattern":"102 mbps"}
+{"label":"PORT_SPEED","pattern":"103 mbps"}
+{"label":"PORT_SPEED","pattern":"104 mbps"}
+{"label":"PORT_SPEED","pattern":"105 mbps"}
+{"label":"PORT_SPEED","pattern":"106 mbps"}
+{"label":"PORT_SPEED","pattern":"107 mbps"}
+{"label":"PORT_SPEED","pattern":"108 mbps"}
+{"label":"PORT_SPEED","pattern":"109 mbps"}
+{"label":"PORT_SPEED","pattern":"110 mbps"}
+{"label":"PORT_SPEED","pattern":"111 mbps"}
+{"label":"PORT_SPEED","pattern":"112 mbps"}
+{"label":"PORT_SPEED","pattern":"113 mbps"}
+{"label":"PORT_SPEED","pattern":"114 mbps"}
+{"label":"PORT_SPEED","pattern":"115 mbps"}
+{"label":"PORT_SPEED","pattern":"116 mbps"}
+{"label":"PORT_SPEED","pattern":"117 mbps"}
+{"label":"PORT_SPEED","pattern":"118 mbps"}
+{"label":"PORT_SPEED","pattern":"119 mbps"}
+{"label":"PORT_SPEED","pattern":"120 mbps"}
+{"label":"PORT_SPEED","pattern":"121 mbps"}
+{"label":"PORT_SPEED","pattern":"122 mbps"}
+{"label":"PORT_SPEED","pattern":"123 mbps"}
+{"label":"PORT_SPEED","pattern":"124 mbps"}
+{"label":"PORT_SPEED","pattern":"125 mbps"}
+{"label":"PORT_SPEED","pattern":"126 mbps"}
+{"label":"PORT_SPEED","pattern":"127 mbps"}
+{"label":"PORT_SPEED","pattern":"128 mbps"}
+{"label":"PORT_SPEED","pattern":"129 mbps"}
+{"label":"PORT_SPEED","pattern":"130 mbps"}
+{"label":"PORT_SPEED","pattern":"131 mbps"}
+{"label":"PORT_SPEED","pattern":"132 mbps"}
+{"label":"PORT_SPEED","pattern":"133 mbps"}
+{"label":"PORT_SPEED","pattern":"134 mbps"}
+{"label":"PORT_SPEED","pattern":"135 mbps"}
+{"label":"PORT_SPEED","pattern":"136 mbps"}
+{"label":"PORT_SPEED","pattern":"137 mbps"}
+{"label":"PORT_SPEED","pattern":"138 mbps"}
+{"label":"PORT_SPEED","pattern":"139 mbps"}
+{"label":"PORT_SPEED","pattern":"140 mbps"}
+{"label":"PORT_SPEED","pattern":"141 mbps"}
+{"label":"PORT_SPEED","pattern":"142 mbps"}
+{"label":"PORT_SPEED","pattern":"143 mbps"}
+{"label":"PORT_SPEED","pattern":"144 mbps"}
+{"label":"PORT_SPEED","pattern":"145 mbps"}
+{"label":"PORT_SPEED","pattern":"146 mbps"}
+{"label":"PORT_SPEED","pattern":"147 mbps"}
+{"label":"PORT_SPEED","pattern":"148 mbps"}
+{"label":"PORT_SPEED","pattern":"149 mbps"}
+{"label":"PORT_SPEED","pattern":"150 mbps"}
+{"label":"PORT_SPEED","pattern":"151 mbps"}
+{"label":"PORT_SPEED","pattern":"152 mbps"}
+{"label":"PORT_SPEED","pattern":"153 mbps"}
+{"label":"PORT_SPEED","pattern":"154 mbps"}
+{"label":"PORT_SPEED","pattern":"155 mbps"}
+{"label":"PORT_SPEED","pattern":"156 mbps"}
+{"label":"PORT_SPEED","pattern":"157 mbps"}
+{"label":"PORT_SPEED","pattern":"158 mbps"}
+{"label":"PORT_SPEED","pattern":"159 mbps"}
+{"label":"PORT_SPEED","pattern":"160 mbps"}
+{"label":"PORT_SPEED","pattern":"161 mbps"}
+{"label":"PORT_SPEED","pattern":"162 mbps"}
+{"label":"PORT_SPEED","pattern":"163 mbps"}
+{"label":"PORT_SPEED","pattern":"164 mbps"}
+{"label":"PORT_SPEED","pattern":"165 mbps"}
+{"label":"PORT_SPEED","pattern":"166 mbps"}
+{"label":"PORT_SPEED","pattern":"167 mbps"}
+{"label":"PORT_SPEED","pattern":"168 mbps"}
+{"label":"PORT_SPEED","pattern":"169 mbps"}
+{"label":"PORT_SPEED","pattern":"170 mbps"}
+{"label":"PORT_SPEED","pattern":"171 mbps"}
+{"label":"PORT_SPEED","pattern":"172 mbps"}
+{"label":"PORT_SPEED","pattern":"173 mbps"}
+{"label":"PORT_SPEED","pattern":"174 mbps"}
+{"label":"PORT_SPEED","pattern":"175 mbps"}
+{"label":"PORT_SPEED","pattern":"176 mbps"}
+{"label":"PORT_SPEED","pattern":"177 mbps"}
+{"label":"PORT_SPEED","pattern":"178 mbps"}
+{"label":"PORT_SPEED","pattern":"179 mbps"}
+{"label":"PORT_SPEED","pattern":"180 mbps"}
+{"label":"PORT_SPEED","pattern":"181 mbps"}
+{"label":"PORT_SPEED","pattern":"182 mbps"}
+{"label":"PORT_SPEED","pattern":"183 mbps"}
+{"label":"PORT_SPEED","pattern":"184 mbps"}
+{"label":"PORT_SPEED","pattern":"185 mbps"}
+{"label":"PORT_SPEED","pattern":"186 mbps"}
+{"label":"PORT_SPEED","pattern":"187 mbps"}
+{"label":"PORT_SPEED","pattern":"188 mbps"}
+{"label":"PORT_SPEED","pattern":"189 mbps"}
+{"label":"PORT_SPEED","pattern":"190 mbps"}
+{"label":"PORT_SPEED","pattern":"191 mbps"}
+{"label":"PORT_SPEED","pattern":"192 mbps"}
+{"label":"PORT_SPEED","pattern":"193 mbps"}
+{"label":"PORT_SPEED","pattern":"194 mbps"}
+{"label":"PORT_SPEED","pattern":"195 mbps"}
+{"label":"PORT_SPEED","pattern":"196 mbps"}
+{"label":"PORT_SPEED","pattern":"197 mbps"}
+{"label":"PORT_SPEED","pattern":"198 mbps"}
+{"label":"PORT_SPEED","pattern":"199 mbps"}
+{"label":"PORT_SPEED","pattern":"200 mbps"}
+{"label":"PORT_SPEED","pattern":"201 mbps"}
+{"label":"PORT_SPEED","pattern":"202 mbps"}
+{"label":"PORT_SPEED","pattern":"203 mbps"}
+{"label":"PORT_SPEED","pattern":"204 mbps"}
+{"label":"PORT_SPEED","pattern":"205 mbps"}
+{"label":"PORT_SPEED","pattern":"206 mbps"}
+{"label":"PORT_SPEED","pattern":"207 mbps"}
+{"label":"PORT_SPEED","pattern":"208 mbps"}
+{"label":"PORT_SPEED","pattern":"209 mbps"}
+{"label":"PORT_SPEED","pattern":"210 mbps"}
+{"label":"PORT_SPEED","pattern":"211 mbps"}
+{"label":"PORT_SPEED","pattern":"212 mbps"}
+{"label":"PORT_SPEED","pattern":"213 mbps"}
+{"label":"PORT_SPEED","pattern":"214 mbps"}
+{"label":"PORT_SPEED","pattern":"215 mbps"}
+{"label":"PORT_SPEED","pattern":"216 mbps"}
+{"label":"PORT_SPEED","pattern":"217 mbps"}
+{"label":"PORT_SPEED","pattern":"218 mbps"}
+{"label":"PORT_SPEED","pattern":"219 mbps"}
+{"label":"PORT_SPEED","pattern":"220 mbps"}
+{"label":"PORT_SPEED","pattern":"221 mbps"}
+{"label":"PORT_SPEED","pattern":"222 mbps"}
+{"label":"PORT_SPEED","pattern":"223 mbps"}
+{"label":"PORT_SPEED","pattern":"224 mbps"}
+{"label":"PORT_SPEED","pattern":"225 mbps"}
+{"label":"PORT_SPEED","pattern":"226 mbps"}
+{"label":"PORT_SPEED","pattern":"227 mbps"}
+{"label":"PORT_SPEED","pattern":"228 mbps"}
+{"label":"PORT_SPEED","pattern":"229 mbps"}
+{"label":"PORT_SPEED","pattern":"230 mbps"}
+{"label":"PORT_SPEED","pattern":"231 mbps"}
+{"label":"PORT_SPEED","pattern":"232 mbps"}
+{"label":"PORT_SPEED","pattern":"233 mbps"}
+{"label":"PORT_SPEED","pattern":"234 mbps"}
+{"label":"PORT_SPEED","pattern":"235 mbps"}
+{"label":"PORT_SPEED","pattern":"236 mbps"}
+{"label":"PORT_SPEED","pattern":"237 mbps"}
+{"label":"PORT_SPEED","pattern":"238 mbps"}
+{"label":"PORT_SPEED","pattern":"239 mbps"}
+{"label":"PORT_SPEED","pattern":"240 mbps"}
+{"label":"PORT_SPEED","pattern":"241 mbps"}
+{"label":"PORT_SPEED","pattern":"242 mbps"}
+{"label":"PORT_SPEED","pattern":"243 mbps"}
+{"label":"PORT_SPEED","pattern":"244 mbps"}
+{"label":"PORT_SPEED","pattern":"245 mbps"}
+{"label":"PORT_SPEED","pattern":"246 mbps"}
+{"label":"PORT_SPEED","pattern":"247 mbps"}
+{"label":"PORT_SPEED","pattern":"248 mbps"}
+{"label":"PORT_SPEED","pattern":"249 mbps"}
+{"label":"PORT_SPEED","pattern":"250 mbps"}
+{"label":"PORT_SPEED","pattern":"251 mbps"}
+{"label":"PORT_SPEED","pattern":"252 mbps"}
+{"label":"PORT_SPEED","pattern":"253 mbps"}
+{"label":"PORT_SPEED","pattern":"254 mbps"}
+{"label":"PORT_SPEED","pattern":"255 mbps"}
+{"label":"PORT_SPEED","pattern":"256 mbps"}
+{"label":"PORT_SPEED","pattern":"257 mbps"}
+{"label":"PORT_SPEED","pattern":"258 mbps"}
+{"label":"PORT_SPEED","pattern":"259 mbps"}
+{"label":"PORT_SPEED","pattern":"260 mbps"}
+{"label":"PORT_SPEED","pattern":"261 mbps"}
+{"label":"PORT_SPEED","pattern":"262 mbps"}
+{"label":"PORT_SPEED","pattern":"263 mbps"}
+{"label":"PORT_SPEED","pattern":"264 mbps"}
+{"label":"PORT_SPEED","pattern":"265 mbps"}
+{"label":"PORT_SPEED","pattern":"266 mbps"}
+{"label":"PORT_SPEED","pattern":"267 mbps"}
+{"label":"PORT_SPEED","pattern":"268 mbps"}
+{"label":"PORT_SPEED","pattern":"269 mbps"}
+{"label":"PORT_SPEED","pattern":"270 mbps"}
+{"label":"PORT_SPEED","pattern":"271 mbps"}
+{"label":"PORT_SPEED","pattern":"272 mbps"}
+{"label":"PORT_SPEED","pattern":"273 mbps"}
+{"label":"PORT_SPEED","pattern":"274 mbps"}
+{"label":"PORT_SPEED","pattern":"275 mbps"}
+{"label":"PORT_SPEED","pattern":"276 mbps"}
+{"label":"PORT_SPEED","pattern":"277 mbps"}
+{"label":"PORT_SPEED","pattern":"278 mbps"}
+{"label":"PORT_SPEED","pattern":"279 mbps"}
+{"label":"PORT_SPEED","pattern":"280 mbps"}
+{"label":"PORT_SPEED","pattern":"281 mbps"}
+{"label":"PORT_SPEED","pattern":"282 mbps"}
+{"label":"PORT_SPEED","pattern":"283 mbps"}
+{"label":"PORT_SPEED","pattern":"284 mbps"}
+{"label":"PORT_SPEED","pattern":"285 mbps"}
+{"label":"PORT_SPEED","pattern":"286 mbps"}
+{"label":"PORT_SPEED","pattern":"287 mbps"}
+{"label":"PORT_SPEED","pattern":"288 mbps"}
+{"label":"PORT_SPEED","pattern":"289 mbps"}
+{"label":"PORT_SPEED","pattern":"290 mbps"}
+{"label":"PORT_SPEED","pattern":"291 mbps"}
+{"label":"PORT_SPEED","pattern":"292 mbps"}
+{"label":"PORT_SPEED","pattern":"293 mbps"}
+{"label":"PORT_SPEED","pattern":"294 mbps"}
+{"label":"PORT_SPEED","pattern":"295 mbps"}
+{"label":"PORT_SPEED","pattern":"296 mbps"}
+{"label":"PORT_SPEED","pattern":"297 mbps"}
+{"label":"PORT_SPEED","pattern":"298 mbps"}
+{"label":"PORT_SPEED","pattern":"299 mbps"}
+{"label":"PORT_SPEED","pattern":"300 mbps"}
+{"label":"PORT_SPEED","pattern":"301 mbps"}
+{"label":"PORT_SPEED","pattern":"302 mbps"}
+{"label":"PORT_SPEED","pattern":"303 mbps"}
+{"label":"PORT_SPEED","pattern":"304 mbps"}
+{"label":"PORT_SPEED","pattern":"305 mbps"}
+{"label":"PORT_SPEED","pattern":"306 mbps"}
+{"label":"PORT_SPEED","pattern":"307 mbps"}
+{"label":"PORT_SPEED","pattern":"308 mbps"}
+{"label":"PORT_SPEED","pattern":"309 mbps"}
+{"label":"PORT_SPEED","pattern":"310 mbps"}
+{"label":"PORT_SPEED","pattern":"311 mbps"}
+{"label":"PORT_SPEED","pattern":"312 mbps"}
+{"label":"PORT_SPEED","pattern":"313 mbps"}
+{"label":"PORT_SPEED","pattern":"314 mbps"}
+{"label":"PORT_SPEED","pattern":"315 mbps"}
+{"label":"PORT_SPEED","pattern":"316 mbps"}
+{"label":"PORT_SPEED","pattern":"317 mbps"}
+{"label":"PORT_SPEED","pattern":"318 mbps"}
+{"label":"PORT_SPEED","pattern":"319 mbps"}
+{"label":"PORT_SPEED","pattern":"320 mbps"}
+{"label":"PORT_SPEED","pattern":"321 mbps"}
+{"label":"PORT_SPEED","pattern":"322 mbps"}
+{"label":"PORT_SPEED","pattern":"323 mbps"}
+{"label":"PORT_SPEED","pattern":"324 mbps"}
+{"label":"PORT_SPEED","pattern":"325 mbps"}
+{"label":"PORT_SPEED","pattern":"326 mbps"}
+{"label":"PORT_SPEED","pattern":"327 mbps"}
+{"label":"PORT_SPEED","pattern":"328 mbps"}
+{"label":"PORT_SPEED","pattern":"329 mbps"}
+{"label":"PORT_SPEED","pattern":"330 mbps"}
+{"label":"PORT_SPEED","pattern":"331 mbps"}
+{"label":"PORT_SPEED","pattern":"332 mbps"}
+{"label":"PORT_SPEED","pattern":"333 mbps"}
+{"label":"PORT_SPEED","pattern":"334 mbps"}
+{"label":"PORT_SPEED","pattern":"335 mbps"}
+{"label":"PORT_SPEED","pattern":"336 mbps"}
+{"label":"PORT_SPEED","pattern":"337 mbps"}
+{"label":"PORT_SPEED","pattern":"338 mbps"}
+{"label":"PORT_SPEED","pattern":"339 mbps"}
+{"label":"PORT_SPEED","pattern":"340 mbps"}
+{"label":"PORT_SPEED","pattern":"341 mbps"}
+{"label":"PORT_SPEED","pattern":"342 mbps"}
+{"label":"PORT_SPEED","pattern":"343 mbps"}
+{"label":"PORT_SPEED","pattern":"344 mbps"}
+{"label":"PORT_SPEED","pattern":"345 mbps"}
+{"label":"PORT_SPEED","pattern":"346 mbps"}
+{"label":"PORT_SPEED","pattern":"347 mbps"}
+{"label":"PORT_SPEED","pattern":"348 mbps"}
+{"label":"PORT_SPEED","pattern":"349 mbps"}
+{"label":"PORT_SPEED","pattern":"350 mbps"}
+{"label":"PORT_SPEED","pattern":"351 mbps"}
+{"label":"PORT_SPEED","pattern":"352 mbps"}
+{"label":"PORT_SPEED","pattern":"353 mbps"}
+{"label":"PORT_SPEED","pattern":"354 mbps"}
+{"label":"PORT_SPEED","pattern":"355 mbps"}
+{"label":"PORT_SPEED","pattern":"356 mbps"}
+{"label":"PORT_SPEED","pattern":"357 mbps"}
+{"label":"PORT_SPEED","pattern":"358 mbps"}
+{"label":"PORT_SPEED","pattern":"359 mbps"}
+{"label":"PORT_SPEED","pattern":"360 mbps"}
+{"label":"PORT_SPEED","pattern":"361 mbps"}
+{"label":"PORT_SPEED","pattern":"362 mbps"}
+{"label":"PORT_SPEED","pattern":"363 mbps"}
+{"label":"PORT_SPEED","pattern":"364 mbps"}
+{"label":"PORT_SPEED","pattern":"365 mbps"}
+{"label":"PORT_SPEED","pattern":"366 mbps"}
+{"label":"PORT_SPEED","pattern":"367 mbps"}
+{"label":"PORT_SPEED","pattern":"368 mbps"}
+{"label":"PORT_SPEED","pattern":"369 mbps"}
+{"label":"PORT_SPEED","pattern":"370 mbps"}
+{"label":"PORT_SPEED","pattern":"371 mbps"}
+{"label":"PORT_SPEED","pattern":"372 mbps"}
+{"label":"PORT_SPEED","pattern":"373 mbps"}
+{"label":"PORT_SPEED","pattern":"374 mbps"}
+{"label":"PORT_SPEED","pattern":"375 mbps"}
+{"label":"PORT_SPEED","pattern":"376 mbps"}
+{"label":"PORT_SPEED","pattern":"377 mbps"}
+{"label":"PORT_SPEED","pattern":"378 mbps"}
+{"label":"PORT_SPEED","pattern":"379 mbps"}
+{"label":"PORT_SPEED","pattern":"380 mbps"}
+{"label":"PORT_SPEED","pattern":"381 mbps"}
+{"label":"PORT_SPEED","pattern":"382 mbps"}
+{"label":"PORT_SPEED","pattern":"383 mbps"}
+{"label":"PORT_SPEED","pattern":"384 mbps"}
+{"label":"PORT_SPEED","pattern":"385 mbps"}
+{"label":"PORT_SPEED","pattern":"386 mbps"}
+{"label":"PORT_SPEED","pattern":"387 mbps"}
+{"label":"PORT_SPEED","pattern":"388 mbps"}
+{"label":"PORT_SPEED","pattern":"389 mbps"}
+{"label":"PORT_SPEED","pattern":"390 mbps"}
+{"label":"PORT_SPEED","pattern":"391 mbps"}
+{"label":"PORT_SPEED","pattern":"392 mbps"}
+{"label":"PORT_SPEED","pattern":"393 mbps"}
+{"label":"PORT_SPEED","pattern":"394 mbps"}
+{"label":"PORT_SPEED","pattern":"395 mbps"}
+{"label":"PORT_SPEED","pattern":"396 mbps"}
+{"label":"PORT_SPEED","pattern":"397 mbps"}
+{"label":"PORT_SPEED","pattern":"398 mbps"}
+{"label":"PORT_SPEED","pattern":"399 mbps"}
+{"label":"PORT_SPEED","pattern":"400 mbps"}
+{"label":"PORT_SPEED","pattern":"401 mbps"}
+{"label":"PORT_SPEED","pattern":"402 mbps"}
+{"label":"PORT_SPEED","pattern":"403 mbps"}
+{"label":"PORT_SPEED","pattern":"404 mbps"}
+{"label":"PORT_SPEED","pattern":"405 mbps"}
+{"label":"PORT_SPEED","pattern":"406 mbps"}
+{"label":"PORT_SPEED","pattern":"407 mbps"}
+{"label":"PORT_SPEED","pattern":"408 mbps"}
+{"label":"PORT_SPEED","pattern":"409 mbps"}
+{"label":"PORT_SPEED","pattern":"410 mbps"}
+{"label":"PORT_SPEED","pattern":"411 mbps"}
+{"label":"PORT_SPEED","pattern":"412 mbps"}
+{"label":"PORT_SPEED","pattern":"413 mbps"}
+{"label":"PORT_SPEED","pattern":"414 mbps"}
+{"label":"PORT_SPEED","pattern":"415 mbps"}
+{"label":"PORT_SPEED","pattern":"416 mbps"}
+{"label":"PORT_SPEED","pattern":"417 mbps"}
+{"label":"PORT_SPEED","pattern":"418 mbps"}
+{"label":"PORT_SPEED","pattern":"419 mbps"}
+{"label":"PORT_SPEED","pattern":"420 mbps"}
+{"label":"PORT_SPEED","pattern":"421 mbps"}
+{"label":"PORT_SPEED","pattern":"422 mbps"}
+{"label":"PORT_SPEED","pattern":"423 mbps"}
+{"label":"PORT_SPEED","pattern":"424 mbps"}
+{"label":"PORT_SPEED","pattern":"425 mbps"}
+{"label":"PORT_SPEED","pattern":"426 mbps"}
+{"label":"PORT_SPEED","pattern":"427 mbps"}
+{"label":"PORT_SPEED","pattern":"428 mbps"}
+{"label":"PORT_SPEED","pattern":"429 mbps"}
+{"label":"PORT_SPEED","pattern":"430 mbps"}
+{"label":"PORT_SPEED","pattern":"431 mbps"}
+{"label":"PORT_SPEED","pattern":"432 mbps"}
+{"label":"PORT_SPEED","pattern":"433 mbps"}
+{"label":"PORT_SPEED","pattern":"434 mbps"}
+{"label":"PORT_SPEED","pattern":"435 mbps"}
+{"label":"PORT_SPEED","pattern":"436 mbps"}
+{"label":"PORT_SPEED","pattern":"437 mbps"}
+{"label":"PORT_SPEED","pattern":"438 mbps"}
+{"label":"PORT_SPEED","pattern":"439 mbps"}
+{"label":"PORT_SPEED","pattern":"440 mbps"}
+{"label":"PORT_SPEED","pattern":"441 mbps"}
+{"label":"PORT_SPEED","pattern":"442 mbps"}
+{"label":"PORT_SPEED","pattern":"443 mbps"}
+{"label":"PORT_SPEED","pattern":"444 mbps"}
+{"label":"PORT_SPEED","pattern":"445 mbps"}
+{"label":"PORT_SPEED","pattern":"446 mbps"}
+{"label":"PORT_SPEED","pattern":"447 mbps"}
+{"label":"PORT_SPEED","pattern":"448 mbps"}
+{"label":"PORT_SPEED","pattern":"449 mbps"}
+{"label":"PORT_SPEED","pattern":"450 mbps"}
+{"label":"PORT_SPEED","pattern":"451 mbps"}
+{"label":"PORT_SPEED","pattern":"452 mbps"}
+{"label":"PORT_SPEED","pattern":"453 mbps"}
+{"label":"PORT_SPEED","pattern":"454 mbps"}
+{"label":"PORT_SPEED","pattern":"455 mbps"}
+{"label":"PORT_SPEED","pattern":"456 mbps"}
+{"label":"PORT_SPEED","pattern":"457 mbps"}
+{"label":"PORT_SPEED","pattern":"458 mbps"}
+{"label":"PORT_SPEED","pattern":"459 mbps"}
+{"label":"PORT_SPEED","pattern":"460 mbps"}
+{"label":"PORT_SPEED","pattern":"461 mbps"}
+{"label":"PORT_SPEED","pattern":"462 mbps"}
+{"label":"PORT_SPEED","pattern":"463 mbps"}
+{"label":"PORT_SPEED","pattern":"464 mbps"}
+{"label":"PORT_SPEED","pattern":"465 mbps"}
+{"label":"PORT_SPEED","pattern":"466 mbps"}
+{"label":"PORT_SPEED","pattern":"467 mbps"}
+{"label":"PORT_SPEED","pattern":"468 mbps"}
+{"label":"PORT_SPEED","pattern":"469 mbps"}
+{"label":"PORT_SPEED","pattern":"470 mbps"}
+{"label":"PORT_SPEED","pattern":"471 mbps"}
+{"label":"PORT_SPEED","pattern":"472 mbps"}
+{"label":"PORT_SPEED","pattern":"473 mbps"}
+{"label":"PORT_SPEED","pattern":"474 mbps"}
+{"label":"PORT_SPEED","pattern":"475 mbps"}
+{"label":"PORT_SPEED","pattern":"476 mbps"}
+{"label":"PORT_SPEED","pattern":"477 mbps"}
+{"label":"PORT_SPEED","pattern":"478 mbps"}
+{"label":"PORT_SPEED","pattern":"479 mbps"}
+{"label":"PORT_SPEED","pattern":"480 mbps"}
+{"label":"PORT_SPEED","pattern":"481 mbps"}
+{"label":"PORT_SPEED","pattern":"482 mbps"}
+{"label":"PORT_SPEED","pattern":"483 mbps"}
+{"label":"PORT_SPEED","pattern":"484 mbps"}
+{"label":"PORT_SPEED","pattern":"485 mbps"}
+{"label":"PORT_SPEED","pattern":"486 mbps"}
+{"label":"PORT_SPEED","pattern":"487 mbps"}
+{"label":"PORT_SPEED","pattern":"488 mbps"}
+{"label":"PORT_SPEED","pattern":"489 mbps"}
+{"label":"PORT_SPEED","pattern":"490 mbps"}
+{"label":"PORT_SPEED","pattern":"491 mbps"}
+{"label":"PORT_SPEED","pattern":"492 mbps"}
+{"label":"PORT_SPEED","pattern":"493 mbps"}
+{"label":"PORT_SPEED","pattern":"494 mbps"}
+{"label":"PORT_SPEED","pattern":"495 mbps"}
+{"label":"PORT_SPEED","pattern":"496 mbps"}
+{"label":"PORT_SPEED","pattern":"497 mbps"}
+{"label":"PORT_SPEED","pattern":"498 mbps"}
+{"label":"PORT_SPEED","pattern":"499 mbps"}
+{"label":"PORT_SPEED","pattern":"500 mbps"}
+{"label":"PORT_SPEED","pattern":"501 mbps"}
+{"label":"PORT_SPEED","pattern":"502 mbps"}
+{"label":"PORT_SPEED","pattern":"503 mbps"}
+{"label":"PORT_SPEED","pattern":"504 mbps"}
+{"label":"PORT_SPEED","pattern":"505 mbps"}
+{"label":"PORT_SPEED","pattern":"506 mbps"}
+{"label":"PORT_SPEED","pattern":"507 mbps"}
+{"label":"PORT_SPEED","pattern":"508 mbps"}
+{"label":"PORT_SPEED","pattern":"509 mbps"}
+{"label":"PORT_SPEED","pattern":"510 mbps"}
+{"label":"PORT_SPEED","pattern":"511 mbps"}
+{"label":"PORT_SPEED","pattern":"512 mbps"}
+{"label":"PORT_SPEED","pattern":"513 mbps"}
+{"label":"PORT_SPEED","pattern":"514 mbps"}
+{"label":"PORT_SPEED","pattern":"515 mbps"}
+{"label":"PORT_SPEED","pattern":"516 mbps"}
+{"label":"PORT_SPEED","pattern":"517 mbps"}
+{"label":"PORT_SPEED","pattern":"518 mbps"}
+{"label":"PORT_SPEED","pattern":"519 mbps"}
+{"label":"PORT_SPEED","pattern":"520 mbps"}
+{"label":"PORT_SPEED","pattern":"521 mbps"}
+{"label":"PORT_SPEED","pattern":"522 mbps"}
+{"label":"PORT_SPEED","pattern":"523 mbps"}
+{"label":"PORT_SPEED","pattern":"524 mbps"}
+{"label":"PORT_SPEED","pattern":"525 mbps"}
+{"label":"PORT_SPEED","pattern":"526 mbps"}
+{"label":"PORT_SPEED","pattern":"527 mbps"}
+{"label":"PORT_SPEED","pattern":"528 mbps"}
+{"label":"PORT_SPEED","pattern":"529 mbps"}
+{"label":"PORT_SPEED","pattern":"530 mbps"}
+{"label":"PORT_SPEED","pattern":"531 mbps"}
+{"label":"PORT_SPEED","pattern":"532 mbps"}
+{"label":"PORT_SPEED","pattern":"533 mbps"}
+{"label":"PORT_SPEED","pattern":"534 mbps"}
+{"label":"PORT_SPEED","pattern":"535 mbps"}
+{"label":"PORT_SPEED","pattern":"536 mbps"}
+{"label":"PORT_SPEED","pattern":"537 mbps"}
+{"label":"PORT_SPEED","pattern":"538 mbps"}
+{"label":"PORT_SPEED","pattern":"539 mbps"}
+{"label":"PORT_SPEED","pattern":"540 mbps"}
+{"label":"PORT_SPEED","pattern":"541 mbps"}
+{"label":"PORT_SPEED","pattern":"542 mbps"}
+{"label":"PORT_SPEED","pattern":"543 mbps"}
+{"label":"PORT_SPEED","pattern":"544 mbps"}
+{"label":"PORT_SPEED","pattern":"545 mbps"}
+{"label":"PORT_SPEED","pattern":"546 mbps"}
+{"label":"PORT_SPEED","pattern":"547 mbps"}
+{"label":"PORT_SPEED","pattern":"548 mbps"}
+{"label":"PORT_SPEED","pattern":"549 mbps"}
+{"label":"PORT_SPEED","pattern":"550 mbps"}
+{"label":"PORT_SPEED","pattern":"551 mbps"}
+{"label":"PORT_SPEED","pattern":"552 mbps"}
+{"label":"PORT_SPEED","pattern":"553 mbps"}
+{"label":"PORT_SPEED","pattern":"554 mbps"}
+{"label":"PORT_SPEED","pattern":"555 mbps"}
+{"label":"PORT_SPEED","pattern":"556 mbps"}
+{"label":"PORT_SPEED","pattern":"557 mbps"}
+{"label":"PORT_SPEED","pattern":"558 mbps"}
+{"label":"PORT_SPEED","pattern":"559 mbps"}
+{"label":"PORT_SPEED","pattern":"560 mbps"}
+{"label":"PORT_SPEED","pattern":"561 mbps"}
+{"label":"PORT_SPEED","pattern":"562 mbps"}
+{"label":"PORT_SPEED","pattern":"563 mbps"}
+{"label":"PORT_SPEED","pattern":"564 mbps"}
+{"label":"PORT_SPEED","pattern":"565 mbps"}
+{"label":"PORT_SPEED","pattern":"566 mbps"}
+{"label":"PORT_SPEED","pattern":"567 mbps"}
+{"label":"PORT_SPEED","pattern":"568 mbps"}
+{"label":"PORT_SPEED","pattern":"569 mbps"}
+{"label":"PORT_SPEED","pattern":"570 mbps"}
+{"label":"PORT_SPEED","pattern":"571 mbps"}
+{"label":"PORT_SPEED","pattern":"572 mbps"}
+{"label":"PORT_SPEED","pattern":"573 mbps"}
+{"label":"PORT_SPEED","pattern":"574 mbps"}
+{"label":"PORT_SPEED","pattern":"575 mbps"}
+{"label":"PORT_SPEED","pattern":"576 mbps"}
+{"label":"PORT_SPEED","pattern":"577 mbps"}
+{"label":"PORT_SPEED","pattern":"578 mbps"}
+{"label":"PORT_SPEED","pattern":"579 mbps"}
+{"label":"PORT_SPEED","pattern":"580 mbps"}
+{"label":"PORT_SPEED","pattern":"581 mbps"}
+{"label":"PORT_SPEED","pattern":"582 mbps"}
+{"label":"PORT_SPEED","pattern":"583 mbps"}
+{"label":"PORT_SPEED","pattern":"584 mbps"}
+{"label":"PORT_SPEED","pattern":"585 mbps"}
+{"label":"PORT_SPEED","pattern":"586 mbps"}
+{"label":"PORT_SPEED","pattern":"587 mbps"}
+{"label":"PORT_SPEED","pattern":"588 mbps"}
+{"label":"PORT_SPEED","pattern":"589 mbps"}
+{"label":"PORT_SPEED","pattern":"590 mbps"}
+{"label":"PORT_SPEED","pattern":"591 mbps"}
+{"label":"PORT_SPEED","pattern":"592 mbps"}
+{"label":"PORT_SPEED","pattern":"593 mbps"}
+{"label":"PORT_SPEED","pattern":"594 mbps"}
+{"label":"PORT_SPEED","pattern":"595 mbps"}
+{"label":"PORT_SPEED","pattern":"596 mbps"}
+{"label":"PORT_SPEED","pattern":"597 mbps"}
+{"label":"PORT_SPEED","pattern":"598 mbps"}
+{"label":"PORT_SPEED","pattern":"599 mbps"}
+{"label":"PORT_SPEED","pattern":"600 mbps"}
+{"label":"PORT_SPEED","pattern":"601 mbps"}
+{"label":"PORT_SPEED","pattern":"602 mbps"}
+{"label":"PORT_SPEED","pattern":"603 mbps"}
+{"label":"PORT_SPEED","pattern":"604 mbps"}
+{"label":"PORT_SPEED","pattern":"605 mbps"}
+{"label":"PORT_SPEED","pattern":"606 mbps"}
+{"label":"PORT_SPEED","pattern":"607 mbps"}
+{"label":"PORT_SPEED","pattern":"608 mbps"}
+{"label":"PORT_SPEED","pattern":"609 mbps"}
+{"label":"PORT_SPEED","pattern":"610 mbps"}
+{"label":"PORT_SPEED","pattern":"611 mbps"}
+{"label":"PORT_SPEED","pattern":"612 mbps"}
+{"label":"PORT_SPEED","pattern":"613 mbps"}
+{"label":"PORT_SPEED","pattern":"614 mbps"}
+{"label":"PORT_SPEED","pattern":"615 mbps"}
+{"label":"PORT_SPEED","pattern":"616 mbps"}
+{"label":"PORT_SPEED","pattern":"617 mbps"}
+{"label":"PORT_SPEED","pattern":"618 mbps"}
+{"label":"PORT_SPEED","pattern":"619 mbps"}
+{"label":"PORT_SPEED","pattern":"620 mbps"}
+{"label":"PORT_SPEED","pattern":"621 mbps"}
+{"label":"PORT_SPEED","pattern":"622 mbps"}
+{"label":"PORT_SPEED","pattern":"623 mbps"}
+{"label":"PORT_SPEED","pattern":"624 mbps"}
+{"label":"PORT_SPEED","pattern":"625 mbps"}
+{"label":"PORT_SPEED","pattern":"626 mbps"}
+{"label":"PORT_SPEED","pattern":"627 mbps"}
+{"label":"PORT_SPEED","pattern":"628 mbps"}
+{"label":"PORT_SPEED","pattern":"629 mbps"}
+{"label":"PORT_SPEED","pattern":"630 mbps"}
+{"label":"PORT_SPEED","pattern":"631 mbps"}
+{"label":"PORT_SPEED","pattern":"632 mbps"}
+{"label":"PORT_SPEED","pattern":"633 mbps"}
+{"label":"PORT_SPEED","pattern":"634 mbps"}
+{"label":"PORT_SPEED","pattern":"635 mbps"}
+{"label":"PORT_SPEED","pattern":"636 mbps"}
+{"label":"PORT_SPEED","pattern":"637 mbps"}
+{"label":"PORT_SPEED","pattern":"638 mbps"}
+{"label":"PORT_SPEED","pattern":"639 mbps"}
+{"label":"PORT_SPEED","pattern":"640 mbps"}
+{"label":"PORT_SPEED","pattern":"641 mbps"}
+{"label":"PORT_SPEED","pattern":"642 mbps"}
+{"label":"PORT_SPEED","pattern":"643 mbps"}
+{"label":"PORT_SPEED","pattern":"644 mbps"}
+{"label":"PORT_SPEED","pattern":"645 mbps"}
+{"label":"PORT_SPEED","pattern":"646 mbps"}
+{"label":"PORT_SPEED","pattern":"647 mbps"}
+{"label":"PORT_SPEED","pattern":"648 mbps"}
+{"label":"PORT_SPEED","pattern":"649 mbps"}
+{"label":"PORT_SPEED","pattern":"650 mbps"}
+{"label":"PORT_SPEED","pattern":"651 mbps"}
+{"label":"PORT_SPEED","pattern":"652 mbps"}
+{"label":"PORT_SPEED","pattern":"653 mbps"}
+{"label":"PORT_SPEED","pattern":"654 mbps"}
+{"label":"PORT_SPEED","pattern":"655 mbps"}
+{"label":"PORT_SPEED","pattern":"656 mbps"}
+{"label":"PORT_SPEED","pattern":"657 mbps"}
+{"label":"PORT_SPEED","pattern":"658 mbps"}
+{"label":"PORT_SPEED","pattern":"659 mbps"}
+{"label":"PORT_SPEED","pattern":"660 mbps"}
+{"label":"PORT_SPEED","pattern":"661 mbps"}
+{"label":"PORT_SPEED","pattern":"662 mbps"}
+{"label":"PORT_SPEED","pattern":"663 mbps"}
+{"label":"PORT_SPEED","pattern":"664 mbps"}
+{"label":"PORT_SPEED","pattern":"665 mbps"}
+{"label":"PORT_SPEED","pattern":"666 mbps"}
+{"label":"PORT_SPEED","pattern":"667 mbps"}
+{"label":"PORT_SPEED","pattern":"668 mbps"}
+{"label":"PORT_SPEED","pattern":"669 mbps"}
+{"label":"PORT_SPEED","pattern":"670 mbps"}
+{"label":"PORT_SPEED","pattern":"671 mbps"}
+{"label":"PORT_SPEED","pattern":"672 mbps"}
+{"label":"PORT_SPEED","pattern":"673 mbps"}
+{"label":"PORT_SPEED","pattern":"674 mbps"}
+{"label":"PORT_SPEED","pattern":"675 mbps"}
+{"label":"PORT_SPEED","pattern":"676 mbps"}
+{"label":"PORT_SPEED","pattern":"677 mbps"}
+{"label":"PORT_SPEED","pattern":"678 mbps"}
+{"label":"PORT_SPEED","pattern":"679 mbps"}
+{"label":"PORT_SPEED","pattern":"680 mbps"}
+{"label":"PORT_SPEED","pattern":"681 mbps"}
+{"label":"PORT_SPEED","pattern":"682 mbps"}
+{"label":"PORT_SPEED","pattern":"683 mbps"}
+{"label":"PORT_SPEED","pattern":"684 mbps"}
+{"label":"PORT_SPEED","pattern":"685 mbps"}
+{"label":"PORT_SPEED","pattern":"686 mbps"}
+{"label":"PORT_SPEED","pattern":"687 mbps"}
+{"label":"PORT_SPEED","pattern":"688 mbps"}
+{"label":"PORT_SPEED","pattern":"689 mbps"}
+{"label":"PORT_SPEED","pattern":"690 mbps"}
+{"label":"PORT_SPEED","pattern":"691 mbps"}
+{"label":"PORT_SPEED","pattern":"692 mbps"}
+{"label":"PORT_SPEED","pattern":"693 mbps"}
+{"label":"PORT_SPEED","pattern":"694 mbps"}
+{"label":"PORT_SPEED","pattern":"695 mbps"}
+{"label":"PORT_SPEED","pattern":"696 mbps"}
+{"label":"PORT_SPEED","pattern":"697 mbps"}
+{"label":"PORT_SPEED","pattern":"698 mbps"}
+{"label":"PORT_SPEED","pattern":"699 mbps"}
+{"label":"PORT_SPEED","pattern":"700 mbps"}
+{"label":"PORT_SPEED","pattern":"701 mbps"}
+{"label":"PORT_SPEED","pattern":"702 mbps"}
+{"label":"PORT_SPEED","pattern":"703 mbps"}
+{"label":"PORT_SPEED","pattern":"704 mbps"}
+{"label":"PORT_SPEED","pattern":"705 mbps"}
+{"label":"PORT_SPEED","pattern":"706 mbps"}
+{"label":"PORT_SPEED","pattern":"707 mbps"}
+{"label":"PORT_SPEED","pattern":"708 mbps"}
+{"label":"PORT_SPEED","pattern":"709 mbps"}
+{"label":"PORT_SPEED","pattern":"710 mbps"}
+{"label":"PORT_SPEED","pattern":"711 mbps"}
+{"label":"PORT_SPEED","pattern":"712 mbps"}
+{"label":"PORT_SPEED","pattern":"713 mbps"}
+{"label":"PORT_SPEED","pattern":"714 mbps"}
+{"label":"PORT_SPEED","pattern":"715 mbps"}
+{"label":"PORT_SPEED","pattern":"716 mbps"}
+{"label":"PORT_SPEED","pattern":"717 mbps"}
+{"label":"PORT_SPEED","pattern":"718 mbps"}
+{"label":"PORT_SPEED","pattern":"719 mbps"}
+{"label":"PORT_SPEED","pattern":"720 mbps"}
+{"label":"PORT_SPEED","pattern":"721 mbps"}
+{"label":"PORT_SPEED","pattern":"722 mbps"}
+{"label":"PORT_SPEED","pattern":"723 mbps"}
+{"label":"PORT_SPEED","pattern":"724 mbps"}
+{"label":"PORT_SPEED","pattern":"725 mbps"}
+{"label":"PORT_SPEED","pattern":"726 mbps"}
+{"label":"PORT_SPEED","pattern":"727 mbps"}
+{"label":"PORT_SPEED","pattern":"728 mbps"}
+{"label":"PORT_SPEED","pattern":"729 mbps"}
+{"label":"PORT_SPEED","pattern":"730 mbps"}
+{"label":"PORT_SPEED","pattern":"731 mbps"}
+{"label":"PORT_SPEED","pattern":"732 mbps"}
+{"label":"PORT_SPEED","pattern":"733 mbps"}
+{"label":"PORT_SPEED","pattern":"734 mbps"}
+{"label":"PORT_SPEED","pattern":"735 mbps"}
+{"label":"PORT_SPEED","pattern":"736 mbps"}
+{"label":"PORT_SPEED","pattern":"737 mbps"}
+{"label":"PORT_SPEED","pattern":"738 mbps"}
+{"label":"PORT_SPEED","pattern":"739 mbps"}
+{"label":"PORT_SPEED","pattern":"740 mbps"}
+{"label":"PORT_SPEED","pattern":"741 mbps"}
+{"label":"PORT_SPEED","pattern":"742 mbps"}
+{"label":"PORT_SPEED","pattern":"743 mbps"}
+{"label":"PORT_SPEED","pattern":"744 mbps"}
+{"label":"PORT_SPEED","pattern":"745 mbps"}
+{"label":"PORT_SPEED","pattern":"746 mbps"}
+{"label":"PORT_SPEED","pattern":"747 mbps"}
+{"label":"PORT_SPEED","pattern":"748 mbps"}
+{"label":"PORT_SPEED","pattern":"749 mbps"}
+{"label":"PORT_SPEED","pattern":"750 mbps"}
+{"label":"PORT_SPEED","pattern":"751 mbps"}
+{"label":"PORT_SPEED","pattern":"752 mbps"}
+{"label":"PORT_SPEED","pattern":"753 mbps"}
+{"label":"PORT_SPEED","pattern":"754 mbps"}
+{"label":"PORT_SPEED","pattern":"755 mbps"}
+{"label":"PORT_SPEED","pattern":"756 mbps"}
+{"label":"PORT_SPEED","pattern":"757 mbps"}
+{"label":"PORT_SPEED","pattern":"758 mbps"}
+{"label":"PORT_SPEED","pattern":"759 mbps"}
+{"label":"PORT_SPEED","pattern":"760 mbps"}
+{"label":"PORT_SPEED","pattern":"761 mbps"}
+{"label":"PORT_SPEED","pattern":"762 mbps"}
+{"label":"PORT_SPEED","pattern":"763 mbps"}
+{"label":"PORT_SPEED","pattern":"764 mbps"}
+{"label":"PORT_SPEED","pattern":"765 mbps"}
+{"label":"PORT_SPEED","pattern":"766 mbps"}
+{"label":"PORT_SPEED","pattern":"767 mbps"}
+{"label":"PORT_SPEED","pattern":"768 mbps"}
+{"label":"PORT_SPEED","pattern":"769 mbps"}
+{"label":"PORT_SPEED","pattern":"770 mbps"}
+{"label":"PORT_SPEED","pattern":"771 mbps"}
+{"label":"PORT_SPEED","pattern":"772 mbps"}
+{"label":"PORT_SPEED","pattern":"773 mbps"}
+{"label":"PORT_SPEED","pattern":"774 mbps"}
+{"label":"PORT_SPEED","pattern":"775 mbps"}
+{"label":"PORT_SPEED","pattern":"776 mbps"}
+{"label":"PORT_SPEED","pattern":"777 mbps"}
+{"label":"PORT_SPEED","pattern":"778 mbps"}
+{"label":"PORT_SPEED","pattern":"779 mbps"}
+{"label":"PORT_SPEED","pattern":"780 mbps"}
+{"label":"PORT_SPEED","pattern":"781 mbps"}
+{"label":"PORT_SPEED","pattern":"782 mbps"}
+{"label":"PORT_SPEED","pattern":"783 mbps"}
+{"label":"PORT_SPEED","pattern":"784 mbps"}
+{"label":"PORT_SPEED","pattern":"785 mbps"}
+{"label":"PORT_SPEED","pattern":"786 mbps"}
+{"label":"PORT_SPEED","pattern":"787 mbps"}
+{"label":"PORT_SPEED","pattern":"788 mbps"}
+{"label":"PORT_SPEED","pattern":"789 mbps"}
+{"label":"PORT_SPEED","pattern":"790 mbps"}
+{"label":"PORT_SPEED","pattern":"791 mbps"}
+{"label":"PORT_SPEED","pattern":"792 mbps"}
+{"label":"PORT_SPEED","pattern":"793 mbps"}
+{"label":"PORT_SPEED","pattern":"794 mbps"}
+{"label":"PORT_SPEED","pattern":"795 mbps"}
+{"label":"PORT_SPEED","pattern":"796 mbps"}
+{"label":"PORT_SPEED","pattern":"797 mbps"}
+{"label":"PORT_SPEED","pattern":"798 mbps"}
+{"label":"PORT_SPEED","pattern":"799 mbps"}
+{"label":"PORT_SPEED","pattern":"800 mbps"}
+{"label":"PORT_SPEED","pattern":"801 mbps"}
+{"label":"PORT_SPEED","pattern":"802 mbps"}
+{"label":"PORT_SPEED","pattern":"803 mbps"}
+{"label":"PORT_SPEED","pattern":"804 mbps"}
+{"label":"PORT_SPEED","pattern":"805 mbps"}
+{"label":"PORT_SPEED","pattern":"806 mbps"}
+{"label":"PORT_SPEED","pattern":"807 mbps"}
+{"label":"PORT_SPEED","pattern":"808 mbps"}
+{"label":"PORT_SPEED","pattern":"809 mbps"}
+{"label":"PORT_SPEED","pattern":"810 mbps"}
+{"label":"PORT_SPEED","pattern":"811 mbps"}
+{"label":"PORT_SPEED","pattern":"812 mbps"}
+{"label":"PORT_SPEED","pattern":"813 mbps"}
+{"label":"PORT_SPEED","pattern":"814 mbps"}
+{"label":"PORT_SPEED","pattern":"815 mbps"}
+{"label":"PORT_SPEED","pattern":"816 mbps"}
+{"label":"PORT_SPEED","pattern":"817 mbps"}
+{"label":"PORT_SPEED","pattern":"818 mbps"}
+{"label":"PORT_SPEED","pattern":"819 mbps"}
+{"label":"PORT_SPEED","pattern":"820 mbps"}
+{"label":"PORT_SPEED","pattern":"821 mbps"}
+{"label":"PORT_SPEED","pattern":"822 mbps"}
+{"label":"PORT_SPEED","pattern":"823 mbps"}
+{"label":"PORT_SPEED","pattern":"824 mbps"}
+{"label":"PORT_SPEED","pattern":"825 mbps"}
+{"label":"PORT_SPEED","pattern":"826 mbps"}
+{"label":"PORT_SPEED","pattern":"827 mbps"}
+{"label":"PORT_SPEED","pattern":"828 mbps"}
+{"label":"PORT_SPEED","pattern":"829 mbps"}
+{"label":"PORT_SPEED","pattern":"830 mbps"}
+{"label":"PORT_SPEED","pattern":"831 mbps"}
+{"label":"PORT_SPEED","pattern":"832 mbps"}
+{"label":"PORT_SPEED","pattern":"833 mbps"}
+{"label":"PORT_SPEED","pattern":"834 mbps"}
+{"label":"PORT_SPEED","pattern":"835 mbps"}
+{"label":"PORT_SPEED","pattern":"836 mbps"}
+{"label":"PORT_SPEED","pattern":"837 mbps"}
+{"label":"PORT_SPEED","pattern":"838 mbps"}
+{"label":"PORT_SPEED","pattern":"839 mbps"}
+{"label":"PORT_SPEED","pattern":"840 mbps"}
+{"label":"PORT_SPEED","pattern":"841 mbps"}
+{"label":"PORT_SPEED","pattern":"842 mbps"}
+{"label":"PORT_SPEED","pattern":"843 mbps"}
+{"label":"PORT_SPEED","pattern":"844 mbps"}
+{"label":"PORT_SPEED","pattern":"845 mbps"}
+{"label":"PORT_SPEED","pattern":"846 mbps"}
+{"label":"PORT_SPEED","pattern":"847 mbps"}
+{"label":"PORT_SPEED","pattern":"848 mbps"}
+{"label":"PORT_SPEED","pattern":"849 mbps"}
+{"label":"PORT_SPEED","pattern":"850 mbps"}
+{"label":"PORT_SPEED","pattern":"851 mbps"}
+{"label":"PORT_SPEED","pattern":"852 mbps"}
+{"label":"PORT_SPEED","pattern":"853 mbps"}
+{"label":"PORT_SPEED","pattern":"854 mbps"}
+{"label":"PORT_SPEED","pattern":"855 mbps"}
+{"label":"PORT_SPEED","pattern":"856 mbps"}
+{"label":"PORT_SPEED","pattern":"857 mbps"}
+{"label":"PORT_SPEED","pattern":"858 mbps"}
+{"label":"PORT_SPEED","pattern":"859 mbps"}
+{"label":"PORT_SPEED","pattern":"860 mbps"}
+{"label":"PORT_SPEED","pattern":"861 mbps"}
+{"label":"PORT_SPEED","pattern":"862 mbps"}
+{"label":"PORT_SPEED","pattern":"863 mbps"}
+{"label":"PORT_SPEED","pattern":"864 mbps"}
+{"label":"PORT_SPEED","pattern":"865 mbps"}
+{"label":"PORT_SPEED","pattern":"866 mbps"}
+{"label":"PORT_SPEED","pattern":"867 mbps"}
+{"label":"PORT_SPEED","pattern":"868 mbps"}
+{"label":"PORT_SPEED","pattern":"869 mbps"}
+{"label":"PORT_SPEED","pattern":"870 mbps"}
+{"label":"PORT_SPEED","pattern":"871 mbps"}
+{"label":"PORT_SPEED","pattern":"872 mbps"}
+{"label":"PORT_SPEED","pattern":"873 mbps"}
+{"label":"PORT_SPEED","pattern":"874 mbps"}
+{"label":"PORT_SPEED","pattern":"875 mbps"}
+{"label":"PORT_SPEED","pattern":"876 mbps"}
+{"label":"PORT_SPEED","pattern":"877 mbps"}
+{"label":"PORT_SPEED","pattern":"878 mbps"}
+{"label":"PORT_SPEED","pattern":"879 mbps"}
+{"label":"PORT_SPEED","pattern":"880 mbps"}
+{"label":"PORT_SPEED","pattern":"881 mbps"}
+{"label":"PORT_SPEED","pattern":"882 mbps"}
+{"label":"PORT_SPEED","pattern":"883 mbps"}
+{"label":"PORT_SPEED","pattern":"884 mbps"}
+{"label":"PORT_SPEED","pattern":"885 mbps"}
+{"label":"PORT_SPEED","pattern":"886 mbps"}
+{"label":"PORT_SPEED","pattern":"887 mbps"}
+{"label":"PORT_SPEED","pattern":"888 mbps"}
+{"label":"PORT_SPEED","pattern":"889 mbps"}
+{"label":"PORT_SPEED","pattern":"890 mbps"}
+{"label":"PORT_SPEED","pattern":"891 mbps"}
+{"label":"PORT_SPEED","pattern":"892 mbps"}
+{"label":"PORT_SPEED","pattern":"893 mbps"}
+{"label":"PORT_SPEED","pattern":"894 mbps"}
+{"label":"PORT_SPEED","pattern":"895 mbps"}
+{"label":"PORT_SPEED","pattern":"896 mbps"}
+{"label":"PORT_SPEED","pattern":"897 mbps"}
+{"label":"PORT_SPEED","pattern":"898 mbps"}
+{"label":"PORT_SPEED","pattern":"899 mbps"}
+{"label":"PORT_SPEED","pattern":"900 mbps"}
+{"label":"PORT_SPEED","pattern":"901 mbps"}
+{"label":"PORT_SPEED","pattern":"902 mbps"}
+{"label":"PORT_SPEED","pattern":"903 mbps"}
+{"label":"PORT_SPEED","pattern":"904 mbps"}
+{"label":"PORT_SPEED","pattern":"905 mbps"}
+{"label":"PORT_SPEED","pattern":"906 mbps"}
+{"label":"PORT_SPEED","pattern":"907 mbps"}
+{"label":"PORT_SPEED","pattern":"908 mbps"}
+{"label":"PORT_SPEED","pattern":"909 mbps"}
+{"label":"PORT_SPEED","pattern":"910 mbps"}
+{"label":"PORT_SPEED","pattern":"911 mbps"}
+{"label":"PORT_SPEED","pattern":"912 mbps"}
+{"label":"PORT_SPEED","pattern":"913 mbps"}
+{"label":"PORT_SPEED","pattern":"914 mbps"}
+{"label":"PORT_SPEED","pattern":"915 mbps"}
+{"label":"PORT_SPEED","pattern":"916 mbps"}
+{"label":"PORT_SPEED","pattern":"917 mbps"}
+{"label":"PORT_SPEED","pattern":"918 mbps"}
+{"label":"PORT_SPEED","pattern":"919 mbps"}
+{"label":"PORT_SPEED","pattern":"920 mbps"}
+{"label":"PORT_SPEED","pattern":"921 mbps"}
+{"label":"PORT_SPEED","pattern":"922 mbps"}
+{"label":"PORT_SPEED","pattern":"923 mbps"}
+{"label":"PORT_SPEED","pattern":"924 mbps"}
+{"label":"PORT_SPEED","pattern":"925 mbps"}
+{"label":"PORT_SPEED","pattern":"926 mbps"}
+{"label":"PORT_SPEED","pattern":"927 mbps"}
+{"label":"PORT_SPEED","pattern":"928 mbps"}
+{"label":"PORT_SPEED","pattern":"929 mbps"}
+{"label":"PORT_SPEED","pattern":"930 mbps"}
+{"label":"PORT_SPEED","pattern":"931 mbps"}
+{"label":"PORT_SPEED","pattern":"932 mbps"}
+{"label":"PORT_SPEED","pattern":"933 mbps"}
+{"label":"PORT_SPEED","pattern":"934 mbps"}
+{"label":"PORT_SPEED","pattern":"935 mbps"}
+{"label":"PORT_SPEED","pattern":"936 mbps"}
+{"label":"PORT_SPEED","pattern":"937 mbps"}
+{"label":"PORT_SPEED","pattern":"938 mbps"}
+{"label":"PORT_SPEED","pattern":"939 mbps"}
+{"label":"PORT_SPEED","pattern":"940 mbps"}
+{"label":"PORT_SPEED","pattern":"941 mbps"}
+{"label":"PORT_SPEED","pattern":"942 mbps"}
+{"label":"PORT_SPEED","pattern":"943 mbps"}
+{"label":"PORT_SPEED","pattern":"944 mbps"}
+{"label":"PORT_SPEED","pattern":"945 mbps"}
+{"label":"PORT_SPEED","pattern":"946 mbps"}
+{"label":"PORT_SPEED","pattern":"947 mbps"}
+{"label":"PORT_SPEED","pattern":"948 mbps"}
+{"label":"PORT_SPEED","pattern":"949 mbps"}
+{"label":"PORT_SPEED","pattern":"950 mbps"}
+{"label":"PORT_SPEED","pattern":"951 mbps"}
+{"label":"PORT_SPEED","pattern":"952 mbps"}
+{"label":"PORT_SPEED","pattern":"953 mbps"}
+{"label":"PORT_SPEED","pattern":"954 mbps"}
+{"label":"PORT_SPEED","pattern":"955 mbps"}
+{"label":"PORT_SPEED","pattern":"956 mbps"}
+{"label":"PORT_SPEED","pattern":"957 mbps"}
+{"label":"PORT_SPEED","pattern":"958 mbps"}
+{"label":"PORT_SPEED","pattern":"959 mbps"}
+{"label":"PORT_SPEED","pattern":"960 mbps"}
+{"label":"PORT_SPEED","pattern":"961 mbps"}
+{"label":"PORT_SPEED","pattern":"962 mbps"}
+{"label":"PORT_SPEED","pattern":"963 mbps"}
+{"label":"PORT_SPEED","pattern":"964 mbps"}
+{"label":"PORT_SPEED","pattern":"965 mbps"}
+{"label":"PORT_SPEED","pattern":"966 mbps"}
+{"label":"PORT_SPEED","pattern":"967 mbps"}
+{"label":"PORT_SPEED","pattern":"968 mbps"}
+{"label":"PORT_SPEED","pattern":"969 mbps"}
+{"label":"PORT_SPEED","pattern":"970 mbps"}
+{"label":"PORT_SPEED","pattern":"971 mbps"}
+{"label":"PORT_SPEED","pattern":"972 mbps"}
+{"label":"PORT_SPEED","pattern":"973 mbps"}
+{"label":"PORT_SPEED","pattern":"974 mbps"}
+{"label":"PORT_SPEED","pattern":"975 mbps"}
+{"label":"PORT_SPEED","pattern":"976 mbps"}
+{"label":"PORT_SPEED","pattern":"977 mbps"}
+{"label":"PORT_SPEED","pattern":"978 mbps"}
+{"label":"PORT_SPEED","pattern":"979 mbps"}
+{"label":"PORT_SPEED","pattern":"980 mbps"}
+{"label":"PORT_SPEED","pattern":"981 mbps"}
+{"label":"PORT_SPEED","pattern":"982 mbps"}
+{"label":"PORT_SPEED","pattern":"983 mbps"}
+{"label":"PORT_SPEED","pattern":"984 mbps"}
+{"label":"PORT_SPEED","pattern":"985 mbps"}
+{"label":"PORT_SPEED","pattern":"986 mbps"}
+{"label":"PORT_SPEED","pattern":"987 mbps"}
+{"label":"PORT_SPEED","pattern":"988 mbps"}
+{"label":"PORT_SPEED","pattern":"989 mbps"}
+{"label":"PORT_SPEED","pattern":"990 mbps"}
+{"label":"PORT_SPEED","pattern":"991 mbps"}
+{"label":"PORT_SPEED","pattern":"992 mbps"}
+{"label":"PORT_SPEED","pattern":"993 mbps"}
+{"label":"PORT_SPEED","pattern":"994 mbps"}
+{"label":"PORT_SPEED","pattern":"995 mbps"}
+{"label":"PORT_SPEED","pattern":"996 mbps"}
+{"label":"PORT_SPEED","pattern":"997 mbps"}
+{"label":"PORT_SPEED","pattern":"998 mbps"}
+{"label":"PORT_SPEED","pattern":"999 mbps"}
+{"label":"PORT_SPEED","pattern":"1000 mbps"}
+{"label":"PORT_SPEED","pattern":"1 mb"}
+{"label":"PORT_SPEED","pattern":"2 mb"}
+{"label":"PORT_SPEED","pattern":"3 mb"}
+{"label":"PORT_SPEED","pattern":"4 mb"}
+{"label":"PORT_SPEED","pattern":"5 mb"}
+{"label":"PORT_SPEED","pattern":"6 mb"}
+{"label":"PORT_SPEED","pattern":"7 mb"}
+{"label":"PORT_SPEED","pattern":"8 mb"}
+{"label":"PORT_SPEED","pattern":"9 mb"}
+{"label":"PORT_SPEED","pattern":"10 mb"}
+{"label":"PORT_SPEED","pattern":"11 mb"}
+{"label":"PORT_SPEED","pattern":"12 mb"}
+{"label":"PORT_SPEED","pattern":"13 mb"}
+{"label":"PORT_SPEED","pattern":"14 mb"}
+{"label":"PORT_SPEED","pattern":"15 mb"}
+{"label":"PORT_SPEED","pattern":"16 mb"}
+{"label":"PORT_SPEED","pattern":"17 mb"}
+{"label":"PORT_SPEED","pattern":"18 mb"}
+{"label":"PORT_SPEED","pattern":"19 mb"}
+{"label":"PORT_SPEED","pattern":"20 mb"}
+{"label":"PORT_SPEED","pattern":"21 mb"}
+{"label":"PORT_SPEED","pattern":"22 mb"}
+{"label":"PORT_SPEED","pattern":"23 mb"}
+{"label":"PORT_SPEED","pattern":"24 mb"}
+{"label":"PORT_SPEED","pattern":"25 mb"}
+{"label":"PORT_SPEED","pattern":"26 mb"}
+{"label":"PORT_SPEED","pattern":"27 mb"}
+{"label":"PORT_SPEED","pattern":"28 mb"}
+{"label":"PORT_SPEED","pattern":"29 mb"}
+{"label":"PORT_SPEED","pattern":"30 mb"}
+{"label":"PORT_SPEED","pattern":"31 mb"}
+{"label":"PORT_SPEED","pattern":"32 mb"}
+{"label":"PORT_SPEED","pattern":"33 mb"}
+{"label":"PORT_SPEED","pattern":"34 mb"}
+{"label":"PORT_SPEED","pattern":"35 mb"}
+{"label":"PORT_SPEED","pattern":"36 mb"}
+{"label":"PORT_SPEED","pattern":"37 mb"}
+{"label":"PORT_SPEED","pattern":"38 mb"}
+{"label":"PORT_SPEED","pattern":"39 mb"}
+{"label":"PORT_SPEED","pattern":"40 mb"}
+{"label":"PORT_SPEED","pattern":"41 mb"}
+{"label":"PORT_SPEED","pattern":"42 mb"}
+{"label":"PORT_SPEED","pattern":"43 mb"}
+{"label":"PORT_SPEED","pattern":"44 mb"}
+{"label":"PORT_SPEED","pattern":"45 mb"}
+{"label":"PORT_SPEED","pattern":"46 mb"}
+{"label":"PORT_SPEED","pattern":"47 mb"}
+{"label":"PORT_SPEED","pattern":"48 mb"}
+{"label":"PORT_SPEED","pattern":"49 mb"}
+{"label":"PORT_SPEED","pattern":"50 mb"}
+{"label":"PORT_SPEED","pattern":"51 mb"}
+{"label":"PORT_SPEED","pattern":"52 mb"}
+{"label":"PORT_SPEED","pattern":"53 mb"}
+{"label":"PORT_SPEED","pattern":"54 mb"}
+{"label":"PORT_SPEED","pattern":"55 mb"}
+{"label":"PORT_SPEED","pattern":"56 mb"}
+{"label":"PORT_SPEED","pattern":"57 mb"}
+{"label":"PORT_SPEED","pattern":"58 mb"}
+{"label":"PORT_SPEED","pattern":"59 mb"}
+{"label":"PORT_SPEED","pattern":"60 mb"}
+{"label":"PORT_SPEED","pattern":"61 mb"}
+{"label":"PORT_SPEED","pattern":"62 mb"}
+{"label":"PORT_SPEED","pattern":"63 mb"}
+{"label":"PORT_SPEED","pattern":"64 mb"}
+{"label":"PORT_SPEED","pattern":"65 mb"}
+{"label":"PORT_SPEED","pattern":"66 mb"}
+{"label":"PORT_SPEED","pattern":"67 mb"}
+{"label":"PORT_SPEED","pattern":"68 mb"}
+{"label":"PORT_SPEED","pattern":"69 mb"}
+{"label":"PORT_SPEED","pattern":"70 mb"}
+{"label":"PORT_SPEED","pattern":"71 mb"}
+{"label":"PORT_SPEED","pattern":"72 mb"}
+{"label":"PORT_SPEED","pattern":"73 mb"}
+{"label":"PORT_SPEED","pattern":"74 mb"}
+{"label":"PORT_SPEED","pattern":"75 mb"}
+{"label":"PORT_SPEED","pattern":"76 mb"}
+{"label":"PORT_SPEED","pattern":"77 mb"}
+{"label":"PORT_SPEED","pattern":"78 mb"}
+{"label":"PORT_SPEED","pattern":"79 mb"}
+{"label":"PORT_SPEED","pattern":"80 mb"}
+{"label":"PORT_SPEED","pattern":"81 mb"}
+{"label":"PORT_SPEED","pattern":"82 mb"}
+{"label":"PORT_SPEED","pattern":"83 mb"}
+{"label":"PORT_SPEED","pattern":"84 mb"}
+{"label":"PORT_SPEED","pattern":"85 mb"}
+{"label":"PORT_SPEED","pattern":"86 mb"}
+{"label":"PORT_SPEED","pattern":"87 mb"}
+{"label":"PORT_SPEED","pattern":"88 mb"}
+{"label":"PORT_SPEED","pattern":"89 mb"}
+{"label":"PORT_SPEED","pattern":"90 mb"}
+{"label":"PORT_SPEED","pattern":"91 mb"}
+{"label":"PORT_SPEED","pattern":"92 mb"}
+{"label":"PORT_SPEED","pattern":"93 mb"}
+{"label":"PORT_SPEED","pattern":"94 mb"}
+{"label":"PORT_SPEED","pattern":"95 mb"}
+{"label":"PORT_SPEED","pattern":"96 mb"}
+{"label":"PORT_SPEED","pattern":"97 mb"}
+{"label":"PORT_SPEED","pattern":"98 mb"}
+{"label":"PORT_SPEED","pattern":"99 mb"}
+{"label":"PORT_SPEED","pattern":"100 mb"}
+{"label":"PORT_SPEED","pattern":"101 mb"}
+{"label":"PORT_SPEED","pattern":"102 mb"}
+{"label":"PORT_SPEED","pattern":"103 mb"}
+{"label":"PORT_SPEED","pattern":"104 mb"}
+{"label":"PORT_SPEED","pattern":"105 mb"}
+{"label":"PORT_SPEED","pattern":"106 mb"}
+{"label":"PORT_SPEED","pattern":"107 mb"}
+{"label":"PORT_SPEED","pattern":"108 mb"}
+{"label":"PORT_SPEED","pattern":"109 mb"}
+{"label":"PORT_SPEED","pattern":"110 mb"}
+{"label":"PORT_SPEED","pattern":"111 mb"}
+{"label":"PORT_SPEED","pattern":"112 mb"}
+{"label":"PORT_SPEED","pattern":"113 mb"}
+{"label":"PORT_SPEED","pattern":"114 mb"}
+{"label":"PORT_SPEED","pattern":"115 mb"}
+{"label":"PORT_SPEED","pattern":"116 mb"}
+{"label":"PORT_SPEED","pattern":"117 mb"}
+{"label":"PORT_SPEED","pattern":"118 mb"}
+{"label":"PORT_SPEED","pattern":"119 mb"}
+{"label":"PORT_SPEED","pattern":"120 mb"}
+{"label":"PORT_SPEED","pattern":"121 mb"}
+{"label":"PORT_SPEED","pattern":"122 mb"}
+{"label":"PORT_SPEED","pattern":"123 mb"}
+{"label":"PORT_SPEED","pattern":"124 mb"}
+{"label":"PORT_SPEED","pattern":"125 mb"}
+{"label":"PORT_SPEED","pattern":"126 mb"}
+{"label":"PORT_SPEED","pattern":"127 mb"}
+{"label":"PORT_SPEED","pattern":"128 mb"}
+{"label":"PORT_SPEED","pattern":"129 mb"}
+{"label":"PORT_SPEED","pattern":"130 mb"}
+{"label":"PORT_SPEED","pattern":"131 mb"}
+{"label":"PORT_SPEED","pattern":"132 mb"}
+{"label":"PORT_SPEED","pattern":"133 mb"}
+{"label":"PORT_SPEED","pattern":"134 mb"}
+{"label":"PORT_SPEED","pattern":"135 mb"}
+{"label":"PORT_SPEED","pattern":"136 mb"}
+{"label":"PORT_SPEED","pattern":"137 mb"}
+{"label":"PORT_SPEED","pattern":"138 mb"}
+{"label":"PORT_SPEED","pattern":"139 mb"}
+{"label":"PORT_SPEED","pattern":"140 mb"}
+{"label":"PORT_SPEED","pattern":"141 mb"}
+{"label":"PORT_SPEED","pattern":"142 mb"}
+{"label":"PORT_SPEED","pattern":"143 mb"}
+{"label":"PORT_SPEED","pattern":"144 mb"}
+{"label":"PORT_SPEED","pattern":"145 mb"}
+{"label":"PORT_SPEED","pattern":"146 mb"}
+{"label":"PORT_SPEED","pattern":"147 mb"}
+{"label":"PORT_SPEED","pattern":"148 mb"}
+{"label":"PORT_SPEED","pattern":"149 mb"}
+{"label":"PORT_SPEED","pattern":"150 mb"}
+{"label":"PORT_SPEED","pattern":"151 mb"}
+{"label":"PORT_SPEED","pattern":"152 mb"}
+{"label":"PORT_SPEED","pattern":"153 mb"}
+{"label":"PORT_SPEED","pattern":"154 mb"}
+{"label":"PORT_SPEED","pattern":"155 mb"}
+{"label":"PORT_SPEED","pattern":"156 mb"}
+{"label":"PORT_SPEED","pattern":"157 mb"}
+{"label":"PORT_SPEED","pattern":"158 mb"}
+{"label":"PORT_SPEED","pattern":"159 mb"}
+{"label":"PORT_SPEED","pattern":"160 mb"}
+{"label":"PORT_SPEED","pattern":"161 mb"}
+{"label":"PORT_SPEED","pattern":"162 mb"}
+{"label":"PORT_SPEED","pattern":"163 mb"}
+{"label":"PORT_SPEED","pattern":"164 mb"}
+{"label":"PORT_SPEED","pattern":"165 mb"}
+{"label":"PORT_SPEED","pattern":"166 mb"}
+{"label":"PORT_SPEED","pattern":"167 mb"}
+{"label":"PORT_SPEED","pattern":"168 mb"}
+{"label":"PORT_SPEED","pattern":"169 mb"}
+{"label":"PORT_SPEED","pattern":"170 mb"}
+{"label":"PORT_SPEED","pattern":"171 mb"}
+{"label":"PORT_SPEED","pattern":"172 mb"}
+{"label":"PORT_SPEED","pattern":"173 mb"}
+{"label":"PORT_SPEED","pattern":"174 mb"}
+{"label":"PORT_SPEED","pattern":"175 mb"}
+{"label":"PORT_SPEED","pattern":"176 mb"}
+{"label":"PORT_SPEED","pattern":"177 mb"}
+{"label":"PORT_SPEED","pattern":"178 mb"}
+{"label":"PORT_SPEED","pattern":"179 mb"}
+{"label":"PORT_SPEED","pattern":"180 mb"}
+{"label":"PORT_SPEED","pattern":"181 mb"}
+{"label":"PORT_SPEED","pattern":"182 mb"}
+{"label":"PORT_SPEED","pattern":"183 mb"}
+{"label":"PORT_SPEED","pattern":"184 mb"}
+{"label":"PORT_SPEED","pattern":"185 mb"}
+{"label":"PORT_SPEED","pattern":"186 mb"}
+{"label":"PORT_SPEED","pattern":"187 mb"}
+{"label":"PORT_SPEED","pattern":"188 mb"}
+{"label":"PORT_SPEED","pattern":"189 mb"}
+{"label":"PORT_SPEED","pattern":"190 mb"}
+{"label":"PORT_SPEED","pattern":"191 mb"}
+{"label":"PORT_SPEED","pattern":"192 mb"}
+{"label":"PORT_SPEED","pattern":"193 mb"}
+{"label":"PORT_SPEED","pattern":"194 mb"}
+{"label":"PORT_SPEED","pattern":"195 mb"}
+{"label":"PORT_SPEED","pattern":"196 mb"}
+{"label":"PORT_SPEED","pattern":"197 mb"}
+{"label":"PORT_SPEED","pattern":"198 mb"}
+{"label":"PORT_SPEED","pattern":"199 mb"}
+{"label":"PORT_SPEED","pattern":"200 mb"}
+{"label":"PORT_SPEED","pattern":"201 mb"}
+{"label":"PORT_SPEED","pattern":"202 mb"}
+{"label":"PORT_SPEED","pattern":"203 mb"}
+{"label":"PORT_SPEED","pattern":"204 mb"}
+{"label":"PORT_SPEED","pattern":"205 mb"}
+{"label":"PORT_SPEED","pattern":"206 mb"}
+{"label":"PORT_SPEED","pattern":"207 mb"}
+{"label":"PORT_SPEED","pattern":"208 mb"}
+{"label":"PORT_SPEED","pattern":"209 mb"}
+{"label":"PORT_SPEED","pattern":"210 mb"}
+{"label":"PORT_SPEED","pattern":"211 mb"}
+{"label":"PORT_SPEED","pattern":"212 mb"}
+{"label":"PORT_SPEED","pattern":"213 mb"}
+{"label":"PORT_SPEED","pattern":"214 mb"}
+{"label":"PORT_SPEED","pattern":"215 mb"}
+{"label":"PORT_SPEED","pattern":"216 mb"}
+{"label":"PORT_SPEED","pattern":"217 mb"}
+{"label":"PORT_SPEED","pattern":"218 mb"}
+{"label":"PORT_SPEED","pattern":"219 mb"}
+{"label":"PORT_SPEED","pattern":"220 mb"}
+{"label":"PORT_SPEED","pattern":"221 mb"}
+{"label":"PORT_SPEED","pattern":"222 mb"}
+{"label":"PORT_SPEED","pattern":"223 mb"}
+{"label":"PORT_SPEED","pattern":"224 mb"}
+{"label":"PORT_SPEED","pattern":"225 mb"}
+{"label":"PORT_SPEED","pattern":"226 mb"}
+{"label":"PORT_SPEED","pattern":"227 mb"}
+{"label":"PORT_SPEED","pattern":"228 mb"}
+{"label":"PORT_SPEED","pattern":"229 mb"}
+{"label":"PORT_SPEED","pattern":"230 mb"}
+{"label":"PORT_SPEED","pattern":"231 mb"}
+{"label":"PORT_SPEED","pattern":"232 mb"}
+{"label":"PORT_SPEED","pattern":"233 mb"}
+{"label":"PORT_SPEED","pattern":"234 mb"}
+{"label":"PORT_SPEED","pattern":"235 mb"}
+{"label":"PORT_SPEED","pattern":"236 mb"}
+{"label":"PORT_SPEED","pattern":"237 mb"}
+{"label":"PORT_SPEED","pattern":"238 mb"}
+{"label":"PORT_SPEED","pattern":"239 mb"}
+{"label":"PORT_SPEED","pattern":"240 mb"}
+{"label":"PORT_SPEED","pattern":"241 mb"}
+{"label":"PORT_SPEED","pattern":"242 mb"}
+{"label":"PORT_SPEED","pattern":"243 mb"}
+{"label":"PORT_SPEED","pattern":"244 mb"}
+{"label":"PORT_SPEED","pattern":"245 mb"}
+{"label":"PORT_SPEED","pattern":"246 mb"}
+{"label":"PORT_SPEED","pattern":"247 mb"}
+{"label":"PORT_SPEED","pattern":"248 mb"}
+{"label":"PORT_SPEED","pattern":"249 mb"}
+{"label":"PORT_SPEED","pattern":"250 mb"}
+{"label":"PORT_SPEED","pattern":"251 mb"}
+{"label":"PORT_SPEED","pattern":"252 mb"}
+{"label":"PORT_SPEED","pattern":"253 mb"}
+{"label":"PORT_SPEED","pattern":"254 mb"}
+{"label":"PORT_SPEED","pattern":"255 mb"}
+{"label":"PORT_SPEED","pattern":"256 mb"}
+{"label":"PORT_SPEED","pattern":"257 mb"}
+{"label":"PORT_SPEED","pattern":"258 mb"}
+{"label":"PORT_SPEED","pattern":"259 mb"}
+{"label":"PORT_SPEED","pattern":"260 mb"}
+{"label":"PORT_SPEED","pattern":"261 mb"}
+{"label":"PORT_SPEED","pattern":"262 mb"}
+{"label":"PORT_SPEED","pattern":"263 mb"}
+{"label":"PORT_SPEED","pattern":"264 mb"}
+{"label":"PORT_SPEED","pattern":"265 mb"}
+{"label":"PORT_SPEED","pattern":"266 mb"}
+{"label":"PORT_SPEED","pattern":"267 mb"}
+{"label":"PORT_SPEED","pattern":"268 mb"}
+{"label":"PORT_SPEED","pattern":"269 mb"}
+{"label":"PORT_SPEED","pattern":"270 mb"}
+{"label":"PORT_SPEED","pattern":"271 mb"}
+{"label":"PORT_SPEED","pattern":"272 mb"}
+{"label":"PORT_SPEED","pattern":"273 mb"}
+{"label":"PORT_SPEED","pattern":"274 mb"}
+{"label":"PORT_SPEED","pattern":"275 mb"}
+{"label":"PORT_SPEED","pattern":"276 mb"}
+{"label":"PORT_SPEED","pattern":"277 mb"}
+{"label":"PORT_SPEED","pattern":"278 mb"}
+{"label":"PORT_SPEED","pattern":"279 mb"}
+{"label":"PORT_SPEED","pattern":"280 mb"}
+{"label":"PORT_SPEED","pattern":"281 mb"}
+{"label":"PORT_SPEED","pattern":"282 mb"}
+{"label":"PORT_SPEED","pattern":"283 mb"}
+{"label":"PORT_SPEED","pattern":"284 mb"}
+{"label":"PORT_SPEED","pattern":"285 mb"}
+{"label":"PORT_SPEED","pattern":"286 mb"}
+{"label":"PORT_SPEED","pattern":"287 mb"}
+{"label":"PORT_SPEED","pattern":"288 mb"}
+{"label":"PORT_SPEED","pattern":"289 mb"}
+{"label":"PORT_SPEED","pattern":"290 mb"}
+{"label":"PORT_SPEED","pattern":"291 mb"}
+{"label":"PORT_SPEED","pattern":"292 mb"}
+{"label":"PORT_SPEED","pattern":"293 mb"}
+{"label":"PORT_SPEED","pattern":"294 mb"}
+{"label":"PORT_SPEED","pattern":"295 mb"}
+{"label":"PORT_SPEED","pattern":"296 mb"}
+{"label":"PORT_SPEED","pattern":"297 mb"}
+{"label":"PORT_SPEED","pattern":"298 mb"}
+{"label":"PORT_SPEED","pattern":"299 mb"}
+{"label":"PORT_SPEED","pattern":"300 mb"}
+{"label":"PORT_SPEED","pattern":"301 mb"}
+{"label":"PORT_SPEED","pattern":"302 mb"}
+{"label":"PORT_SPEED","pattern":"303 mb"}
+{"label":"PORT_SPEED","pattern":"304 mb"}
+{"label":"PORT_SPEED","pattern":"305 mb"}
+{"label":"PORT_SPEED","pattern":"306 mb"}
+{"label":"PORT_SPEED","pattern":"307 mb"}
+{"label":"PORT_SPEED","pattern":"308 mb"}
+{"label":"PORT_SPEED","pattern":"309 mb"}
+{"label":"PORT_SPEED","pattern":"310 mb"}
+{"label":"PORT_SPEED","pattern":"311 mb"}
+{"label":"PORT_SPEED","pattern":"312 mb"}
+{"label":"PORT_SPEED","pattern":"313 mb"}
+{"label":"PORT_SPEED","pattern":"314 mb"}
+{"label":"PORT_SPEED","pattern":"315 mb"}
+{"label":"PORT_SPEED","pattern":"316 mb"}
+{"label":"PORT_SPEED","pattern":"317 mb"}
+{"label":"PORT_SPEED","pattern":"318 mb"}
+{"label":"PORT_SPEED","pattern":"319 mb"}
+{"label":"PORT_SPEED","pattern":"320 mb"}
+{"label":"PORT_SPEED","pattern":"321 mb"}
+{"label":"PORT_SPEED","pattern":"322 mb"}
+{"label":"PORT_SPEED","pattern":"323 mb"}
+{"label":"PORT_SPEED","pattern":"324 mb"}
+{"label":"PORT_SPEED","pattern":"325 mb"}
+{"label":"PORT_SPEED","pattern":"326 mb"}
+{"label":"PORT_SPEED","pattern":"327 mb"}
+{"label":"PORT_SPEED","pattern":"328 mb"}
+{"label":"PORT_SPEED","pattern":"329 mb"}
+{"label":"PORT_SPEED","pattern":"330 mb"}
+{"label":"PORT_SPEED","pattern":"331 mb"}
+{"label":"PORT_SPEED","pattern":"332 mb"}
+{"label":"PORT_SPEED","pattern":"333 mb"}
+{"label":"PORT_SPEED","pattern":"334 mb"}
+{"label":"PORT_SPEED","pattern":"335 mb"}
+{"label":"PORT_SPEED","pattern":"336 mb"}
+{"label":"PORT_SPEED","pattern":"337 mb"}
+{"label":"PORT_SPEED","pattern":"338 mb"}
+{"label":"PORT_SPEED","pattern":"339 mb"}
+{"label":"PORT_SPEED","pattern":"340 mb"}
+{"label":"PORT_SPEED","pattern":"341 mb"}
+{"label":"PORT_SPEED","pattern":"342 mb"}
+{"label":"PORT_SPEED","pattern":"343 mb"}
+{"label":"PORT_SPEED","pattern":"344 mb"}
+{"label":"PORT_SPEED","pattern":"345 mb"}
+{"label":"PORT_SPEED","pattern":"346 mb"}
+{"label":"PORT_SPEED","pattern":"347 mb"}
+{"label":"PORT_SPEED","pattern":"348 mb"}
+{"label":"PORT_SPEED","pattern":"349 mb"}
+{"label":"PORT_SPEED","pattern":"350 mb"}
+{"label":"PORT_SPEED","pattern":"351 mb"}
+{"label":"PORT_SPEED","pattern":"352 mb"}
+{"label":"PORT_SPEED","pattern":"353 mb"}
+{"label":"PORT_SPEED","pattern":"354 mb"}
+{"label":"PORT_SPEED","pattern":"355 mb"}
+{"label":"PORT_SPEED","pattern":"356 mb"}
+{"label":"PORT_SPEED","pattern":"357 mb"}
+{"label":"PORT_SPEED","pattern":"358 mb"}
+{"label":"PORT_SPEED","pattern":"359 mb"}
+{"label":"PORT_SPEED","pattern":"360 mb"}
+{"label":"PORT_SPEED","pattern":"361 mb"}
+{"label":"PORT_SPEED","pattern":"362 mb"}
+{"label":"PORT_SPEED","pattern":"363 mb"}
+{"label":"PORT_SPEED","pattern":"364 mb"}
+{"label":"PORT_SPEED","pattern":"365 mb"}
+{"label":"PORT_SPEED","pattern":"366 mb"}
+{"label":"PORT_SPEED","pattern":"367 mb"}
+{"label":"PORT_SPEED","pattern":"368 mb"}
+{"label":"PORT_SPEED","pattern":"369 mb"}
+{"label":"PORT_SPEED","pattern":"370 mb"}
+{"label":"PORT_SPEED","pattern":"371 mb"}
+{"label":"PORT_SPEED","pattern":"372 mb"}
+{"label":"PORT_SPEED","pattern":"373 mb"}
+{"label":"PORT_SPEED","pattern":"374 mb"}
+{"label":"PORT_SPEED","pattern":"375 mb"}
+{"label":"PORT_SPEED","pattern":"376 mb"}
+{"label":"PORT_SPEED","pattern":"377 mb"}
+{"label":"PORT_SPEED","pattern":"378 mb"}
+{"label":"PORT_SPEED","pattern":"379 mb"}
+{"label":"PORT_SPEED","pattern":"380 mb"}
+{"label":"PORT_SPEED","pattern":"381 mb"}
+{"label":"PORT_SPEED","pattern":"382 mb"}
+{"label":"PORT_SPEED","pattern":"383 mb"}
+{"label":"PORT_SPEED","pattern":"384 mb"}
+{"label":"PORT_SPEED","pattern":"385 mb"}
+{"label":"PORT_SPEED","pattern":"386 mb"}
+{"label":"PORT_SPEED","pattern":"387 mb"}
+{"label":"PORT_SPEED","pattern":"388 mb"}
+{"label":"PORT_SPEED","pattern":"389 mb"}
+{"label":"PORT_SPEED","pattern":"390 mb"}
+{"label":"PORT_SPEED","pattern":"391 mb"}
+{"label":"PORT_SPEED","pattern":"392 mb"}
+{"label":"PORT_SPEED","pattern":"393 mb"}
+{"label":"PORT_SPEED","pattern":"394 mb"}
+{"label":"PORT_SPEED","pattern":"395 mb"}
+{"label":"PORT_SPEED","pattern":"396 mb"}
+{"label":"PORT_SPEED","pattern":"397 mb"}
+{"label":"PORT_SPEED","pattern":"398 mb"}
+{"label":"PORT_SPEED","pattern":"399 mb"}
+{"label":"PORT_SPEED","pattern":"400 mb"}
+{"label":"PORT_SPEED","pattern":"401 mb"}
+{"label":"PORT_SPEED","pattern":"402 mb"}
+{"label":"PORT_SPEED","pattern":"403 mb"}
+{"label":"PORT_SPEED","pattern":"404 mb"}
+{"label":"PORT_SPEED","pattern":"405 mb"}
+{"label":"PORT_SPEED","pattern":"406 mb"}
+{"label":"PORT_SPEED","pattern":"407 mb"}
+{"label":"PORT_SPEED","pattern":"408 mb"}
+{"label":"PORT_SPEED","pattern":"409 mb"}
+{"label":"PORT_SPEED","pattern":"410 mb"}
+{"label":"PORT_SPEED","pattern":"411 mb"}
+{"label":"PORT_SPEED","pattern":"412 mb"}
+{"label":"PORT_SPEED","pattern":"413 mb"}
+{"label":"PORT_SPEED","pattern":"414 mb"}
+{"label":"PORT_SPEED","pattern":"415 mb"}
+{"label":"PORT_SPEED","pattern":"416 mb"}
+{"label":"PORT_SPEED","pattern":"417 mb"}
+{"label":"PORT_SPEED","pattern":"418 mb"}
+{"label":"PORT_SPEED","pattern":"419 mb"}
+{"label":"PORT_SPEED","pattern":"420 mb"}
+{"label":"PORT_SPEED","pattern":"421 mb"}
+{"label":"PORT_SPEED","pattern":"422 mb"}
+{"label":"PORT_SPEED","pattern":"423 mb"}
+{"label":"PORT_SPEED","pattern":"424 mb"}
+{"label":"PORT_SPEED","pattern":"425 mb"}
+{"label":"PORT_SPEED","pattern":"426 mb"}
+{"label":"PORT_SPEED","pattern":"427 mb"}
+{"label":"PORT_SPEED","pattern":"428 mb"}
+{"label":"PORT_SPEED","pattern":"429 mb"}
+{"label":"PORT_SPEED","pattern":"430 mb"}
+{"label":"PORT_SPEED","pattern":"431 mb"}
+{"label":"PORT_SPEED","pattern":"432 mb"}
+{"label":"PORT_SPEED","pattern":"433 mb"}
+{"label":"PORT_SPEED","pattern":"434 mb"}
+{"label":"PORT_SPEED","pattern":"435 mb"}
+{"label":"PORT_SPEED","pattern":"436 mb"}
+{"label":"PORT_SPEED","pattern":"437 mb"}
+{"label":"PORT_SPEED","pattern":"438 mb"}
+{"label":"PORT_SPEED","pattern":"439 mb"}
+{"label":"PORT_SPEED","pattern":"440 mb"}
+{"label":"PORT_SPEED","pattern":"441 mb"}
+{"label":"PORT_SPEED","pattern":"442 mb"}
+{"label":"PORT_SPEED","pattern":"443 mb"}
+{"label":"PORT_SPEED","pattern":"444 mb"}
+{"label":"PORT_SPEED","pattern":"445 mb"}
+{"label":"PORT_SPEED","pattern":"446 mb"}
+{"label":"PORT_SPEED","pattern":"447 mb"}
+{"label":"PORT_SPEED","pattern":"448 mb"}
+{"label":"PORT_SPEED","pattern":"449 mb"}
+{"label":"PORT_SPEED","pattern":"450 mb"}
+{"label":"PORT_SPEED","pattern":"451 mb"}
+{"label":"PORT_SPEED","pattern":"452 mb"}
+{"label":"PORT_SPEED","pattern":"453 mb"}
+{"label":"PORT_SPEED","pattern":"454 mb"}
+{"label":"PORT_SPEED","pattern":"455 mb"}
+{"label":"PORT_SPEED","pattern":"456 mb"}
+{"label":"PORT_SPEED","pattern":"457 mb"}
+{"label":"PORT_SPEED","pattern":"458 mb"}
+{"label":"PORT_SPEED","pattern":"459 mb"}
+{"label":"PORT_SPEED","pattern":"460 mb"}
+{"label":"PORT_SPEED","pattern":"461 mb"}
+{"label":"PORT_SPEED","pattern":"462 mb"}
+{"label":"PORT_SPEED","pattern":"463 mb"}
+{"label":"PORT_SPEED","pattern":"464 mb"}
+{"label":"PORT_SPEED","pattern":"465 mb"}
+{"label":"PORT_SPEED","pattern":"466 mb"}
+{"label":"PORT_SPEED","pattern":"467 mb"}
+{"label":"PORT_SPEED","pattern":"468 mb"}
+{"label":"PORT_SPEED","pattern":"469 mb"}
+{"label":"PORT_SPEED","pattern":"470 mb"}
+{"label":"PORT_SPEED","pattern":"471 mb"}
+{"label":"PORT_SPEED","pattern":"472 mb"}
+{"label":"PORT_SPEED","pattern":"473 mb"}
+{"label":"PORT_SPEED","pattern":"474 mb"}
+{"label":"PORT_SPEED","pattern":"475 mb"}
+{"label":"PORT_SPEED","pattern":"476 mb"}
+{"label":"PORT_SPEED","pattern":"477 mb"}
+{"label":"PORT_SPEED","pattern":"478 mb"}
+{"label":"PORT_SPEED","pattern":"479 mb"}
+{"label":"PORT_SPEED","pattern":"480 mb"}
+{"label":"PORT_SPEED","pattern":"481 mb"}
+{"label":"PORT_SPEED","pattern":"482 mb"}
+{"label":"PORT_SPEED","pattern":"483 mb"}
+{"label":"PORT_SPEED","pattern":"484 mb"}
+{"label":"PORT_SPEED","pattern":"485 mb"}
+{"label":"PORT_SPEED","pattern":"486 mb"}
+{"label":"PORT_SPEED","pattern":"487 mb"}
+{"label":"PORT_SPEED","pattern":"488 mb"}
+{"label":"PORT_SPEED","pattern":"489 mb"}
+{"label":"PORT_SPEED","pattern":"490 mb"}
+{"label":"PORT_SPEED","pattern":"491 mb"}
+{"label":"PORT_SPEED","pattern":"492 mb"}
+{"label":"PORT_SPEED","pattern":"493 mb"}
+{"label":"PORT_SPEED","pattern":"494 mb"}
+{"label":"PORT_SPEED","pattern":"495 mb"}
+{"label":"PORT_SPEED","pattern":"496 mb"}
+{"label":"PORT_SPEED","pattern":"497 mb"}
+{"label":"PORT_SPEED","pattern":"498 mb"}
+{"label":"PORT_SPEED","pattern":"499 mb"}
+{"label":"PORT_SPEED","pattern":"500 mb"}
+{"label":"PORT_SPEED","pattern":"501 mb"}
+{"label":"PORT_SPEED","pattern":"502 mb"}
+{"label":"PORT_SPEED","pattern":"503 mb"}
+{"label":"PORT_SPEED","pattern":"504 mb"}
+{"label":"PORT_SPEED","pattern":"505 mb"}
+{"label":"PORT_SPEED","pattern":"506 mb"}
+{"label":"PORT_SPEED","pattern":"507 mb"}
+{"label":"PORT_SPEED","pattern":"508 mb"}
+{"label":"PORT_SPEED","pattern":"509 mb"}
+{"label":"PORT_SPEED","pattern":"510 mb"}
+{"label":"PORT_SPEED","pattern":"511 mb"}
+{"label":"PORT_SPEED","pattern":"512 mb"}
+{"label":"PORT_SPEED","pattern":"513 mb"}
+{"label":"PORT_SPEED","pattern":"514 mb"}
+{"label":"PORT_SPEED","pattern":"515 mb"}
+{"label":"PORT_SPEED","pattern":"516 mb"}
+{"label":"PORT_SPEED","pattern":"517 mb"}
+{"label":"PORT_SPEED","pattern":"518 mb"}
+{"label":"PORT_SPEED","pattern":"519 mb"}
+{"label":"PORT_SPEED","pattern":"520 mb"}
+{"label":"PORT_SPEED","pattern":"521 mb"}
+{"label":"PORT_SPEED","pattern":"522 mb"}
+{"label":"PORT_SPEED","pattern":"523 mb"}
+{"label":"PORT_SPEED","pattern":"524 mb"}
+{"label":"PORT_SPEED","pattern":"525 mb"}
+{"label":"PORT_SPEED","pattern":"526 mb"}
+{"label":"PORT_SPEED","pattern":"527 mb"}
+{"label":"PORT_SPEED","pattern":"528 mb"}
+{"label":"PORT_SPEED","pattern":"529 mb"}
+{"label":"PORT_SPEED","pattern":"530 mb"}
+{"label":"PORT_SPEED","pattern":"531 mb"}
+{"label":"PORT_SPEED","pattern":"532 mb"}
+{"label":"PORT_SPEED","pattern":"533 mb"}
+{"label":"PORT_SPEED","pattern":"534 mb"}
+{"label":"PORT_SPEED","pattern":"535 mb"}
+{"label":"PORT_SPEED","pattern":"536 mb"}
+{"label":"PORT_SPEED","pattern":"537 mb"}
+{"label":"PORT_SPEED","pattern":"538 mb"}
+{"label":"PORT_SPEED","pattern":"539 mb"}
+{"label":"PORT_SPEED","pattern":"540 mb"}
+{"label":"PORT_SPEED","pattern":"541 mb"}
+{"label":"PORT_SPEED","pattern":"542 mb"}
+{"label":"PORT_SPEED","pattern":"543 mb"}
+{"label":"PORT_SPEED","pattern":"544 mb"}
+{"label":"PORT_SPEED","pattern":"545 mb"}
+{"label":"PORT_SPEED","pattern":"546 mb"}
+{"label":"PORT_SPEED","pattern":"547 mb"}
+{"label":"PORT_SPEED","pattern":"548 mb"}
+{"label":"PORT_SPEED","pattern":"549 mb"}
+{"label":"PORT_SPEED","pattern":"550 mb"}
+{"label":"PORT_SPEED","pattern":"551 mb"}
+{"label":"PORT_SPEED","pattern":"552 mb"}
+{"label":"PORT_SPEED","pattern":"553 mb"}
+{"label":"PORT_SPEED","pattern":"554 mb"}
+{"label":"PORT_SPEED","pattern":"555 mb"}
+{"label":"PORT_SPEED","pattern":"556 mb"}
+{"label":"PORT_SPEED","pattern":"557 mb"}
+{"label":"PORT_SPEED","pattern":"558 mb"}
+{"label":"PORT_SPEED","pattern":"559 mb"}
+{"label":"PORT_SPEED","pattern":"560 mb"}
+{"label":"PORT_SPEED","pattern":"561 mb"}
+{"label":"PORT_SPEED","pattern":"562 mb"}
+{"label":"PORT_SPEED","pattern":"563 mb"}
+{"label":"PORT_SPEED","pattern":"564 mb"}
+{"label":"PORT_SPEED","pattern":"565 mb"}
+{"label":"PORT_SPEED","pattern":"566 mb"}
+{"label":"PORT_SPEED","pattern":"567 mb"}
+{"label":"PORT_SPEED","pattern":"568 mb"}
+{"label":"PORT_SPEED","pattern":"569 mb"}
+{"label":"PORT_SPEED","pattern":"570 mb"}
+{"label":"PORT_SPEED","pattern":"571 mb"}
+{"label":"PORT_SPEED","pattern":"572 mb"}
+{"label":"PORT_SPEED","pattern":"573 mb"}
+{"label":"PORT_SPEED","pattern":"574 mb"}
+{"label":"PORT_SPEED","pattern":"575 mb"}
+{"label":"PORT_SPEED","pattern":"576 mb"}
+{"label":"PORT_SPEED","pattern":"577 mb"}
+{"label":"PORT_SPEED","pattern":"578 mb"}
+{"label":"PORT_SPEED","pattern":"579 mb"}
+{"label":"PORT_SPEED","pattern":"580 mb"}
+{"label":"PORT_SPEED","pattern":"581 mb"}
+{"label":"PORT_SPEED","pattern":"582 mb"}
+{"label":"PORT_SPEED","pattern":"583 mb"}
+{"label":"PORT_SPEED","pattern":"584 mb"}
+{"label":"PORT_SPEED","pattern":"585 mb"}
+{"label":"PORT_SPEED","pattern":"586 mb"}
+{"label":"PORT_SPEED","pattern":"587 mb"}
+{"label":"PORT_SPEED","pattern":"588 mb"}
+{"label":"PORT_SPEED","pattern":"589 mb"}
+{"label":"PORT_SPEED","pattern":"590 mb"}
+{"label":"PORT_SPEED","pattern":"591 mb"}
+{"label":"PORT_SPEED","pattern":"592 mb"}
+{"label":"PORT_SPEED","pattern":"593 mb"}
+{"label":"PORT_SPEED","pattern":"594 mb"}
+{"label":"PORT_SPEED","pattern":"595 mb"}
+{"label":"PORT_SPEED","pattern":"596 mb"}
+{"label":"PORT_SPEED","pattern":"597 mb"}
+{"label":"PORT_SPEED","pattern":"598 mb"}
+{"label":"PORT_SPEED","pattern":"599 mb"}
+{"label":"PORT_SPEED","pattern":"600 mb"}
+{"label":"PORT_SPEED","pattern":"601 mb"}
+{"label":"PORT_SPEED","pattern":"602 mb"}
+{"label":"PORT_SPEED","pattern":"603 mb"}
+{"label":"PORT_SPEED","pattern":"604 mb"}
+{"label":"PORT_SPEED","pattern":"605 mb"}
+{"label":"PORT_SPEED","pattern":"606 mb"}
+{"label":"PORT_SPEED","pattern":"607 mb"}
+{"label":"PORT_SPEED","pattern":"608 mb"}
+{"label":"PORT_SPEED","pattern":"609 mb"}
+{"label":"PORT_SPEED","pattern":"610 mb"}
+{"label":"PORT_SPEED","pattern":"611 mb"}
+{"label":"PORT_SPEED","pattern":"612 mb"}
+{"label":"PORT_SPEED","pattern":"613 mb"}
+{"label":"PORT_SPEED","pattern":"614 mb"}
+{"label":"PORT_SPEED","pattern":"615 mb"}
+{"label":"PORT_SPEED","pattern":"616 mb"}
+{"label":"PORT_SPEED","pattern":"617 mb"}
+{"label":"PORT_SPEED","pattern":"618 mb"}
+{"label":"PORT_SPEED","pattern":"619 mb"}
+{"label":"PORT_SPEED","pattern":"620 mb"}
+{"label":"PORT_SPEED","pattern":"621 mb"}
+{"label":"PORT_SPEED","pattern":"622 mb"}
+{"label":"PORT_SPEED","pattern":"623 mb"}
+{"label":"PORT_SPEED","pattern":"624 mb"}
+{"label":"PORT_SPEED","pattern":"625 mb"}
+{"label":"PORT_SPEED","pattern":"626 mb"}
+{"label":"PORT_SPEED","pattern":"627 mb"}
+{"label":"PORT_SPEED","pattern":"628 mb"}
+{"label":"PORT_SPEED","pattern":"629 mb"}
+{"label":"PORT_SPEED","pattern":"630 mb"}
+{"label":"PORT_SPEED","pattern":"631 mb"}
+{"label":"PORT_SPEED","pattern":"632 mb"}
+{"label":"PORT_SPEED","pattern":"633 mb"}
+{"label":"PORT_SPEED","pattern":"634 mb"}
+{"label":"PORT_SPEED","pattern":"635 mb"}
+{"label":"PORT_SPEED","pattern":"636 mb"}
+{"label":"PORT_SPEED","pattern":"637 mb"}
+{"label":"PORT_SPEED","pattern":"638 mb"}
+{"label":"PORT_SPEED","pattern":"639 mb"}
+{"label":"PORT_SPEED","pattern":"640 mb"}
+{"label":"PORT_SPEED","pattern":"641 mb"}
+{"label":"PORT_SPEED","pattern":"642 mb"}
+{"label":"PORT_SPEED","pattern":"643 mb"}
+{"label":"PORT_SPEED","pattern":"644 mb"}
+{"label":"PORT_SPEED","pattern":"645 mb"}
+{"label":"PORT_SPEED","pattern":"646 mb"}
+{"label":"PORT_SPEED","pattern":"647 mb"}
+{"label":"PORT_SPEED","pattern":"648 mb"}
+{"label":"PORT_SPEED","pattern":"649 mb"}
+{"label":"PORT_SPEED","pattern":"650 mb"}
+{"label":"PORT_SPEED","pattern":"651 mb"}
+{"label":"PORT_SPEED","pattern":"652 mb"}
+{"label":"PORT_SPEED","pattern":"653 mb"}
+{"label":"PORT_SPEED","pattern":"654 mb"}
+{"label":"PORT_SPEED","pattern":"655 mb"}
+{"label":"PORT_SPEED","pattern":"656 mb"}
+{"label":"PORT_SPEED","pattern":"657 mb"}
+{"label":"PORT_SPEED","pattern":"658 mb"}
+{"label":"PORT_SPEED","pattern":"659 mb"}
+{"label":"PORT_SPEED","pattern":"660 mb"}
+{"label":"PORT_SPEED","pattern":"661 mb"}
+{"label":"PORT_SPEED","pattern":"662 mb"}
+{"label":"PORT_SPEED","pattern":"663 mb"}
+{"label":"PORT_SPEED","pattern":"664 mb"}
+{"label":"PORT_SPEED","pattern":"665 mb"}
+{"label":"PORT_SPEED","pattern":"666 mb"}
+{"label":"PORT_SPEED","pattern":"667 mb"}
+{"label":"PORT_SPEED","pattern":"668 mb"}
+{"label":"PORT_SPEED","pattern":"669 mb"}
+{"label":"PORT_SPEED","pattern":"670 mb"}
+{"label":"PORT_SPEED","pattern":"671 mb"}
+{"label":"PORT_SPEED","pattern":"672 mb"}
+{"label":"PORT_SPEED","pattern":"673 mb"}
+{"label":"PORT_SPEED","pattern":"674 mb"}
+{"label":"PORT_SPEED","pattern":"675 mb"}
+{"label":"PORT_SPEED","pattern":"676 mb"}
+{"label":"PORT_SPEED","pattern":"677 mb"}
+{"label":"PORT_SPEED","pattern":"678 mb"}
+{"label":"PORT_SPEED","pattern":"679 mb"}
+{"label":"PORT_SPEED","pattern":"680 mb"}
+{"label":"PORT_SPEED","pattern":"681 mb"}
+{"label":"PORT_SPEED","pattern":"682 mb"}
+{"label":"PORT_SPEED","pattern":"683 mb"}
+{"label":"PORT_SPEED","pattern":"684 mb"}
+{"label":"PORT_SPEED","pattern":"685 mb"}
+{"label":"PORT_SPEED","pattern":"686 mb"}
+{"label":"PORT_SPEED","pattern":"687 mb"}
+{"label":"PORT_SPEED","pattern":"688 mb"}
+{"label":"PORT_SPEED","pattern":"689 mb"}
+{"label":"PORT_SPEED","pattern":"690 mb"}
+{"label":"PORT_SPEED","pattern":"691 mb"}
+{"label":"PORT_SPEED","pattern":"692 mb"}
+{"label":"PORT_SPEED","pattern":"693 mb"}
+{"label":"PORT_SPEED","pattern":"694 mb"}
+{"label":"PORT_SPEED","pattern":"695 mb"}
+{"label":"PORT_SPEED","pattern":"696 mb"}
+{"label":"PORT_SPEED","pattern":"697 mb"}
+{"label":"PORT_SPEED","pattern":"698 mb"}
+{"label":"PORT_SPEED","pattern":"699 mb"}
+{"label":"PORT_SPEED","pattern":"700 mb"}
+{"label":"PORT_SPEED","pattern":"701 mb"}
+{"label":"PORT_SPEED","pattern":"702 mb"}
+{"label":"PORT_SPEED","pattern":"703 mb"}
+{"label":"PORT_SPEED","pattern":"704 mb"}
+{"label":"PORT_SPEED","pattern":"705 mb"}
+{"label":"PORT_SPEED","pattern":"706 mb"}
+{"label":"PORT_SPEED","pattern":"707 mb"}
+{"label":"PORT_SPEED","pattern":"708 mb"}
+{"label":"PORT_SPEED","pattern":"709 mb"}
+{"label":"PORT_SPEED","pattern":"710 mb"}
+{"label":"PORT_SPEED","pattern":"711 mb"}
+{"label":"PORT_SPEED","pattern":"712 mb"}
+{"label":"PORT_SPEED","pattern":"713 mb"}
+{"label":"PORT_SPEED","pattern":"714 mb"}
+{"label":"PORT_SPEED","pattern":"715 mb"}
+{"label":"PORT_SPEED","pattern":"716 mb"}
+{"label":"PORT_SPEED","pattern":"717 mb"}
+{"label":"PORT_SPEED","pattern":"718 mb"}
+{"label":"PORT_SPEED","pattern":"719 mb"}
+{"label":"PORT_SPEED","pattern":"720 mb"}
+{"label":"PORT_SPEED","pattern":"721 mb"}
+{"label":"PORT_SPEED","pattern":"722 mb"}
+{"label":"PORT_SPEED","pattern":"723 mb"}
+{"label":"PORT_SPEED","pattern":"724 mb"}
+{"label":"PORT_SPEED","pattern":"725 mb"}
+{"label":"PORT_SPEED","pattern":"726 mb"}
+{"label":"PORT_SPEED","pattern":"727 mb"}
+{"label":"PORT_SPEED","pattern":"728 mb"}
+{"label":"PORT_SPEED","pattern":"729 mb"}
+{"label":"PORT_SPEED","pattern":"730 mb"}
+{"label":"PORT_SPEED","pattern":"731 mb"}
+{"label":"PORT_SPEED","pattern":"732 mb"}
+{"label":"PORT_SPEED","pattern":"733 mb"}
+{"label":"PORT_SPEED","pattern":"734 mb"}
+{"label":"PORT_SPEED","pattern":"735 mb"}
+{"label":"PORT_SPEED","pattern":"736 mb"}
+{"label":"PORT_SPEED","pattern":"737 mb"}
+{"label":"PORT_SPEED","pattern":"738 mb"}
+{"label":"PORT_SPEED","pattern":"739 mb"}
+{"label":"PORT_SPEED","pattern":"740 mb"}
+{"label":"PORT_SPEED","pattern":"741 mb"}
+{"label":"PORT_SPEED","pattern":"742 mb"}
+{"label":"PORT_SPEED","pattern":"743 mb"}
+{"label":"PORT_SPEED","pattern":"744 mb"}
+{"label":"PORT_SPEED","pattern":"745 mb"}
+{"label":"PORT_SPEED","pattern":"746 mb"}
+{"label":"PORT_SPEED","pattern":"747 mb"}
+{"label":"PORT_SPEED","pattern":"748 mb"}
+{"label":"PORT_SPEED","pattern":"749 mb"}
+{"label":"PORT_SPEED","pattern":"750 mb"}
+{"label":"PORT_SPEED","pattern":"751 mb"}
+{"label":"PORT_SPEED","pattern":"752 mb"}
+{"label":"PORT_SPEED","pattern":"753 mb"}
+{"label":"PORT_SPEED","pattern":"754 mb"}
+{"label":"PORT_SPEED","pattern":"755 mb"}
+{"label":"PORT_SPEED","pattern":"756 mb"}
+{"label":"PORT_SPEED","pattern":"757 mb"}
+{"label":"PORT_SPEED","pattern":"758 mb"}
+{"label":"PORT_SPEED","pattern":"759 mb"}
+{"label":"PORT_SPEED","pattern":"760 mb"}
+{"label":"PORT_SPEED","pattern":"761 mb"}
+{"label":"PORT_SPEED","pattern":"762 mb"}
+{"label":"PORT_SPEED","pattern":"763 mb"}
+{"label":"PORT_SPEED","pattern":"764 mb"}
+{"label":"PORT_SPEED","pattern":"765 mb"}
+{"label":"PORT_SPEED","pattern":"766 mb"}
+{"label":"PORT_SPEED","pattern":"767 mb"}
+{"label":"PORT_SPEED","pattern":"768 mb"}
+{"label":"PORT_SPEED","pattern":"769 mb"}
+{"label":"PORT_SPEED","pattern":"770 mb"}
+{"label":"PORT_SPEED","pattern":"771 mb"}
+{"label":"PORT_SPEED","pattern":"772 mb"}
+{"label":"PORT_SPEED","pattern":"773 mb"}
+{"label":"PORT_SPEED","pattern":"774 mb"}
+{"label":"PORT_SPEED","pattern":"775 mb"}
+{"label":"PORT_SPEED","pattern":"776 mb"}
+{"label":"PORT_SPEED","pattern":"777 mb"}
+{"label":"PORT_SPEED","pattern":"778 mb"}
+{"label":"PORT_SPEED","pattern":"779 mb"}
+{"label":"PORT_SPEED","pattern":"780 mb"}
+{"label":"PORT_SPEED","pattern":"781 mb"}
+{"label":"PORT_SPEED","pattern":"782 mb"}
+{"label":"PORT_SPEED","pattern":"783 mb"}
+{"label":"PORT_SPEED","pattern":"784 mb"}
+{"label":"PORT_SPEED","pattern":"785 mb"}
+{"label":"PORT_SPEED","pattern":"786 mb"}
+{"label":"PORT_SPEED","pattern":"787 mb"}
+{"label":"PORT_SPEED","pattern":"788 mb"}
+{"label":"PORT_SPEED","pattern":"789 mb"}
+{"label":"PORT_SPEED","pattern":"790 mb"}
+{"label":"PORT_SPEED","pattern":"791 mb"}
+{"label":"PORT_SPEED","pattern":"792 mb"}
+{"label":"PORT_SPEED","pattern":"793 mb"}
+{"label":"PORT_SPEED","pattern":"794 mb"}
+{"label":"PORT_SPEED","pattern":"795 mb"}
+{"label":"PORT_SPEED","pattern":"796 mb"}
+{"label":"PORT_SPEED","pattern":"797 mb"}
+{"label":"PORT_SPEED","pattern":"798 mb"}
+{"label":"PORT_SPEED","pattern":"799 mb"}
+{"label":"PORT_SPEED","pattern":"800 mb"}
+{"label":"PORT_SPEED","pattern":"801 mb"}
+{"label":"PORT_SPEED","pattern":"802 mb"}
+{"label":"PORT_SPEED","pattern":"803 mb"}
+{"label":"PORT_SPEED","pattern":"804 mb"}
+{"label":"PORT_SPEED","pattern":"805 mb"}
+{"label":"PORT_SPEED","pattern":"806 mb"}
+{"label":"PORT_SPEED","pattern":"807 mb"}
+{"label":"PORT_SPEED","pattern":"808 mb"}
+{"label":"PORT_SPEED","pattern":"809 mb"}
+{"label":"PORT_SPEED","pattern":"810 mb"}
+{"label":"PORT_SPEED","pattern":"811 mb"}
+{"label":"PORT_SPEED","pattern":"812 mb"}
+{"label":"PORT_SPEED","pattern":"813 mb"}
+{"label":"PORT_SPEED","pattern":"814 mb"}
+{"label":"PORT_SPEED","pattern":"815 mb"}
+{"label":"PORT_SPEED","pattern":"816 mb"}
+{"label":"PORT_SPEED","pattern":"817 mb"}
+{"label":"PORT_SPEED","pattern":"818 mb"}
+{"label":"PORT_SPEED","pattern":"819 mb"}
+{"label":"PORT_SPEED","pattern":"820 mb"}
+{"label":"PORT_SPEED","pattern":"821 mb"}
+{"label":"PORT_SPEED","pattern":"822 mb"}
+{"label":"PORT_SPEED","pattern":"823 mb"}
+{"label":"PORT_SPEED","pattern":"824 mb"}
+{"label":"PORT_SPEED","pattern":"825 mb"}
+{"label":"PORT_SPEED","pattern":"826 mb"}
+{"label":"PORT_SPEED","pattern":"827 mb"}
+{"label":"PORT_SPEED","pattern":"828 mb"}
+{"label":"PORT_SPEED","pattern":"829 mb"}
+{"label":"PORT_SPEED","pattern":"830 mb"}
+{"label":"PORT_SPEED","pattern":"831 mb"}
+{"label":"PORT_SPEED","pattern":"832 mb"}
+{"label":"PORT_SPEED","pattern":"833 mb"}
+{"label":"PORT_SPEED","pattern":"834 mb"}
+{"label":"PORT_SPEED","pattern":"835 mb"}
+{"label":"PORT_SPEED","pattern":"836 mb"}
+{"label":"PORT_SPEED","pattern":"837 mb"}
+{"label":"PORT_SPEED","pattern":"838 mb"}
+{"label":"PORT_SPEED","pattern":"839 mb"}
+{"label":"PORT_SPEED","pattern":"840 mb"}
+{"label":"PORT_SPEED","pattern":"841 mb"}
+{"label":"PORT_SPEED","pattern":"842 mb"}
+{"label":"PORT_SPEED","pattern":"843 mb"}
+{"label":"PORT_SPEED","pattern":"844 mb"}
+{"label":"PORT_SPEED","pattern":"845 mb"}
+{"label":"PORT_SPEED","pattern":"846 mb"}
+{"label":"PORT_SPEED","pattern":"847 mb"}
+{"label":"PORT_SPEED","pattern":"848 mb"}
+{"label":"PORT_SPEED","pattern":"849 mb"}
+{"label":"PORT_SPEED","pattern":"850 mb"}
+{"label":"PORT_SPEED","pattern":"851 mb"}
+{"label":"PORT_SPEED","pattern":"852 mb"}
+{"label":"PORT_SPEED","pattern":"853 mb"}
+{"label":"PORT_SPEED","pattern":"854 mb"}
+{"label":"PORT_SPEED","pattern":"855 mb"}
+{"label":"PORT_SPEED","pattern":"856 mb"}
+{"label":"PORT_SPEED","pattern":"857 mb"}
+{"label":"PORT_SPEED","pattern":"858 mb"}
+{"label":"PORT_SPEED","pattern":"859 mb"}
+{"label":"PORT_SPEED","pattern":"860 mb"}
+{"label":"PORT_SPEED","pattern":"861 mb"}
+{"label":"PORT_SPEED","pattern":"862 mb"}
+{"label":"PORT_SPEED","pattern":"863 mb"}
+{"label":"PORT_SPEED","pattern":"864 mb"}
+{"label":"PORT_SPEED","pattern":"865 mb"}
+{"label":"PORT_SPEED","pattern":"866 mb"}
+{"label":"PORT_SPEED","pattern":"867 mb"}
+{"label":"PORT_SPEED","pattern":"868 mb"}
+{"label":"PORT_SPEED","pattern":"869 mb"}
+{"label":"PORT_SPEED","pattern":"870 mb"}
+{"label":"PORT_SPEED","pattern":"871 mb"}
+{"label":"PORT_SPEED","pattern":"872 mb"}
+{"label":"PORT_SPEED","pattern":"873 mb"}
+{"label":"PORT_SPEED","pattern":"874 mb"}
+{"label":"PORT_SPEED","pattern":"875 mb"}
+{"label":"PORT_SPEED","pattern":"876 mb"}
+{"label":"PORT_SPEED","pattern":"877 mb"}
+{"label":"PORT_SPEED","pattern":"878 mb"}
+{"label":"PORT_SPEED","pattern":"879 mb"}
+{"label":"PORT_SPEED","pattern":"880 mb"}
+{"label":"PORT_SPEED","pattern":"881 mb"}
+{"label":"PORT_SPEED","pattern":"882 mb"}
+{"label":"PORT_SPEED","pattern":"883 mb"}
+{"label":"PORT_SPEED","pattern":"884 mb"}
+{"label":"PORT_SPEED","pattern":"885 mb"}
+{"label":"PORT_SPEED","pattern":"886 mb"}
+{"label":"PORT_SPEED","pattern":"887 mb"}
+{"label":"PORT_SPEED","pattern":"888 mb"}
+{"label":"PORT_SPEED","pattern":"889 mb"}
+{"label":"PORT_SPEED","pattern":"890 mb"}
+{"label":"PORT_SPEED","pattern":"891 mb"}
+{"label":"PORT_SPEED","pattern":"892 mb"}
+{"label":"PORT_SPEED","pattern":"893 mb"}
+{"label":"PORT_SPEED","pattern":"894 mb"}
+{"label":"PORT_SPEED","pattern":"895 mb"}
+{"label":"PORT_SPEED","pattern":"896 mb"}
+{"label":"PORT_SPEED","pattern":"897 mb"}
+{"label":"PORT_SPEED","pattern":"898 mb"}
+{"label":"PORT_SPEED","pattern":"899 mb"}
+{"label":"PORT_SPEED","pattern":"900 mb"}
+{"label":"PORT_SPEED","pattern":"901 mb"}
+{"label":"PORT_SPEED","pattern":"902 mb"}
+{"label":"PORT_SPEED","pattern":"903 mb"}
+{"label":"PORT_SPEED","pattern":"904 mb"}
+{"label":"PORT_SPEED","pattern":"905 mb"}
+{"label":"PORT_SPEED","pattern":"906 mb"}
+{"label":"PORT_SPEED","pattern":"907 mb"}
+{"label":"PORT_SPEED","pattern":"908 mb"}
+{"label":"PORT_SPEED","pattern":"909 mb"}
+{"label":"PORT_SPEED","pattern":"910 mb"}
+{"label":"PORT_SPEED","pattern":"911 mb"}
+{"label":"PORT_SPEED","pattern":"912 mb"}
+{"label":"PORT_SPEED","pattern":"913 mb"}
+{"label":"PORT_SPEED","pattern":"914 mb"}
+{"label":"PORT_SPEED","pattern":"915 mb"}
+{"label":"PORT_SPEED","pattern":"916 mb"}
+{"label":"PORT_SPEED","pattern":"917 mb"}
+{"label":"PORT_SPEED","pattern":"918 mb"}
+{"label":"PORT_SPEED","pattern":"919 mb"}
+{"label":"PORT_SPEED","pattern":"920 mb"}
+{"label":"PORT_SPEED","pattern":"921 mb"}
+{"label":"PORT_SPEED","pattern":"922 mb"}
+{"label":"PORT_SPEED","pattern":"923 mb"}
+{"label":"PORT_SPEED","pattern":"924 mb"}
+{"label":"PORT_SPEED","pattern":"925 mb"}
+{"label":"PORT_SPEED","pattern":"926 mb"}
+{"label":"PORT_SPEED","pattern":"927 mb"}
+{"label":"PORT_SPEED","pattern":"928 mb"}
+{"label":"PORT_SPEED","pattern":"929 mb"}
+{"label":"PORT_SPEED","pattern":"930 mb"}
+{"label":"PORT_SPEED","pattern":"931 mb"}
+{"label":"PORT_SPEED","pattern":"932 mb"}
+{"label":"PORT_SPEED","pattern":"933 mb"}
+{"label":"PORT_SPEED","pattern":"934 mb"}
+{"label":"PORT_SPEED","pattern":"935 mb"}
+{"label":"PORT_SPEED","pattern":"936 mb"}
+{"label":"PORT_SPEED","pattern":"937 mb"}
+{"label":"PORT_SPEED","pattern":"938 mb"}
+{"label":"PORT_SPEED","pattern":"939 mb"}
+{"label":"PORT_SPEED","pattern":"940 mb"}
+{"label":"PORT_SPEED","pattern":"941 mb"}
+{"label":"PORT_SPEED","pattern":"942 mb"}
+{"label":"PORT_SPEED","pattern":"943 mb"}
+{"label":"PORT_SPEED","pattern":"944 mb"}
+{"label":"PORT_SPEED","pattern":"945 mb"}
+{"label":"PORT_SPEED","pattern":"946 mb"}
+{"label":"PORT_SPEED","pattern":"947 mb"}
+{"label":"PORT_SPEED","pattern":"948 mb"}
+{"label":"PORT_SPEED","pattern":"949 mb"}
+{"label":"PORT_SPEED","pattern":"950 mb"}
+{"label":"PORT_SPEED","pattern":"951 mb"}
+{"label":"PORT_SPEED","pattern":"952 mb"}
+{"label":"PORT_SPEED","pattern":"953 mb"}
+{"label":"PORT_SPEED","pattern":"954 mb"}
+{"label":"PORT_SPEED","pattern":"955 mb"}
+{"label":"PORT_SPEED","pattern":"956 mb"}
+{"label":"PORT_SPEED","pattern":"957 mb"}
+{"label":"PORT_SPEED","pattern":"958 mb"}
+{"label":"PORT_SPEED","pattern":"959 mb"}
+{"label":"PORT_SPEED","pattern":"960 mb"}
+{"label":"PORT_SPEED","pattern":"961 mb"}
+{"label":"PORT_SPEED","pattern":"962 mb"}
+{"label":"PORT_SPEED","pattern":"963 mb"}
+{"label":"PORT_SPEED","pattern":"964 mb"}
+{"label":"PORT_SPEED","pattern":"965 mb"}
+{"label":"PORT_SPEED","pattern":"966 mb"}
+{"label":"PORT_SPEED","pattern":"967 mb"}
+{"label":"PORT_SPEED","pattern":"968 mb"}
+{"label":"PORT_SPEED","pattern":"969 mb"}
+{"label":"PORT_SPEED","pattern":"970 mb"}
+{"label":"PORT_SPEED","pattern":"971 mb"}
+{"label":"PORT_SPEED","pattern":"972 mb"}
+{"label":"PORT_SPEED","pattern":"973 mb"}
+{"label":"PORT_SPEED","pattern":"974 mb"}
+{"label":"PORT_SPEED","pattern":"975 mb"}
+{"label":"PORT_SPEED","pattern":"976 mb"}
+{"label":"PORT_SPEED","pattern":"977 mb"}
+{"label":"PORT_SPEED","pattern":"978 mb"}
+{"label":"PORT_SPEED","pattern":"979 mb"}
+{"label":"PORT_SPEED","pattern":"980 mb"}
+{"label":"PORT_SPEED","pattern":"981 mb"}
+{"label":"PORT_SPEED","pattern":"982 mb"}
+{"label":"PORT_SPEED","pattern":"983 mb"}
+{"label":"PORT_SPEED","pattern":"984 mb"}
+{"label":"PORT_SPEED","pattern":"985 mb"}
+{"label":"PORT_SPEED","pattern":"986 mb"}
+{"label":"PORT_SPEED","pattern":"987 mb"}
+{"label":"PORT_SPEED","pattern":"988 mb"}
+{"label":"PORT_SPEED","pattern":"989 mb"}
+{"label":"PORT_SPEED","pattern":"990 mb"}
+{"label":"PORT_SPEED","pattern":"991 mb"}
+{"label":"PORT_SPEED","pattern":"992 mb"}
+{"label":"PORT_SPEED","pattern":"993 mb"}
+{"label":"PORT_SPEED","pattern":"994 mb"}
+{"label":"PORT_SPEED","pattern":"995 mb"}
+{"label":"PORT_SPEED","pattern":"996 mb"}
+{"label":"PORT_SPEED","pattern":"997 mb"}
+{"label":"PORT_SPEED","pattern":"998 mb"}
+{"label":"PORT_SPEED","pattern":"999 mb"}
+{"label":"PORT_SPEED","pattern":"1000 mb"}
+{"label":"PORT_SPEED","pattern":"1mbps"}
+{"label":"PORT_SPEED","pattern":"2mbps"}
+{"label":"PORT_SPEED","pattern":"3mbps"}
+{"label":"PORT_SPEED","pattern":"4mbps"}
+{"label":"PORT_SPEED","pattern":"5mbps"}
+{"label":"PORT_SPEED","pattern":"6mbps"}
+{"label":"PORT_SPEED","pattern":"7mbps"}
+{"label":"PORT_SPEED","pattern":"8mbps"}
+{"label":"PORT_SPEED","pattern":"9mbps"}
+{"label":"PORT_SPEED","pattern":"10mbps"}
+{"label":"PORT_SPEED","pattern":"11mbps"}
+{"label":"PORT_SPEED","pattern":"12mbps"}
+{"label":"PORT_SPEED","pattern":"13mbps"}
+{"label":"PORT_SPEED","pattern":"14mbps"}
+{"label":"PORT_SPEED","pattern":"15mbps"}
+{"label":"PORT_SPEED","pattern":"16mbps"}
+{"label":"PORT_SPEED","pattern":"17mbps"}
+{"label":"PORT_SPEED","pattern":"18mbps"}
+{"label":"PORT_SPEED","pattern":"19mbps"}
+{"label":"PORT_SPEED","pattern":"20mbps"}
+{"label":"PORT_SPEED","pattern":"21mbps"}
+{"label":"PORT_SPEED","pattern":"22mbps"}
+{"label":"PORT_SPEED","pattern":"23mbps"}
+{"label":"PORT_SPEED","pattern":"24mbps"}
+{"label":"PORT_SPEED","pattern":"25mbps"}
+{"label":"PORT_SPEED","pattern":"26mbps"}
+{"label":"PORT_SPEED","pattern":"27mbps"}
+{"label":"PORT_SPEED","pattern":"28mbps"}
+{"label":"PORT_SPEED","pattern":"29mbps"}
+{"label":"PORT_SPEED","pattern":"30mbps"}
+{"label":"PORT_SPEED","pattern":"31mbps"}
+{"label":"PORT_SPEED","pattern":"32mbps"}
+{"label":"PORT_SPEED","pattern":"33mbps"}
+{"label":"PORT_SPEED","pattern":"34mbps"}
+{"label":"PORT_SPEED","pattern":"35mbps"}
+{"label":"PORT_SPEED","pattern":"36mbps"}
+{"label":"PORT_SPEED","pattern":"37mbps"}
+{"label":"PORT_SPEED","pattern":"38mbps"}
+{"label":"PORT_SPEED","pattern":"39mbps"}
+{"label":"PORT_SPEED","pattern":"40mbps"}
+{"label":"PORT_SPEED","pattern":"41mbps"}
+{"label":"PORT_SPEED","pattern":"42mbps"}
+{"label":"PORT_SPEED","pattern":"43mbps"}
+{"label":"PORT_SPEED","pattern":"44mbps"}
+{"label":"PORT_SPEED","pattern":"45mbps"}
+{"label":"PORT_SPEED","pattern":"46mbps"}
+{"label":"PORT_SPEED","pattern":"47mbps"}
+{"label":"PORT_SPEED","pattern":"48mbps"}
+{"label":"PORT_SPEED","pattern":"49mbps"}
+{"label":"PORT_SPEED","pattern":"50mbps"}
+{"label":"PORT_SPEED","pattern":"51mbps"}
+{"label":"PORT_SPEED","pattern":"52mbps"}
+{"label":"PORT_SPEED","pattern":"53mbps"}
+{"label":"PORT_SPEED","pattern":"54mbps"}
+{"label":"PORT_SPEED","pattern":"55mbps"}
+{"label":"PORT_SPEED","pattern":"56mbps"}
+{"label":"PORT_SPEED","pattern":"57mbps"}
+{"label":"PORT_SPEED","pattern":"58mbps"}
+{"label":"PORT_SPEED","pattern":"59mbps"}
+{"label":"PORT_SPEED","pattern":"60mbps"}
+{"label":"PORT_SPEED","pattern":"61mbps"}
+{"label":"PORT_SPEED","pattern":"62mbps"}
+{"label":"PORT_SPEED","pattern":"63mbps"}
+{"label":"PORT_SPEED","pattern":"64mbps"}
+{"label":"PORT_SPEED","pattern":"65mbps"}
+{"label":"PORT_SPEED","pattern":"66mbps"}
+{"label":"PORT_SPEED","pattern":"67mbps"}
+{"label":"PORT_SPEED","pattern":"68mbps"}
+{"label":"PORT_SPEED","pattern":"69mbps"}
+{"label":"PORT_SPEED","pattern":"70mbps"}
+{"label":"PORT_SPEED","pattern":"71mbps"}
+{"label":"PORT_SPEED","pattern":"72mbps"}
+{"label":"PORT_SPEED","pattern":"73mbps"}
+{"label":"PORT_SPEED","pattern":"74mbps"}
+{"label":"PORT_SPEED","pattern":"75mbps"}
+{"label":"PORT_SPEED","pattern":"76mbps"}
+{"label":"PORT_SPEED","pattern":"77mbps"}
+{"label":"PORT_SPEED","pattern":"78mbps"}
+{"label":"PORT_SPEED","pattern":"79mbps"}
+{"label":"PORT_SPEED","pattern":"80mbps"}
+{"label":"PORT_SPEED","pattern":"81mbps"}
+{"label":"PORT_SPEED","pattern":"82mbps"}
+{"label":"PORT_SPEED","pattern":"83mbps"}
+{"label":"PORT_SPEED","pattern":"84mbps"}
+{"label":"PORT_SPEED","pattern":"85mbps"}
+{"label":"PORT_SPEED","pattern":"86mbps"}
+{"label":"PORT_SPEED","pattern":"87mbps"}
+{"label":"PORT_SPEED","pattern":"88mbps"}
+{"label":"PORT_SPEED","pattern":"89mbps"}
+{"label":"PORT_SPEED","pattern":"90mbps"}
+{"label":"PORT_SPEED","pattern":"91mbps"}
+{"label":"PORT_SPEED","pattern":"92mbps"}
+{"label":"PORT_SPEED","pattern":"93mbps"}
+{"label":"PORT_SPEED","pattern":"94mbps"}
+{"label":"PORT_SPEED","pattern":"95mbps"}
+{"label":"PORT_SPEED","pattern":"96mbps"}
+{"label":"PORT_SPEED","pattern":"97mbps"}
+{"label":"PORT_SPEED","pattern":"98mbps"}
+{"label":"PORT_SPEED","pattern":"99mbps"}
+{"label":"PORT_SPEED","pattern":"100mbps"}
+{"label":"PORT_SPEED","pattern":"101mbps"}
+{"label":"PORT_SPEED","pattern":"102mbps"}
+{"label":"PORT_SPEED","pattern":"103mbps"}
+{"label":"PORT_SPEED","pattern":"104mbps"}
+{"label":"PORT_SPEED","pattern":"105mbps"}
+{"label":"PORT_SPEED","pattern":"106mbps"}
+{"label":"PORT_SPEED","pattern":"107mbps"}
+{"label":"PORT_SPEED","pattern":"108mbps"}
+{"label":"PORT_SPEED","pattern":"109mbps"}
+{"label":"PORT_SPEED","pattern":"110mbps"}
+{"label":"PORT_SPEED","pattern":"111mbps"}
+{"label":"PORT_SPEED","pattern":"112mbps"}
+{"label":"PORT_SPEED","pattern":"113mbps"}
+{"label":"PORT_SPEED","pattern":"114mbps"}
+{"label":"PORT_SPEED","pattern":"115mbps"}
+{"label":"PORT_SPEED","pattern":"116mbps"}
+{"label":"PORT_SPEED","pattern":"117mbps"}
+{"label":"PORT_SPEED","pattern":"118mbps"}
+{"label":"PORT_SPEED","pattern":"119mbps"}
+{"label":"PORT_SPEED","pattern":"120mbps"}
+{"label":"PORT_SPEED","pattern":"121mbps"}
+{"label":"PORT_SPEED","pattern":"122mbps"}
+{"label":"PORT_SPEED","pattern":"123mbps"}
+{"label":"PORT_SPEED","pattern":"124mbps"}
+{"label":"PORT_SPEED","pattern":"125mbps"}
+{"label":"PORT_SPEED","pattern":"126mbps"}
+{"label":"PORT_SPEED","pattern":"127mbps"}
+{"label":"PORT_SPEED","pattern":"128mbps"}
+{"label":"PORT_SPEED","pattern":"129mbps"}
+{"label":"PORT_SPEED","pattern":"130mbps"}
+{"label":"PORT_SPEED","pattern":"131mbps"}
+{"label":"PORT_SPEED","pattern":"132mbps"}
+{"label":"PORT_SPEED","pattern":"133mbps"}
+{"label":"PORT_SPEED","pattern":"134mbps"}
+{"label":"PORT_SPEED","pattern":"135mbps"}
+{"label":"PORT_SPEED","pattern":"136mbps"}
+{"label":"PORT_SPEED","pattern":"137mbps"}
+{"label":"PORT_SPEED","pattern":"138mbps"}
+{"label":"PORT_SPEED","pattern":"139mbps"}
+{"label":"PORT_SPEED","pattern":"140mbps"}
+{"label":"PORT_SPEED","pattern":"141mbps"}
+{"label":"PORT_SPEED","pattern":"142mbps"}
+{"label":"PORT_SPEED","pattern":"143mbps"}
+{"label":"PORT_SPEED","pattern":"144mbps"}
+{"label":"PORT_SPEED","pattern":"145mbps"}
+{"label":"PORT_SPEED","pattern":"146mbps"}
+{"label":"PORT_SPEED","pattern":"147mbps"}
+{"label":"PORT_SPEED","pattern":"148mbps"}
+{"label":"PORT_SPEED","pattern":"149mbps"}
+{"label":"PORT_SPEED","pattern":"150mbps"}
+{"label":"PORT_SPEED","pattern":"151mbps"}
+{"label":"PORT_SPEED","pattern":"152mbps"}
+{"label":"PORT_SPEED","pattern":"153mbps"}
+{"label":"PORT_SPEED","pattern":"154mbps"}
+{"label":"PORT_SPEED","pattern":"155mbps"}
+{"label":"PORT_SPEED","pattern":"156mbps"}
+{"label":"PORT_SPEED","pattern":"157mbps"}
+{"label":"PORT_SPEED","pattern":"158mbps"}
+{"label":"PORT_SPEED","pattern":"159mbps"}
+{"label":"PORT_SPEED","pattern":"160mbps"}
+{"label":"PORT_SPEED","pattern":"161mbps"}
+{"label":"PORT_SPEED","pattern":"162mbps"}
+{"label":"PORT_SPEED","pattern":"163mbps"}
+{"label":"PORT_SPEED","pattern":"164mbps"}
+{"label":"PORT_SPEED","pattern":"165mbps"}
+{"label":"PORT_SPEED","pattern":"166mbps"}
+{"label":"PORT_SPEED","pattern":"167mbps"}
+{"label":"PORT_SPEED","pattern":"168mbps"}
+{"label":"PORT_SPEED","pattern":"169mbps"}
+{"label":"PORT_SPEED","pattern":"170mbps"}
+{"label":"PORT_SPEED","pattern":"171mbps"}
+{"label":"PORT_SPEED","pattern":"172mbps"}
+{"label":"PORT_SPEED","pattern":"173mbps"}
+{"label":"PORT_SPEED","pattern":"174mbps"}
+{"label":"PORT_SPEED","pattern":"175mbps"}
+{"label":"PORT_SPEED","pattern":"176mbps"}
+{"label":"PORT_SPEED","pattern":"177mbps"}
+{"label":"PORT_SPEED","pattern":"178mbps"}
+{"label":"PORT_SPEED","pattern":"179mbps"}
+{"label":"PORT_SPEED","pattern":"180mbps"}
+{"label":"PORT_SPEED","pattern":"181mbps"}
+{"label":"PORT_SPEED","pattern":"182mbps"}
+{"label":"PORT_SPEED","pattern":"183mbps"}
+{"label":"PORT_SPEED","pattern":"184mbps"}
+{"label":"PORT_SPEED","pattern":"185mbps"}
+{"label":"PORT_SPEED","pattern":"186mbps"}
+{"label":"PORT_SPEED","pattern":"187mbps"}
+{"label":"PORT_SPEED","pattern":"188mbps"}
+{"label":"PORT_SPEED","pattern":"189mbps"}
+{"label":"PORT_SPEED","pattern":"190mbps"}
+{"label":"PORT_SPEED","pattern":"191mbps"}
+{"label":"PORT_SPEED","pattern":"192mbps"}
+{"label":"PORT_SPEED","pattern":"193mbps"}
+{"label":"PORT_SPEED","pattern":"194mbps"}
+{"label":"PORT_SPEED","pattern":"195mbps"}
+{"label":"PORT_SPEED","pattern":"196mbps"}
+{"label":"PORT_SPEED","pattern":"197mbps"}
+{"label":"PORT_SPEED","pattern":"198mbps"}
+{"label":"PORT_SPEED","pattern":"199mbps"}
+{"label":"PORT_SPEED","pattern":"200mbps"}
+{"label":"PORT_SPEED","pattern":"201mbps"}
+{"label":"PORT_SPEED","pattern":"202mbps"}
+{"label":"PORT_SPEED","pattern":"203mbps"}
+{"label":"PORT_SPEED","pattern":"204mbps"}
+{"label":"PORT_SPEED","pattern":"205mbps"}
+{"label":"PORT_SPEED","pattern":"206mbps"}
+{"label":"PORT_SPEED","pattern":"207mbps"}
+{"label":"PORT_SPEED","pattern":"208mbps"}
+{"label":"PORT_SPEED","pattern":"209mbps"}
+{"label":"PORT_SPEED","pattern":"210mbps"}
+{"label":"PORT_SPEED","pattern":"211mbps"}
+{"label":"PORT_SPEED","pattern":"212mbps"}
+{"label":"PORT_SPEED","pattern":"213mbps"}
+{"label":"PORT_SPEED","pattern":"214mbps"}
+{"label":"PORT_SPEED","pattern":"215mbps"}
+{"label":"PORT_SPEED","pattern":"216mbps"}
+{"label":"PORT_SPEED","pattern":"217mbps"}
+{"label":"PORT_SPEED","pattern":"218mbps"}
+{"label":"PORT_SPEED","pattern":"219mbps"}
+{"label":"PORT_SPEED","pattern":"220mbps"}
+{"label":"PORT_SPEED","pattern":"221mbps"}
+{"label":"PORT_SPEED","pattern":"222mbps"}
+{"label":"PORT_SPEED","pattern":"223mbps"}
+{"label":"PORT_SPEED","pattern":"224mbps"}
+{"label":"PORT_SPEED","pattern":"225mbps"}
+{"label":"PORT_SPEED","pattern":"226mbps"}
+{"label":"PORT_SPEED","pattern":"227mbps"}
+{"label":"PORT_SPEED","pattern":"228mbps"}
+{"label":"PORT_SPEED","pattern":"229mbps"}
+{"label":"PORT_SPEED","pattern":"230mbps"}
+{"label":"PORT_SPEED","pattern":"231mbps"}
+{"label":"PORT_SPEED","pattern":"232mbps"}
+{"label":"PORT_SPEED","pattern":"233mbps"}
+{"label":"PORT_SPEED","pattern":"234mbps"}
+{"label":"PORT_SPEED","pattern":"235mbps"}
+{"label":"PORT_SPEED","pattern":"236mbps"}
+{"label":"PORT_SPEED","pattern":"237mbps"}
+{"label":"PORT_SPEED","pattern":"238mbps"}
+{"label":"PORT_SPEED","pattern":"239mbps"}
+{"label":"PORT_SPEED","pattern":"240mbps"}
+{"label":"PORT_SPEED","pattern":"241mbps"}
+{"label":"PORT_SPEED","pattern":"242mbps"}
+{"label":"PORT_SPEED","pattern":"243mbps"}
+{"label":"PORT_SPEED","pattern":"244mbps"}
+{"label":"PORT_SPEED","pattern":"245mbps"}
+{"label":"PORT_SPEED","pattern":"246mbps"}
+{"label":"PORT_SPEED","pattern":"247mbps"}
+{"label":"PORT_SPEED","pattern":"248mbps"}
+{"label":"PORT_SPEED","pattern":"249mbps"}
+{"label":"PORT_SPEED","pattern":"250mbps"}
+{"label":"PORT_SPEED","pattern":"251mbps"}
+{"label":"PORT_SPEED","pattern":"252mbps"}
+{"label":"PORT_SPEED","pattern":"253mbps"}
+{"label":"PORT_SPEED","pattern":"254mbps"}
+{"label":"PORT_SPEED","pattern":"255mbps"}
+{"label":"PORT_SPEED","pattern":"256mbps"}
+{"label":"PORT_SPEED","pattern":"257mbps"}
+{"label":"PORT_SPEED","pattern":"258mbps"}
+{"label":"PORT_SPEED","pattern":"259mbps"}
+{"label":"PORT_SPEED","pattern":"260mbps"}
+{"label":"PORT_SPEED","pattern":"261mbps"}
+{"label":"PORT_SPEED","pattern":"262mbps"}
+{"label":"PORT_SPEED","pattern":"263mbps"}
+{"label":"PORT_SPEED","pattern":"264mbps"}
+{"label":"PORT_SPEED","pattern":"265mbps"}
+{"label":"PORT_SPEED","pattern":"266mbps"}
+{"label":"PORT_SPEED","pattern":"267mbps"}
+{"label":"PORT_SPEED","pattern":"268mbps"}
+{"label":"PORT_SPEED","pattern":"269mbps"}
+{"label":"PORT_SPEED","pattern":"270mbps"}
+{"label":"PORT_SPEED","pattern":"271mbps"}
+{"label":"PORT_SPEED","pattern":"272mbps"}
+{"label":"PORT_SPEED","pattern":"273mbps"}
+{"label":"PORT_SPEED","pattern":"274mbps"}
+{"label":"PORT_SPEED","pattern":"275mbps"}
+{"label":"PORT_SPEED","pattern":"276mbps"}
+{"label":"PORT_SPEED","pattern":"277mbps"}
+{"label":"PORT_SPEED","pattern":"278mbps"}
+{"label":"PORT_SPEED","pattern":"279mbps"}
+{"label":"PORT_SPEED","pattern":"280mbps"}
+{"label":"PORT_SPEED","pattern":"281mbps"}
+{"label":"PORT_SPEED","pattern":"282mbps"}
+{"label":"PORT_SPEED","pattern":"283mbps"}
+{"label":"PORT_SPEED","pattern":"284mbps"}
+{"label":"PORT_SPEED","pattern":"285mbps"}
+{"label":"PORT_SPEED","pattern":"286mbps"}
+{"label":"PORT_SPEED","pattern":"287mbps"}
+{"label":"PORT_SPEED","pattern":"288mbps"}
+{"label":"PORT_SPEED","pattern":"289mbps"}
+{"label":"PORT_SPEED","pattern":"290mbps"}
+{"label":"PORT_SPEED","pattern":"291mbps"}
+{"label":"PORT_SPEED","pattern":"292mbps"}
+{"label":"PORT_SPEED","pattern":"293mbps"}
+{"label":"PORT_SPEED","pattern":"294mbps"}
+{"label":"PORT_SPEED","pattern":"295mbps"}
+{"label":"PORT_SPEED","pattern":"296mbps"}
+{"label":"PORT_SPEED","pattern":"297mbps"}
+{"label":"PORT_SPEED","pattern":"298mbps"}
+{"label":"PORT_SPEED","pattern":"299mbps"}
+{"label":"PORT_SPEED","pattern":"300mbps"}
+{"label":"PORT_SPEED","pattern":"301mbps"}
+{"label":"PORT_SPEED","pattern":"302mbps"}
+{"label":"PORT_SPEED","pattern":"303mbps"}
+{"label":"PORT_SPEED","pattern":"304mbps"}
+{"label":"PORT_SPEED","pattern":"305mbps"}
+{"label":"PORT_SPEED","pattern":"306mbps"}
+{"label":"PORT_SPEED","pattern":"307mbps"}
+{"label":"PORT_SPEED","pattern":"308mbps"}
+{"label":"PORT_SPEED","pattern":"309mbps"}
+{"label":"PORT_SPEED","pattern":"310mbps"}
+{"label":"PORT_SPEED","pattern":"311mbps"}
+{"label":"PORT_SPEED","pattern":"312mbps"}
+{"label":"PORT_SPEED","pattern":"313mbps"}
+{"label":"PORT_SPEED","pattern":"314mbps"}
+{"label":"PORT_SPEED","pattern":"315mbps"}
+{"label":"PORT_SPEED","pattern":"316mbps"}
+{"label":"PORT_SPEED","pattern":"317mbps"}
+{"label":"PORT_SPEED","pattern":"318mbps"}
+{"label":"PORT_SPEED","pattern":"319mbps"}
+{"label":"PORT_SPEED","pattern":"320mbps"}
+{"label":"PORT_SPEED","pattern":"321mbps"}
+{"label":"PORT_SPEED","pattern":"322mbps"}
+{"label":"PORT_SPEED","pattern":"323mbps"}
+{"label":"PORT_SPEED","pattern":"324mbps"}
+{"label":"PORT_SPEED","pattern":"325mbps"}
+{"label":"PORT_SPEED","pattern":"326mbps"}
+{"label":"PORT_SPEED","pattern":"327mbps"}
+{"label":"PORT_SPEED","pattern":"328mbps"}
+{"label":"PORT_SPEED","pattern":"329mbps"}
+{"label":"PORT_SPEED","pattern":"330mbps"}
+{"label":"PORT_SPEED","pattern":"331mbps"}
+{"label":"PORT_SPEED","pattern":"332mbps"}
+{"label":"PORT_SPEED","pattern":"333mbps"}
+{"label":"PORT_SPEED","pattern":"334mbps"}
+{"label":"PORT_SPEED","pattern":"335mbps"}
+{"label":"PORT_SPEED","pattern":"336mbps"}
+{"label":"PORT_SPEED","pattern":"337mbps"}
+{"label":"PORT_SPEED","pattern":"338mbps"}
+{"label":"PORT_SPEED","pattern":"339mbps"}
+{"label":"PORT_SPEED","pattern":"340mbps"}
+{"label":"PORT_SPEED","pattern":"341mbps"}
+{"label":"PORT_SPEED","pattern":"342mbps"}
+{"label":"PORT_SPEED","pattern":"343mbps"}
+{"label":"PORT_SPEED","pattern":"344mbps"}
+{"label":"PORT_SPEED","pattern":"345mbps"}
+{"label":"PORT_SPEED","pattern":"346mbps"}
+{"label":"PORT_SPEED","pattern":"347mbps"}
+{"label":"PORT_SPEED","pattern":"348mbps"}
+{"label":"PORT_SPEED","pattern":"349mbps"}
+{"label":"PORT_SPEED","pattern":"350mbps"}
+{"label":"PORT_SPEED","pattern":"351mbps"}
+{"label":"PORT_SPEED","pattern":"352mbps"}
+{"label":"PORT_SPEED","pattern":"353mbps"}
+{"label":"PORT_SPEED","pattern":"354mbps"}
+{"label":"PORT_SPEED","pattern":"355mbps"}
+{"label":"PORT_SPEED","pattern":"356mbps"}
+{"label":"PORT_SPEED","pattern":"357mbps"}
+{"label":"PORT_SPEED","pattern":"358mbps"}
+{"label":"PORT_SPEED","pattern":"359mbps"}
+{"label":"PORT_SPEED","pattern":"360mbps"}
+{"label":"PORT_SPEED","pattern":"361mbps"}
+{"label":"PORT_SPEED","pattern":"362mbps"}
+{"label":"PORT_SPEED","pattern":"363mbps"}
+{"label":"PORT_SPEED","pattern":"364mbps"}
+{"label":"PORT_SPEED","pattern":"365mbps"}
+{"label":"PORT_SPEED","pattern":"366mbps"}
+{"label":"PORT_SPEED","pattern":"367mbps"}
+{"label":"PORT_SPEED","pattern":"368mbps"}
+{"label":"PORT_SPEED","pattern":"369mbps"}
+{"label":"PORT_SPEED","pattern":"370mbps"}
+{"label":"PORT_SPEED","pattern":"371mbps"}
+{"label":"PORT_SPEED","pattern":"372mbps"}
+{"label":"PORT_SPEED","pattern":"373mbps"}
+{"label":"PORT_SPEED","pattern":"374mbps"}
+{"label":"PORT_SPEED","pattern":"375mbps"}
+{"label":"PORT_SPEED","pattern":"376mbps"}
+{"label":"PORT_SPEED","pattern":"377mbps"}
+{"label":"PORT_SPEED","pattern":"378mbps"}
+{"label":"PORT_SPEED","pattern":"379mbps"}
+{"label":"PORT_SPEED","pattern":"380mbps"}
+{"label":"PORT_SPEED","pattern":"381mbps"}
+{"label":"PORT_SPEED","pattern":"382mbps"}
+{"label":"PORT_SPEED","pattern":"383mbps"}
+{"label":"PORT_SPEED","pattern":"384mbps"}
+{"label":"PORT_SPEED","pattern":"385mbps"}
+{"label":"PORT_SPEED","pattern":"386mbps"}
+{"label":"PORT_SPEED","pattern":"387mbps"}
+{"label":"PORT_SPEED","pattern":"388mbps"}
+{"label":"PORT_SPEED","pattern":"389mbps"}
+{"label":"PORT_SPEED","pattern":"390mbps"}
+{"label":"PORT_SPEED","pattern":"391mbps"}
+{"label":"PORT_SPEED","pattern":"392mbps"}
+{"label":"PORT_SPEED","pattern":"393mbps"}
+{"label":"PORT_SPEED","pattern":"394mbps"}
+{"label":"PORT_SPEED","pattern":"395mbps"}
+{"label":"PORT_SPEED","pattern":"396mbps"}
+{"label":"PORT_SPEED","pattern":"397mbps"}
+{"label":"PORT_SPEED","pattern":"398mbps"}
+{"label":"PORT_SPEED","pattern":"399mbps"}
+{"label":"PORT_SPEED","pattern":"400mbps"}
+{"label":"PORT_SPEED","pattern":"401mbps"}
+{"label":"PORT_SPEED","pattern":"402mbps"}
+{"label":"PORT_SPEED","pattern":"403mbps"}
+{"label":"PORT_SPEED","pattern":"404mbps"}
+{"label":"PORT_SPEED","pattern":"405mbps"}
+{"label":"PORT_SPEED","pattern":"406mbps"}
+{"label":"PORT_SPEED","pattern":"407mbps"}
+{"label":"PORT_SPEED","pattern":"408mbps"}
+{"label":"PORT_SPEED","pattern":"409mbps"}
+{"label":"PORT_SPEED","pattern":"410mbps"}
+{"label":"PORT_SPEED","pattern":"411mbps"}
+{"label":"PORT_SPEED","pattern":"412mbps"}
+{"label":"PORT_SPEED","pattern":"413mbps"}
+{"label":"PORT_SPEED","pattern":"414mbps"}
+{"label":"PORT_SPEED","pattern":"415mbps"}
+{"label":"PORT_SPEED","pattern":"416mbps"}
+{"label":"PORT_SPEED","pattern":"417mbps"}
+{"label":"PORT_SPEED","pattern":"418mbps"}
+{"label":"PORT_SPEED","pattern":"419mbps"}
+{"label":"PORT_SPEED","pattern":"420mbps"}
+{"label":"PORT_SPEED","pattern":"421mbps"}
+{"label":"PORT_SPEED","pattern":"422mbps"}
+{"label":"PORT_SPEED","pattern":"423mbps"}
+{"label":"PORT_SPEED","pattern":"424mbps"}
+{"label":"PORT_SPEED","pattern":"425mbps"}
+{"label":"PORT_SPEED","pattern":"426mbps"}
+{"label":"PORT_SPEED","pattern":"427mbps"}
+{"label":"PORT_SPEED","pattern":"428mbps"}
+{"label":"PORT_SPEED","pattern":"429mbps"}
+{"label":"PORT_SPEED","pattern":"430mbps"}
+{"label":"PORT_SPEED","pattern":"431mbps"}
+{"label":"PORT_SPEED","pattern":"432mbps"}
+{"label":"PORT_SPEED","pattern":"433mbps"}
+{"label":"PORT_SPEED","pattern":"434mbps"}
+{"label":"PORT_SPEED","pattern":"435mbps"}
+{"label":"PORT_SPEED","pattern":"436mbps"}
+{"label":"PORT_SPEED","pattern":"437mbps"}
+{"label":"PORT_SPEED","pattern":"438mbps"}
+{"label":"PORT_SPEED","pattern":"439mbps"}
+{"label":"PORT_SPEED","pattern":"440mbps"}
+{"label":"PORT_SPEED","pattern":"441mbps"}
+{"label":"PORT_SPEED","pattern":"442mbps"}
+{"label":"PORT_SPEED","pattern":"443mbps"}
+{"label":"PORT_SPEED","pattern":"444mbps"}
+{"label":"PORT_SPEED","pattern":"445mbps"}
+{"label":"PORT_SPEED","pattern":"446mbps"}
+{"label":"PORT_SPEED","pattern":"447mbps"}
+{"label":"PORT_SPEED","pattern":"448mbps"}
+{"label":"PORT_SPEED","pattern":"449mbps"}
+{"label":"PORT_SPEED","pattern":"450mbps"}
+{"label":"PORT_SPEED","pattern":"451mbps"}
+{"label":"PORT_SPEED","pattern":"452mbps"}
+{"label":"PORT_SPEED","pattern":"453mbps"}
+{"label":"PORT_SPEED","pattern":"454mbps"}
+{"label":"PORT_SPEED","pattern":"455mbps"}
+{"label":"PORT_SPEED","pattern":"456mbps"}
+{"label":"PORT_SPEED","pattern":"457mbps"}
+{"label":"PORT_SPEED","pattern":"458mbps"}
+{"label":"PORT_SPEED","pattern":"459mbps"}
+{"label":"PORT_SPEED","pattern":"460mbps"}
+{"label":"PORT_SPEED","pattern":"461mbps"}
+{"label":"PORT_SPEED","pattern":"462mbps"}
+{"label":"PORT_SPEED","pattern":"463mbps"}
+{"label":"PORT_SPEED","pattern":"464mbps"}
+{"label":"PORT_SPEED","pattern":"465mbps"}
+{"label":"PORT_SPEED","pattern":"466mbps"}
+{"label":"PORT_SPEED","pattern":"467mbps"}
+{"label":"PORT_SPEED","pattern":"468mbps"}
+{"label":"PORT_SPEED","pattern":"469mbps"}
+{"label":"PORT_SPEED","pattern":"470mbps"}
+{"label":"PORT_SPEED","pattern":"471mbps"}
+{"label":"PORT_SPEED","pattern":"472mbps"}
+{"label":"PORT_SPEED","pattern":"473mbps"}
+{"label":"PORT_SPEED","pattern":"474mbps"}
+{"label":"PORT_SPEED","pattern":"475mbps"}
+{"label":"PORT_SPEED","pattern":"476mbps"}
+{"label":"PORT_SPEED","pattern":"477mbps"}
+{"label":"PORT_SPEED","pattern":"478mbps"}
+{"label":"PORT_SPEED","pattern":"479mbps"}
+{"label":"PORT_SPEED","pattern":"480mbps"}
+{"label":"PORT_SPEED","pattern":"481mbps"}
+{"label":"PORT_SPEED","pattern":"482mbps"}
+{"label":"PORT_SPEED","pattern":"483mbps"}
+{"label":"PORT_SPEED","pattern":"484mbps"}
+{"label":"PORT_SPEED","pattern":"485mbps"}
+{"label":"PORT_SPEED","pattern":"486mbps"}
+{"label":"PORT_SPEED","pattern":"487mbps"}
+{"label":"PORT_SPEED","pattern":"488mbps"}
+{"label":"PORT_SPEED","pattern":"489mbps"}
+{"label":"PORT_SPEED","pattern":"490mbps"}
+{"label":"PORT_SPEED","pattern":"491mbps"}
+{"label":"PORT_SPEED","pattern":"492mbps"}
+{"label":"PORT_SPEED","pattern":"493mbps"}
+{"label":"PORT_SPEED","pattern":"494mbps"}
+{"label":"PORT_SPEED","pattern":"495mbps"}
+{"label":"PORT_SPEED","pattern":"496mbps"}
+{"label":"PORT_SPEED","pattern":"497mbps"}
+{"label":"PORT_SPEED","pattern":"498mbps"}
+{"label":"PORT_SPEED","pattern":"499mbps"}
+{"label":"PORT_SPEED","pattern":"500mbps"}
+{"label":"PORT_SPEED","pattern":"501mbps"}
+{"label":"PORT_SPEED","pattern":"502mbps"}
+{"label":"PORT_SPEED","pattern":"503mbps"}
+{"label":"PORT_SPEED","pattern":"504mbps"}
+{"label":"PORT_SPEED","pattern":"505mbps"}
+{"label":"PORT_SPEED","pattern":"506mbps"}
+{"label":"PORT_SPEED","pattern":"507mbps"}
+{"label":"PORT_SPEED","pattern":"508mbps"}
+{"label":"PORT_SPEED","pattern":"509mbps"}
+{"label":"PORT_SPEED","pattern":"510mbps"}
+{"label":"PORT_SPEED","pattern":"511mbps"}
+{"label":"PORT_SPEED","pattern":"512mbps"}
+{"label":"PORT_SPEED","pattern":"513mbps"}
+{"label":"PORT_SPEED","pattern":"514mbps"}
+{"label":"PORT_SPEED","pattern":"515mbps"}
+{"label":"PORT_SPEED","pattern":"516mbps"}
+{"label":"PORT_SPEED","pattern":"517mbps"}
+{"label":"PORT_SPEED","pattern":"518mbps"}
+{"label":"PORT_SPEED","pattern":"519mbps"}
+{"label":"PORT_SPEED","pattern":"520mbps"}
+{"label":"PORT_SPEED","pattern":"521mbps"}
+{"label":"PORT_SPEED","pattern":"522mbps"}
+{"label":"PORT_SPEED","pattern":"523mbps"}
+{"label":"PORT_SPEED","pattern":"524mbps"}
+{"label":"PORT_SPEED","pattern":"525mbps"}
+{"label":"PORT_SPEED","pattern":"526mbps"}
+{"label":"PORT_SPEED","pattern":"527mbps"}
+{"label":"PORT_SPEED","pattern":"528mbps"}
+{"label":"PORT_SPEED","pattern":"529mbps"}
+{"label":"PORT_SPEED","pattern":"530mbps"}
+{"label":"PORT_SPEED","pattern":"531mbps"}
+{"label":"PORT_SPEED","pattern":"532mbps"}
+{"label":"PORT_SPEED","pattern":"533mbps"}
+{"label":"PORT_SPEED","pattern":"534mbps"}
+{"label":"PORT_SPEED","pattern":"535mbps"}
+{"label":"PORT_SPEED","pattern":"536mbps"}
+{"label":"PORT_SPEED","pattern":"537mbps"}
+{"label":"PORT_SPEED","pattern":"538mbps"}
+{"label":"PORT_SPEED","pattern":"539mbps"}
+{"label":"PORT_SPEED","pattern":"540mbps"}
+{"label":"PORT_SPEED","pattern":"541mbps"}
+{"label":"PORT_SPEED","pattern":"542mbps"}
+{"label":"PORT_SPEED","pattern":"543mbps"}
+{"label":"PORT_SPEED","pattern":"544mbps"}
+{"label":"PORT_SPEED","pattern":"545mbps"}
+{"label":"PORT_SPEED","pattern":"546mbps"}
+{"label":"PORT_SPEED","pattern":"547mbps"}
+{"label":"PORT_SPEED","pattern":"548mbps"}
+{"label":"PORT_SPEED","pattern":"549mbps"}
+{"label":"PORT_SPEED","pattern":"550mbps"}
+{"label":"PORT_SPEED","pattern":"551mbps"}
+{"label":"PORT_SPEED","pattern":"552mbps"}
+{"label":"PORT_SPEED","pattern":"553mbps"}
+{"label":"PORT_SPEED","pattern":"554mbps"}
+{"label":"PORT_SPEED","pattern":"555mbps"}
+{"label":"PORT_SPEED","pattern":"556mbps"}
+{"label":"PORT_SPEED","pattern":"557mbps"}
+{"label":"PORT_SPEED","pattern":"558mbps"}
+{"label":"PORT_SPEED","pattern":"559mbps"}
+{"label":"PORT_SPEED","pattern":"560mbps"}
+{"label":"PORT_SPEED","pattern":"561mbps"}
+{"label":"PORT_SPEED","pattern":"562mbps"}
+{"label":"PORT_SPEED","pattern":"563mbps"}
+{"label":"PORT_SPEED","pattern":"564mbps"}
+{"label":"PORT_SPEED","pattern":"565mbps"}
+{"label":"PORT_SPEED","pattern":"566mbps"}
+{"label":"PORT_SPEED","pattern":"567mbps"}
+{"label":"PORT_SPEED","pattern":"568mbps"}
+{"label":"PORT_SPEED","pattern":"569mbps"}
+{"label":"PORT_SPEED","pattern":"570mbps"}
+{"label":"PORT_SPEED","pattern":"571mbps"}
+{"label":"PORT_SPEED","pattern":"572mbps"}
+{"label":"PORT_SPEED","pattern":"573mbps"}
+{"label":"PORT_SPEED","pattern":"574mbps"}
+{"label":"PORT_SPEED","pattern":"575mbps"}
+{"label":"PORT_SPEED","pattern":"576mbps"}
+{"label":"PORT_SPEED","pattern":"577mbps"}
+{"label":"PORT_SPEED","pattern":"578mbps"}
+{"label":"PORT_SPEED","pattern":"579mbps"}
+{"label":"PORT_SPEED","pattern":"580mbps"}
+{"label":"PORT_SPEED","pattern":"581mbps"}
+{"label":"PORT_SPEED","pattern":"582mbps"}
+{"label":"PORT_SPEED","pattern":"583mbps"}
+{"label":"PORT_SPEED","pattern":"584mbps"}
+{"label":"PORT_SPEED","pattern":"585mbps"}
+{"label":"PORT_SPEED","pattern":"586mbps"}
+{"label":"PORT_SPEED","pattern":"587mbps"}
+{"label":"PORT_SPEED","pattern":"588mbps"}
+{"label":"PORT_SPEED","pattern":"589mbps"}
+{"label":"PORT_SPEED","pattern":"590mbps"}
+{"label":"PORT_SPEED","pattern":"591mbps"}
+{"label":"PORT_SPEED","pattern":"592mbps"}
+{"label":"PORT_SPEED","pattern":"593mbps"}
+{"label":"PORT_SPEED","pattern":"594mbps"}
+{"label":"PORT_SPEED","pattern":"595mbps"}
+{"label":"PORT_SPEED","pattern":"596mbps"}
+{"label":"PORT_SPEED","pattern":"597mbps"}
+{"label":"PORT_SPEED","pattern":"598mbps"}
+{"label":"PORT_SPEED","pattern":"599mbps"}
+{"label":"PORT_SPEED","pattern":"600mbps"}
+{"label":"PORT_SPEED","pattern":"601mbps"}
+{"label":"PORT_SPEED","pattern":"602mbps"}
+{"label":"PORT_SPEED","pattern":"603mbps"}
+{"label":"PORT_SPEED","pattern":"604mbps"}
+{"label":"PORT_SPEED","pattern":"605mbps"}
+{"label":"PORT_SPEED","pattern":"606mbps"}
+{"label":"PORT_SPEED","pattern":"607mbps"}
+{"label":"PORT_SPEED","pattern":"608mbps"}
+{"label":"PORT_SPEED","pattern":"609mbps"}
+{"label":"PORT_SPEED","pattern":"610mbps"}
+{"label":"PORT_SPEED","pattern":"611mbps"}
+{"label":"PORT_SPEED","pattern":"612mbps"}
+{"label":"PORT_SPEED","pattern":"613mbps"}
+{"label":"PORT_SPEED","pattern":"614mbps"}
+{"label":"PORT_SPEED","pattern":"615mbps"}
+{"label":"PORT_SPEED","pattern":"616mbps"}
+{"label":"PORT_SPEED","pattern":"617mbps"}
+{"label":"PORT_SPEED","pattern":"618mbps"}
+{"label":"PORT_SPEED","pattern":"619mbps"}
+{"label":"PORT_SPEED","pattern":"620mbps"}
+{"label":"PORT_SPEED","pattern":"621mbps"}
+{"label":"PORT_SPEED","pattern":"622mbps"}
+{"label":"PORT_SPEED","pattern":"623mbps"}
+{"label":"PORT_SPEED","pattern":"624mbps"}
+{"label":"PORT_SPEED","pattern":"625mbps"}
+{"label":"PORT_SPEED","pattern":"626mbps"}
+{"label":"PORT_SPEED","pattern":"627mbps"}
+{"label":"PORT_SPEED","pattern":"628mbps"}
+{"label":"PORT_SPEED","pattern":"629mbps"}
+{"label":"PORT_SPEED","pattern":"630mbps"}
+{"label":"PORT_SPEED","pattern":"631mbps"}
+{"label":"PORT_SPEED","pattern":"632mbps"}
+{"label":"PORT_SPEED","pattern":"633mbps"}
+{"label":"PORT_SPEED","pattern":"634mbps"}
+{"label":"PORT_SPEED","pattern":"635mbps"}
+{"label":"PORT_SPEED","pattern":"636mbps"}
+{"label":"PORT_SPEED","pattern":"637mbps"}
+{"label":"PORT_SPEED","pattern":"638mbps"}
+{"label":"PORT_SPEED","pattern":"639mbps"}
+{"label":"PORT_SPEED","pattern":"640mbps"}
+{"label":"PORT_SPEED","pattern":"641mbps"}
+{"label":"PORT_SPEED","pattern":"642mbps"}
+{"label":"PORT_SPEED","pattern":"643mbps"}
+{"label":"PORT_SPEED","pattern":"644mbps"}
+{"label":"PORT_SPEED","pattern":"645mbps"}
+{"label":"PORT_SPEED","pattern":"646mbps"}
+{"label":"PORT_SPEED","pattern":"647mbps"}
+{"label":"PORT_SPEED","pattern":"648mbps"}
+{"label":"PORT_SPEED","pattern":"649mbps"}
+{"label":"PORT_SPEED","pattern":"650mbps"}
+{"label":"PORT_SPEED","pattern":"651mbps"}
+{"label":"PORT_SPEED","pattern":"652mbps"}
+{"label":"PORT_SPEED","pattern":"653mbps"}
+{"label":"PORT_SPEED","pattern":"654mbps"}
+{"label":"PORT_SPEED","pattern":"655mbps"}
+{"label":"PORT_SPEED","pattern":"656mbps"}
+{"label":"PORT_SPEED","pattern":"657mbps"}
+{"label":"PORT_SPEED","pattern":"658mbps"}
+{"label":"PORT_SPEED","pattern":"659mbps"}
+{"label":"PORT_SPEED","pattern":"660mbps"}
+{"label":"PORT_SPEED","pattern":"661mbps"}
+{"label":"PORT_SPEED","pattern":"662mbps"}
+{"label":"PORT_SPEED","pattern":"663mbps"}
+{"label":"PORT_SPEED","pattern":"664mbps"}
+{"label":"PORT_SPEED","pattern":"665mbps"}
+{"label":"PORT_SPEED","pattern":"666mbps"}
+{"label":"PORT_SPEED","pattern":"667mbps"}
+{"label":"PORT_SPEED","pattern":"668mbps"}
+{"label":"PORT_SPEED","pattern":"669mbps"}
+{"label":"PORT_SPEED","pattern":"670mbps"}
+{"label":"PORT_SPEED","pattern":"671mbps"}
+{"label":"PORT_SPEED","pattern":"672mbps"}
+{"label":"PORT_SPEED","pattern":"673mbps"}
+{"label":"PORT_SPEED","pattern":"674mbps"}
+{"label":"PORT_SPEED","pattern":"675mbps"}
+{"label":"PORT_SPEED","pattern":"676mbps"}
+{"label":"PORT_SPEED","pattern":"677mbps"}
+{"label":"PORT_SPEED","pattern":"678mbps"}
+{"label":"PORT_SPEED","pattern":"679mbps"}
+{"label":"PORT_SPEED","pattern":"680mbps"}
+{"label":"PORT_SPEED","pattern":"681mbps"}
+{"label":"PORT_SPEED","pattern":"682mbps"}
+{"label":"PORT_SPEED","pattern":"683mbps"}
+{"label":"PORT_SPEED","pattern":"684mbps"}
+{"label":"PORT_SPEED","pattern":"685mbps"}
+{"label":"PORT_SPEED","pattern":"686mbps"}
+{"label":"PORT_SPEED","pattern":"687mbps"}
+{"label":"PORT_SPEED","pattern":"688mbps"}
+{"label":"PORT_SPEED","pattern":"689mbps"}
+{"label":"PORT_SPEED","pattern":"690mbps"}
+{"label":"PORT_SPEED","pattern":"691mbps"}
+{"label":"PORT_SPEED","pattern":"692mbps"}
+{"label":"PORT_SPEED","pattern":"693mbps"}
+{"label":"PORT_SPEED","pattern":"694mbps"}
+{"label":"PORT_SPEED","pattern":"695mbps"}
+{"label":"PORT_SPEED","pattern":"696mbps"}
+{"label":"PORT_SPEED","pattern":"697mbps"}
+{"label":"PORT_SPEED","pattern":"698mbps"}
+{"label":"PORT_SPEED","pattern":"699mbps"}
+{"label":"PORT_SPEED","pattern":"700mbps"}
+{"label":"PORT_SPEED","pattern":"701mbps"}
+{"label":"PORT_SPEED","pattern":"702mbps"}
+{"label":"PORT_SPEED","pattern":"703mbps"}
+{"label":"PORT_SPEED","pattern":"704mbps"}
+{"label":"PORT_SPEED","pattern":"705mbps"}
+{"label":"PORT_SPEED","pattern":"706mbps"}
+{"label":"PORT_SPEED","pattern":"707mbps"}
+{"label":"PORT_SPEED","pattern":"708mbps"}
+{"label":"PORT_SPEED","pattern":"709mbps"}
+{"label":"PORT_SPEED","pattern":"710mbps"}
+{"label":"PORT_SPEED","pattern":"711mbps"}
+{"label":"PORT_SPEED","pattern":"712mbps"}
+{"label":"PORT_SPEED","pattern":"713mbps"}
+{"label":"PORT_SPEED","pattern":"714mbps"}
+{"label":"PORT_SPEED","pattern":"715mbps"}
+{"label":"PORT_SPEED","pattern":"716mbps"}
+{"label":"PORT_SPEED","pattern":"717mbps"}
+{"label":"PORT_SPEED","pattern":"718mbps"}
+{"label":"PORT_SPEED","pattern":"719mbps"}
+{"label":"PORT_SPEED","pattern":"720mbps"}
+{"label":"PORT_SPEED","pattern":"721mbps"}
+{"label":"PORT_SPEED","pattern":"722mbps"}
+{"label":"PORT_SPEED","pattern":"723mbps"}
+{"label":"PORT_SPEED","pattern":"724mbps"}
+{"label":"PORT_SPEED","pattern":"725mbps"}
+{"label":"PORT_SPEED","pattern":"726mbps"}
+{"label":"PORT_SPEED","pattern":"727mbps"}
+{"label":"PORT_SPEED","pattern":"728mbps"}
+{"label":"PORT_SPEED","pattern":"729mbps"}
+{"label":"PORT_SPEED","pattern":"730mbps"}
+{"label":"PORT_SPEED","pattern":"731mbps"}
+{"label":"PORT_SPEED","pattern":"732mbps"}
+{"label":"PORT_SPEED","pattern":"733mbps"}
+{"label":"PORT_SPEED","pattern":"734mbps"}
+{"label":"PORT_SPEED","pattern":"735mbps"}
+{"label":"PORT_SPEED","pattern":"736mbps"}
+{"label":"PORT_SPEED","pattern":"737mbps"}
+{"label":"PORT_SPEED","pattern":"738mbps"}
+{"label":"PORT_SPEED","pattern":"739mbps"}
+{"label":"PORT_SPEED","pattern":"740mbps"}
+{"label":"PORT_SPEED","pattern":"741mbps"}
+{"label":"PORT_SPEED","pattern":"742mbps"}
+{"label":"PORT_SPEED","pattern":"743mbps"}
+{"label":"PORT_SPEED","pattern":"744mbps"}
+{"label":"PORT_SPEED","pattern":"745mbps"}
+{"label":"PORT_SPEED","pattern":"746mbps"}
+{"label":"PORT_SPEED","pattern":"747mbps"}
+{"label":"PORT_SPEED","pattern":"748mbps"}
+{"label":"PORT_SPEED","pattern":"749mbps"}
+{"label":"PORT_SPEED","pattern":"750mbps"}
+{"label":"PORT_SPEED","pattern":"751mbps"}
+{"label":"PORT_SPEED","pattern":"752mbps"}
+{"label":"PORT_SPEED","pattern":"753mbps"}
+{"label":"PORT_SPEED","pattern":"754mbps"}
+{"label":"PORT_SPEED","pattern":"755mbps"}
+{"label":"PORT_SPEED","pattern":"756mbps"}
+{"label":"PORT_SPEED","pattern":"757mbps"}
+{"label":"PORT_SPEED","pattern":"758mbps"}
+{"label":"PORT_SPEED","pattern":"759mbps"}
+{"label":"PORT_SPEED","pattern":"760mbps"}
+{"label":"PORT_SPEED","pattern":"761mbps"}
+{"label":"PORT_SPEED","pattern":"762mbps"}
+{"label":"PORT_SPEED","pattern":"763mbps"}
+{"label":"PORT_SPEED","pattern":"764mbps"}
+{"label":"PORT_SPEED","pattern":"765mbps"}
+{"label":"PORT_SPEED","pattern":"766mbps"}
+{"label":"PORT_SPEED","pattern":"767mbps"}
+{"label":"PORT_SPEED","pattern":"768mbps"}
+{"label":"PORT_SPEED","pattern":"769mbps"}
+{"label":"PORT_SPEED","pattern":"770mbps"}
+{"label":"PORT_SPEED","pattern":"771mbps"}
+{"label":"PORT_SPEED","pattern":"772mbps"}
+{"label":"PORT_SPEED","pattern":"773mbps"}
+{"label":"PORT_SPEED","pattern":"774mbps"}
+{"label":"PORT_SPEED","pattern":"775mbps"}
+{"label":"PORT_SPEED","pattern":"776mbps"}
+{"label":"PORT_SPEED","pattern":"777mbps"}
+{"label":"PORT_SPEED","pattern":"778mbps"}
+{"label":"PORT_SPEED","pattern":"779mbps"}
+{"label":"PORT_SPEED","pattern":"780mbps"}
+{"label":"PORT_SPEED","pattern":"781mbps"}
+{"label":"PORT_SPEED","pattern":"782mbps"}
+{"label":"PORT_SPEED","pattern":"783mbps"}
+{"label":"PORT_SPEED","pattern":"784mbps"}
+{"label":"PORT_SPEED","pattern":"785mbps"}
+{"label":"PORT_SPEED","pattern":"786mbps"}
+{"label":"PORT_SPEED","pattern":"787mbps"}
+{"label":"PORT_SPEED","pattern":"788mbps"}
+{"label":"PORT_SPEED","pattern":"789mbps"}
+{"label":"PORT_SPEED","pattern":"790mbps"}
+{"label":"PORT_SPEED","pattern":"791mbps"}
+{"label":"PORT_SPEED","pattern":"792mbps"}
+{"label":"PORT_SPEED","pattern":"793mbps"}
+{"label":"PORT_SPEED","pattern":"794mbps"}
+{"label":"PORT_SPEED","pattern":"795mbps"}
+{"label":"PORT_SPEED","pattern":"796mbps"}
+{"label":"PORT_SPEED","pattern":"797mbps"}
+{"label":"PORT_SPEED","pattern":"798mbps"}
+{"label":"PORT_SPEED","pattern":"799mbps"}
+{"label":"PORT_SPEED","pattern":"800mbps"}
+{"label":"PORT_SPEED","pattern":"801mbps"}
+{"label":"PORT_SPEED","pattern":"802mbps"}
+{"label":"PORT_SPEED","pattern":"803mbps"}
+{"label":"PORT_SPEED","pattern":"804mbps"}
+{"label":"PORT_SPEED","pattern":"805mbps"}
+{"label":"PORT_SPEED","pattern":"806mbps"}
+{"label":"PORT_SPEED","pattern":"807mbps"}
+{"label":"PORT_SPEED","pattern":"808mbps"}
+{"label":"PORT_SPEED","pattern":"809mbps"}
+{"label":"PORT_SPEED","pattern":"810mbps"}
+{"label":"PORT_SPEED","pattern":"811mbps"}
+{"label":"PORT_SPEED","pattern":"812mbps"}
+{"label":"PORT_SPEED","pattern":"813mbps"}
+{"label":"PORT_SPEED","pattern":"814mbps"}
+{"label":"PORT_SPEED","pattern":"815mbps"}
+{"label":"PORT_SPEED","pattern":"816mbps"}
+{"label":"PORT_SPEED","pattern":"817mbps"}
+{"label":"PORT_SPEED","pattern":"818mbps"}
+{"label":"PORT_SPEED","pattern":"819mbps"}
+{"label":"PORT_SPEED","pattern":"820mbps"}
+{"label":"PORT_SPEED","pattern":"821mbps"}
+{"label":"PORT_SPEED","pattern":"822mbps"}
+{"label":"PORT_SPEED","pattern":"823mbps"}
+{"label":"PORT_SPEED","pattern":"824mbps"}
+{"label":"PORT_SPEED","pattern":"825mbps"}
+{"label":"PORT_SPEED","pattern":"826mbps"}
+{"label":"PORT_SPEED","pattern":"827mbps"}
+{"label":"PORT_SPEED","pattern":"828mbps"}
+{"label":"PORT_SPEED","pattern":"829mbps"}
+{"label":"PORT_SPEED","pattern":"830mbps"}
+{"label":"PORT_SPEED","pattern":"831mbps"}
+{"label":"PORT_SPEED","pattern":"832mbps"}
+{"label":"PORT_SPEED","pattern":"833mbps"}
+{"label":"PORT_SPEED","pattern":"834mbps"}
+{"label":"PORT_SPEED","pattern":"835mbps"}
+{"label":"PORT_SPEED","pattern":"836mbps"}
+{"label":"PORT_SPEED","pattern":"837mbps"}
+{"label":"PORT_SPEED","pattern":"838mbps"}
+{"label":"PORT_SPEED","pattern":"839mbps"}
+{"label":"PORT_SPEED","pattern":"840mbps"}
+{"label":"PORT_SPEED","pattern":"841mbps"}
+{"label":"PORT_SPEED","pattern":"842mbps"}
+{"label":"PORT_SPEED","pattern":"843mbps"}
+{"label":"PORT_SPEED","pattern":"844mbps"}
+{"label":"PORT_SPEED","pattern":"845mbps"}
+{"label":"PORT_SPEED","pattern":"846mbps"}
+{"label":"PORT_SPEED","pattern":"847mbps"}
+{"label":"PORT_SPEED","pattern":"848mbps"}
+{"label":"PORT_SPEED","pattern":"849mbps"}
+{"label":"PORT_SPEED","pattern":"850mbps"}
+{"label":"PORT_SPEED","pattern":"851mbps"}
+{"label":"PORT_SPEED","pattern":"852mbps"}
+{"label":"PORT_SPEED","pattern":"853mbps"}
+{"label":"PORT_SPEED","pattern":"854mbps"}
+{"label":"PORT_SPEED","pattern":"855mbps"}
+{"label":"PORT_SPEED","pattern":"856mbps"}
+{"label":"PORT_SPEED","pattern":"857mbps"}
+{"label":"PORT_SPEED","pattern":"858mbps"}
+{"label":"PORT_SPEED","pattern":"859mbps"}
+{"label":"PORT_SPEED","pattern":"860mbps"}
+{"label":"PORT_SPEED","pattern":"861mbps"}
+{"label":"PORT_SPEED","pattern":"862mbps"}
+{"label":"PORT_SPEED","pattern":"863mbps"}
+{"label":"PORT_SPEED","pattern":"864mbps"}
+{"label":"PORT_SPEED","pattern":"865mbps"}
+{"label":"PORT_SPEED","pattern":"866mbps"}
+{"label":"PORT_SPEED","pattern":"867mbps"}
+{"label":"PORT_SPEED","pattern":"868mbps"}
+{"label":"PORT_SPEED","pattern":"869mbps"}
+{"label":"PORT_SPEED","pattern":"870mbps"}
+{"label":"PORT_SPEED","pattern":"871mbps"}
+{"label":"PORT_SPEED","pattern":"872mbps"}
+{"label":"PORT_SPEED","pattern":"873mbps"}
+{"label":"PORT_SPEED","pattern":"874mbps"}
+{"label":"PORT_SPEED","pattern":"875mbps"}
+{"label":"PORT_SPEED","pattern":"876mbps"}
+{"label":"PORT_SPEED","pattern":"877mbps"}
+{"label":"PORT_SPEED","pattern":"878mbps"}
+{"label":"PORT_SPEED","pattern":"879mbps"}
+{"label":"PORT_SPEED","pattern":"880mbps"}
+{"label":"PORT_SPEED","pattern":"881mbps"}
+{"label":"PORT_SPEED","pattern":"882mbps"}
+{"label":"PORT_SPEED","pattern":"883mbps"}
+{"label":"PORT_SPEED","pattern":"884mbps"}
+{"label":"PORT_SPEED","pattern":"885mbps"}
+{"label":"PORT_SPEED","pattern":"886mbps"}
+{"label":"PORT_SPEED","pattern":"887mbps"}
+{"label":"PORT_SPEED","pattern":"888mbps"}
+{"label":"PORT_SPEED","pattern":"889mbps"}
+{"label":"PORT_SPEED","pattern":"890mbps"}
+{"label":"PORT_SPEED","pattern":"891mbps"}
+{"label":"PORT_SPEED","pattern":"892mbps"}
+{"label":"PORT_SPEED","pattern":"893mbps"}
+{"label":"PORT_SPEED","pattern":"894mbps"}
+{"label":"PORT_SPEED","pattern":"895mbps"}
+{"label":"PORT_SPEED","pattern":"896mbps"}
+{"label":"PORT_SPEED","pattern":"897mbps"}
+{"label":"PORT_SPEED","pattern":"898mbps"}
+{"label":"PORT_SPEED","pattern":"899mbps"}
+{"label":"PORT_SPEED","pattern":"900mbps"}
+{"label":"PORT_SPEED","pattern":"901mbps"}
+{"label":"PORT_SPEED","pattern":"902mbps"}
+{"label":"PORT_SPEED","pattern":"903mbps"}
+{"label":"PORT_SPEED","pattern":"904mbps"}
+{"label":"PORT_SPEED","pattern":"905mbps"}
+{"label":"PORT_SPEED","pattern":"906mbps"}
+{"label":"PORT_SPEED","pattern":"907mbps"}
+{"label":"PORT_SPEED","pattern":"908mbps"}
+{"label":"PORT_SPEED","pattern":"909mbps"}
+{"label":"PORT_SPEED","pattern":"910mbps"}
+{"label":"PORT_SPEED","pattern":"911mbps"}
+{"label":"PORT_SPEED","pattern":"912mbps"}
+{"label":"PORT_SPEED","pattern":"913mbps"}
+{"label":"PORT_SPEED","pattern":"914mbps"}
+{"label":"PORT_SPEED","pattern":"915mbps"}
+{"label":"PORT_SPEED","pattern":"916mbps"}
+{"label":"PORT_SPEED","pattern":"917mbps"}
+{"label":"PORT_SPEED","pattern":"918mbps"}
+{"label":"PORT_SPEED","pattern":"919mbps"}
+{"label":"PORT_SPEED","pattern":"920mbps"}
+{"label":"PORT_SPEED","pattern":"921mbps"}
+{"label":"PORT_SPEED","pattern":"922mbps"}
+{"label":"PORT_SPEED","pattern":"923mbps"}
+{"label":"PORT_SPEED","pattern":"924mbps"}
+{"label":"PORT_SPEED","pattern":"925mbps"}
+{"label":"PORT_SPEED","pattern":"926mbps"}
+{"label":"PORT_SPEED","pattern":"927mbps"}
+{"label":"PORT_SPEED","pattern":"928mbps"}
+{"label":"PORT_SPEED","pattern":"929mbps"}
+{"label":"PORT_SPEED","pattern":"930mbps"}
+{"label":"PORT_SPEED","pattern":"931mbps"}
+{"label":"PORT_SPEED","pattern":"932mbps"}
+{"label":"PORT_SPEED","pattern":"933mbps"}
+{"label":"PORT_SPEED","pattern":"934mbps"}
+{"label":"PORT_SPEED","pattern":"935mbps"}
+{"label":"PORT_SPEED","pattern":"936mbps"}
+{"label":"PORT_SPEED","pattern":"937mbps"}
+{"label":"PORT_SPEED","pattern":"938mbps"}
+{"label":"PORT_SPEED","pattern":"939mbps"}
+{"label":"PORT_SPEED","pattern":"940mbps"}
+{"label":"PORT_SPEED","pattern":"941mbps"}
+{"label":"PORT_SPEED","pattern":"942mbps"}
+{"label":"PORT_SPEED","pattern":"943mbps"}
+{"label":"PORT_SPEED","pattern":"944mbps"}
+{"label":"PORT_SPEED","pattern":"945mbps"}
+{"label":"PORT_SPEED","pattern":"946mbps"}
+{"label":"PORT_SPEED","pattern":"947mbps"}
+{"label":"PORT_SPEED","pattern":"948mbps"}
+{"label":"PORT_SPEED","pattern":"949mbps"}
+{"label":"PORT_SPEED","pattern":"950mbps"}
+{"label":"PORT_SPEED","pattern":"951mbps"}
+{"label":"PORT_SPEED","pattern":"952mbps"}
+{"label":"PORT_SPEED","pattern":"953mbps"}
+{"label":"PORT_SPEED","pattern":"954mbps"}
+{"label":"PORT_SPEED","pattern":"955mbps"}
+{"label":"PORT_SPEED","pattern":"956mbps"}
+{"label":"PORT_SPEED","pattern":"957mbps"}
+{"label":"PORT_SPEED","pattern":"958mbps"}
+{"label":"PORT_SPEED","pattern":"959mbps"}
+{"label":"PORT_SPEED","pattern":"960mbps"}
+{"label":"PORT_SPEED","pattern":"961mbps"}
+{"label":"PORT_SPEED","pattern":"962mbps"}
+{"label":"PORT_SPEED","pattern":"963mbps"}
+{"label":"PORT_SPEED","pattern":"964mbps"}
+{"label":"PORT_SPEED","pattern":"965mbps"}
+{"label":"PORT_SPEED","pattern":"966mbps"}
+{"label":"PORT_SPEED","pattern":"967mbps"}
+{"label":"PORT_SPEED","pattern":"968mbps"}
+{"label":"PORT_SPEED","pattern":"969mbps"}
+{"label":"PORT_SPEED","pattern":"970mbps"}
+{"label":"PORT_SPEED","pattern":"971mbps"}
+{"label":"PORT_SPEED","pattern":"972mbps"}
+{"label":"PORT_SPEED","pattern":"973mbps"}
+{"label":"PORT_SPEED","pattern":"974mbps"}
+{"label":"PORT_SPEED","pattern":"975mbps"}
+{"label":"PORT_SPEED","pattern":"976mbps"}
+{"label":"PORT_SPEED","pattern":"977mbps"}
+{"label":"PORT_SPEED","pattern":"978mbps"}
+{"label":"PORT_SPEED","pattern":"979mbps"}
+{"label":"PORT_SPEED","pattern":"980mbps"}
+{"label":"PORT_SPEED","pattern":"981mbps"}
+{"label":"PORT_SPEED","pattern":"982mbps"}
+{"label":"PORT_SPEED","pattern":"983mbps"}
+{"label":"PORT_SPEED","pattern":"984mbps"}
+{"label":"PORT_SPEED","pattern":"985mbps"}
+{"label":"PORT_SPEED","pattern":"986mbps"}
+{"label":"PORT_SPEED","pattern":"987mbps"}
+{"label":"PORT_SPEED","pattern":"988mbps"}
+{"label":"PORT_SPEED","pattern":"989mbps"}
+{"label":"PORT_SPEED","pattern":"990mbps"}
+{"label":"PORT_SPEED","pattern":"991mbps"}
+{"label":"PORT_SPEED","pattern":"992mbps"}
+{"label":"PORT_SPEED","pattern":"993mbps"}
+{"label":"PORT_SPEED","pattern":"994mbps"}
+{"label":"PORT_SPEED","pattern":"995mbps"}
+{"label":"PORT_SPEED","pattern":"996mbps"}
+{"label":"PORT_SPEED","pattern":"997mbps"}
+{"label":"PORT_SPEED","pattern":"998mbps"}
+{"label":"PORT_SPEED","pattern":"999mbps"}
+{"label":"PORT_SPEED","pattern":"1000mbps"}
+{"label":"PORT_SPEED","pattern":"1mb"}
+{"label":"PORT_SPEED","pattern":"2mb"}
+{"label":"PORT_SPEED","pattern":"3mb"}
+{"label":"PORT_SPEED","pattern":"4mb"}
+{"label":"PORT_SPEED","pattern":"5mb"}
+{"label":"PORT_SPEED","pattern":"6mb"}
+{"label":"PORT_SPEED","pattern":"7mb"}
+{"label":"PORT_SPEED","pattern":"8mb"}
+{"label":"PORT_SPEED","pattern":"9mb"}
+{"label":"PORT_SPEED","pattern":"10mb"}
+{"label":"PORT_SPEED","pattern":"11mb"}
+{"label":"PORT_SPEED","pattern":"12mb"}
+{"label":"PORT_SPEED","pattern":"13mb"}
+{"label":"PORT_SPEED","pattern":"14mb"}
+{"label":"PORT_SPEED","pattern":"15mb"}
+{"label":"PORT_SPEED","pattern":"16mb"}
+{"label":"PORT_SPEED","pattern":"17mb"}
+{"label":"PORT_SPEED","pattern":"18mb"}
+{"label":"PORT_SPEED","pattern":"19mb"}
+{"label":"PORT_SPEED","pattern":"20mb"}
+{"label":"PORT_SPEED","pattern":"21mb"}
+{"label":"PORT_SPEED","pattern":"22mb"}
+{"label":"PORT_SPEED","pattern":"23mb"}
+{"label":"PORT_SPEED","pattern":"24mb"}
+{"label":"PORT_SPEED","pattern":"25mb"}
+{"label":"PORT_SPEED","pattern":"26mb"}
+{"label":"PORT_SPEED","pattern":"27mb"}
+{"label":"PORT_SPEED","pattern":"28mb"}
+{"label":"PORT_SPEED","pattern":"29mb"}
+{"label":"PORT_SPEED","pattern":"30mb"}
+{"label":"PORT_SPEED","pattern":"31mb"}
+{"label":"PORT_SPEED","pattern":"32mb"}
+{"label":"PORT_SPEED","pattern":"33mb"}
+{"label":"PORT_SPEED","pattern":"34mb"}
+{"label":"PORT_SPEED","pattern":"35mb"}
+{"label":"PORT_SPEED","pattern":"36mb"}
+{"label":"PORT_SPEED","pattern":"37mb"}
+{"label":"PORT_SPEED","pattern":"38mb"}
+{"label":"PORT_SPEED","pattern":"39mb"}
+{"label":"PORT_SPEED","pattern":"40mb"}
+{"label":"PORT_SPEED","pattern":"41mb"}
+{"label":"PORT_SPEED","pattern":"42mb"}
+{"label":"PORT_SPEED","pattern":"43mb"}
+{"label":"PORT_SPEED","pattern":"44mb"}
+{"label":"PORT_SPEED","pattern":"45mb"}
+{"label":"PORT_SPEED","pattern":"46mb"}
+{"label":"PORT_SPEED","pattern":"47mb"}
+{"label":"PORT_SPEED","pattern":"48mb"}
+{"label":"PORT_SPEED","pattern":"49mb"}
+{"label":"PORT_SPEED","pattern":"50mb"}
+{"label":"PORT_SPEED","pattern":"51mb"}
+{"label":"PORT_SPEED","pattern":"52mb"}
+{"label":"PORT_SPEED","pattern":"53mb"}
+{"label":"PORT_SPEED","pattern":"54mb"}
+{"label":"PORT_SPEED","pattern":"55mb"}
+{"label":"PORT_SPEED","pattern":"56mb"}
+{"label":"PORT_SPEED","pattern":"57mb"}
+{"label":"PORT_SPEED","pattern":"58mb"}
+{"label":"PORT_SPEED","pattern":"59mb"}
+{"label":"PORT_SPEED","pattern":"60mb"}
+{"label":"PORT_SPEED","pattern":"61mb"}
+{"label":"PORT_SPEED","pattern":"62mb"}
+{"label":"PORT_SPEED","pattern":"63mb"}
+{"label":"PORT_SPEED","pattern":"64mb"}
+{"label":"PORT_SPEED","pattern":"65mb"}
+{"label":"PORT_SPEED","pattern":"66mb"}
+{"label":"PORT_SPEED","pattern":"67mb"}
+{"label":"PORT_SPEED","pattern":"68mb"}
+{"label":"PORT_SPEED","pattern":"69mb"}
+{"label":"PORT_SPEED","pattern":"70mb"}
+{"label":"PORT_SPEED","pattern":"71mb"}
+{"label":"PORT_SPEED","pattern":"72mb"}
+{"label":"PORT_SPEED","pattern":"73mb"}
+{"label":"PORT_SPEED","pattern":"74mb"}
+{"label":"PORT_SPEED","pattern":"75mb"}
+{"label":"PORT_SPEED","pattern":"76mb"}
+{"label":"PORT_SPEED","pattern":"77mb"}
+{"label":"PORT_SPEED","pattern":"78mb"}
+{"label":"PORT_SPEED","pattern":"79mb"}
+{"label":"PORT_SPEED","pattern":"80mb"}
+{"label":"PORT_SPEED","pattern":"81mb"}
+{"label":"PORT_SPEED","pattern":"82mb"}
+{"label":"PORT_SPEED","pattern":"83mb"}
+{"label":"PORT_SPEED","pattern":"84mb"}
+{"label":"PORT_SPEED","pattern":"85mb"}
+{"label":"PORT_SPEED","pattern":"86mb"}
+{"label":"PORT_SPEED","pattern":"87mb"}
+{"label":"PORT_SPEED","pattern":"88mb"}
+{"label":"PORT_SPEED","pattern":"89mb"}
+{"label":"PORT_SPEED","pattern":"90mb"}
+{"label":"PORT_SPEED","pattern":"91mb"}
+{"label":"PORT_SPEED","pattern":"92mb"}
+{"label":"PORT_SPEED","pattern":"93mb"}
+{"label":"PORT_SPEED","pattern":"94mb"}
+{"label":"PORT_SPEED","pattern":"95mb"}
+{"label":"PORT_SPEED","pattern":"96mb"}
+{"label":"PORT_SPEED","pattern":"97mb"}
+{"label":"PORT_SPEED","pattern":"98mb"}
+{"label":"PORT_SPEED","pattern":"99mb"}
+{"label":"PORT_SPEED","pattern":"100mb"}
+{"label":"PORT_SPEED","pattern":"101mb"}
+{"label":"PORT_SPEED","pattern":"102mb"}
+{"label":"PORT_SPEED","pattern":"103mb"}
+{"label":"PORT_SPEED","pattern":"104mb"}
+{"label":"PORT_SPEED","pattern":"105mb"}
+{"label":"PORT_SPEED","pattern":"106mb"}
+{"label":"PORT_SPEED","pattern":"107mb"}
+{"label":"PORT_SPEED","pattern":"108mb"}
+{"label":"PORT_SPEED","pattern":"109mb"}
+{"label":"PORT_SPEED","pattern":"110mb"}
+{"label":"PORT_SPEED","pattern":"111mb"}
+{"label":"PORT_SPEED","pattern":"112mb"}
+{"label":"PORT_SPEED","pattern":"113mb"}
+{"label":"PORT_SPEED","pattern":"114mb"}
+{"label":"PORT_SPEED","pattern":"115mb"}
+{"label":"PORT_SPEED","pattern":"116mb"}
+{"label":"PORT_SPEED","pattern":"117mb"}
+{"label":"PORT_SPEED","pattern":"118mb"}
+{"label":"PORT_SPEED","pattern":"119mb"}
+{"label":"PORT_SPEED","pattern":"120mb"}
+{"label":"PORT_SPEED","pattern":"121mb"}
+{"label":"PORT_SPEED","pattern":"122mb"}
+{"label":"PORT_SPEED","pattern":"123mb"}
+{"label":"PORT_SPEED","pattern":"124mb"}
+{"label":"PORT_SPEED","pattern":"125mb"}
+{"label":"PORT_SPEED","pattern":"126mb"}
+{"label":"PORT_SPEED","pattern":"127mb"}
+{"label":"PORT_SPEED","pattern":"128mb"}
+{"label":"PORT_SPEED","pattern":"129mb"}
+{"label":"PORT_SPEED","pattern":"130mb"}
+{"label":"PORT_SPEED","pattern":"131mb"}
+{"label":"PORT_SPEED","pattern":"132mb"}
+{"label":"PORT_SPEED","pattern":"133mb"}
+{"label":"PORT_SPEED","pattern":"134mb"}
+{"label":"PORT_SPEED","pattern":"135mb"}
+{"label":"PORT_SPEED","pattern":"136mb"}
+{"label":"PORT_SPEED","pattern":"137mb"}
+{"label":"PORT_SPEED","pattern":"138mb"}
+{"label":"PORT_SPEED","pattern":"139mb"}
+{"label":"PORT_SPEED","pattern":"140mb"}
+{"label":"PORT_SPEED","pattern":"141mb"}
+{"label":"PORT_SPEED","pattern":"142mb"}
+{"label":"PORT_SPEED","pattern":"143mb"}
+{"label":"PORT_SPEED","pattern":"144mb"}
+{"label":"PORT_SPEED","pattern":"145mb"}
+{"label":"PORT_SPEED","pattern":"146mb"}
+{"label":"PORT_SPEED","pattern":"147mb"}
+{"label":"PORT_SPEED","pattern":"148mb"}
+{"label":"PORT_SPEED","pattern":"149mb"}
+{"label":"PORT_SPEED","pattern":"150mb"}
+{"label":"PORT_SPEED","pattern":"151mb"}
+{"label":"PORT_SPEED","pattern":"152mb"}
+{"label":"PORT_SPEED","pattern":"153mb"}
+{"label":"PORT_SPEED","pattern":"154mb"}
+{"label":"PORT_SPEED","pattern":"155mb"}
+{"label":"PORT_SPEED","pattern":"156mb"}
+{"label":"PORT_SPEED","pattern":"157mb"}
+{"label":"PORT_SPEED","pattern":"158mb"}
+{"label":"PORT_SPEED","pattern":"159mb"}
+{"label":"PORT_SPEED","pattern":"160mb"}
+{"label":"PORT_SPEED","pattern":"161mb"}
+{"label":"PORT_SPEED","pattern":"162mb"}
+{"label":"PORT_SPEED","pattern":"163mb"}
+{"label":"PORT_SPEED","pattern":"164mb"}
+{"label":"PORT_SPEED","pattern":"165mb"}
+{"label":"PORT_SPEED","pattern":"166mb"}
+{"label":"PORT_SPEED","pattern":"167mb"}
+{"label":"PORT_SPEED","pattern":"168mb"}
+{"label":"PORT_SPEED","pattern":"169mb"}
+{"label":"PORT_SPEED","pattern":"170mb"}
+{"label":"PORT_SPEED","pattern":"171mb"}
+{"label":"PORT_SPEED","pattern":"172mb"}
+{"label":"PORT_SPEED","pattern":"173mb"}
+{"label":"PORT_SPEED","pattern":"174mb"}
+{"label":"PORT_SPEED","pattern":"175mb"}
+{"label":"PORT_SPEED","pattern":"176mb"}
+{"label":"PORT_SPEED","pattern":"177mb"}
+{"label":"PORT_SPEED","pattern":"178mb"}
+{"label":"PORT_SPEED","pattern":"179mb"}
+{"label":"PORT_SPEED","pattern":"180mb"}
+{"label":"PORT_SPEED","pattern":"181mb"}
+{"label":"PORT_SPEED","pattern":"182mb"}
+{"label":"PORT_SPEED","pattern":"183mb"}
+{"label":"PORT_SPEED","pattern":"184mb"}
+{"label":"PORT_SPEED","pattern":"185mb"}
+{"label":"PORT_SPEED","pattern":"186mb"}
+{"label":"PORT_SPEED","pattern":"187mb"}
+{"label":"PORT_SPEED","pattern":"188mb"}
+{"label":"PORT_SPEED","pattern":"189mb"}
+{"label":"PORT_SPEED","pattern":"190mb"}
+{"label":"PORT_SPEED","pattern":"191mb"}
+{"label":"PORT_SPEED","pattern":"192mb"}
+{"label":"PORT_SPEED","pattern":"193mb"}
+{"label":"PORT_SPEED","pattern":"194mb"}
+{"label":"PORT_SPEED","pattern":"195mb"}
+{"label":"PORT_SPEED","pattern":"196mb"}
+{"label":"PORT_SPEED","pattern":"197mb"}
+{"label":"PORT_SPEED","pattern":"198mb"}
+{"label":"PORT_SPEED","pattern":"199mb"}
+{"label":"PORT_SPEED","pattern":"200mb"}
+{"label":"PORT_SPEED","pattern":"201mb"}
+{"label":"PORT_SPEED","pattern":"202mb"}
+{"label":"PORT_SPEED","pattern":"203mb"}
+{"label":"PORT_SPEED","pattern":"204mb"}
+{"label":"PORT_SPEED","pattern":"205mb"}
+{"label":"PORT_SPEED","pattern":"206mb"}
+{"label":"PORT_SPEED","pattern":"207mb"}
+{"label":"PORT_SPEED","pattern":"208mb"}
+{"label":"PORT_SPEED","pattern":"209mb"}
+{"label":"PORT_SPEED","pattern":"210mb"}
+{"label":"PORT_SPEED","pattern":"211mb"}
+{"label":"PORT_SPEED","pattern":"212mb"}
+{"label":"PORT_SPEED","pattern":"213mb"}
+{"label":"PORT_SPEED","pattern":"214mb"}
+{"label":"PORT_SPEED","pattern":"215mb"}
+{"label":"PORT_SPEED","pattern":"216mb"}
+{"label":"PORT_SPEED","pattern":"217mb"}
+{"label":"PORT_SPEED","pattern":"218mb"}
+{"label":"PORT_SPEED","pattern":"219mb"}
+{"label":"PORT_SPEED","pattern":"220mb"}
+{"label":"PORT_SPEED","pattern":"221mb"}
+{"label":"PORT_SPEED","pattern":"222mb"}
+{"label":"PORT_SPEED","pattern":"223mb"}
+{"label":"PORT_SPEED","pattern":"224mb"}
+{"label":"PORT_SPEED","pattern":"225mb"}
+{"label":"PORT_SPEED","pattern":"226mb"}
+{"label":"PORT_SPEED","pattern":"227mb"}
+{"label":"PORT_SPEED","pattern":"228mb"}
+{"label":"PORT_SPEED","pattern":"229mb"}
+{"label":"PORT_SPEED","pattern":"230mb"}
+{"label":"PORT_SPEED","pattern":"231mb"}
+{"label":"PORT_SPEED","pattern":"232mb"}
+{"label":"PORT_SPEED","pattern":"233mb"}
+{"label":"PORT_SPEED","pattern":"234mb"}
+{"label":"PORT_SPEED","pattern":"235mb"}
+{"label":"PORT_SPEED","pattern":"236mb"}
+{"label":"PORT_SPEED","pattern":"237mb"}
+{"label":"PORT_SPEED","pattern":"238mb"}
+{"label":"PORT_SPEED","pattern":"239mb"}
+{"label":"PORT_SPEED","pattern":"240mb"}
+{"label":"PORT_SPEED","pattern":"241mb"}
+{"label":"PORT_SPEED","pattern":"242mb"}
+{"label":"PORT_SPEED","pattern":"243mb"}
+{"label":"PORT_SPEED","pattern":"244mb"}
+{"label":"PORT_SPEED","pattern":"245mb"}
+{"label":"PORT_SPEED","pattern":"246mb"}
+{"label":"PORT_SPEED","pattern":"247mb"}
+{"label":"PORT_SPEED","pattern":"248mb"}
+{"label":"PORT_SPEED","pattern":"249mb"}
+{"label":"PORT_SPEED","pattern":"250mb"}
+{"label":"PORT_SPEED","pattern":"251mb"}
+{"label":"PORT_SPEED","pattern":"252mb"}
+{"label":"PORT_SPEED","pattern":"253mb"}
+{"label":"PORT_SPEED","pattern":"254mb"}
+{"label":"PORT_SPEED","pattern":"255mb"}
+{"label":"PORT_SPEED","pattern":"256mb"}
+{"label":"PORT_SPEED","pattern":"257mb"}
+{"label":"PORT_SPEED","pattern":"258mb"}
+{"label":"PORT_SPEED","pattern":"259mb"}
+{"label":"PORT_SPEED","pattern":"260mb"}
+{"label":"PORT_SPEED","pattern":"261mb"}
+{"label":"PORT_SPEED","pattern":"262mb"}
+{"label":"PORT_SPEED","pattern":"263mb"}
+{"label":"PORT_SPEED","pattern":"264mb"}
+{"label":"PORT_SPEED","pattern":"265mb"}
+{"label":"PORT_SPEED","pattern":"266mb"}
+{"label":"PORT_SPEED","pattern":"267mb"}
+{"label":"PORT_SPEED","pattern":"268mb"}
+{"label":"PORT_SPEED","pattern":"269mb"}
+{"label":"PORT_SPEED","pattern":"270mb"}
+{"label":"PORT_SPEED","pattern":"271mb"}
+{"label":"PORT_SPEED","pattern":"272mb"}
+{"label":"PORT_SPEED","pattern":"273mb"}
+{"label":"PORT_SPEED","pattern":"274mb"}
+{"label":"PORT_SPEED","pattern":"275mb"}
+{"label":"PORT_SPEED","pattern":"276mb"}
+{"label":"PORT_SPEED","pattern":"277mb"}
+{"label":"PORT_SPEED","pattern":"278mb"}
+{"label":"PORT_SPEED","pattern":"279mb"}
+{"label":"PORT_SPEED","pattern":"280mb"}
+{"label":"PORT_SPEED","pattern":"281mb"}
+{"label":"PORT_SPEED","pattern":"282mb"}
+{"label":"PORT_SPEED","pattern":"283mb"}
+{"label":"PORT_SPEED","pattern":"284mb"}
+{"label":"PORT_SPEED","pattern":"285mb"}
+{"label":"PORT_SPEED","pattern":"286mb"}
+{"label":"PORT_SPEED","pattern":"287mb"}
+{"label":"PORT_SPEED","pattern":"288mb"}
+{"label":"PORT_SPEED","pattern":"289mb"}
+{"label":"PORT_SPEED","pattern":"290mb"}
+{"label":"PORT_SPEED","pattern":"291mb"}
+{"label":"PORT_SPEED","pattern":"292mb"}
+{"label":"PORT_SPEED","pattern":"293mb"}
+{"label":"PORT_SPEED","pattern":"294mb"}
+{"label":"PORT_SPEED","pattern":"295mb"}
+{"label":"PORT_SPEED","pattern":"296mb"}
+{"label":"PORT_SPEED","pattern":"297mb"}
+{"label":"PORT_SPEED","pattern":"298mb"}
+{"label":"PORT_SPEED","pattern":"299mb"}
+{"label":"PORT_SPEED","pattern":"300mb"}
+{"label":"PORT_SPEED","pattern":"301mb"}
+{"label":"PORT_SPEED","pattern":"302mb"}
+{"label":"PORT_SPEED","pattern":"303mb"}
+{"label":"PORT_SPEED","pattern":"304mb"}
+{"label":"PORT_SPEED","pattern":"305mb"}
+{"label":"PORT_SPEED","pattern":"306mb"}
+{"label":"PORT_SPEED","pattern":"307mb"}
+{"label":"PORT_SPEED","pattern":"308mb"}
+{"label":"PORT_SPEED","pattern":"309mb"}
+{"label":"PORT_SPEED","pattern":"310mb"}
+{"label":"PORT_SPEED","pattern":"311mb"}
+{"label":"PORT_SPEED","pattern":"312mb"}
+{"label":"PORT_SPEED","pattern":"313mb"}
+{"label":"PORT_SPEED","pattern":"314mb"}
+{"label":"PORT_SPEED","pattern":"315mb"}
+{"label":"PORT_SPEED","pattern":"316mb"}
+{"label":"PORT_SPEED","pattern":"317mb"}
+{"label":"PORT_SPEED","pattern":"318mb"}
+{"label":"PORT_SPEED","pattern":"319mb"}
+{"label":"PORT_SPEED","pattern":"320mb"}
+{"label":"PORT_SPEED","pattern":"321mb"}
+{"label":"PORT_SPEED","pattern":"322mb"}
+{"label":"PORT_SPEED","pattern":"323mb"}
+{"label":"PORT_SPEED","pattern":"324mb"}
+{"label":"PORT_SPEED","pattern":"325mb"}
+{"label":"PORT_SPEED","pattern":"326mb"}
+{"label":"PORT_SPEED","pattern":"327mb"}
+{"label":"PORT_SPEED","pattern":"328mb"}
+{"label":"PORT_SPEED","pattern":"329mb"}
+{"label":"PORT_SPEED","pattern":"330mb"}
+{"label":"PORT_SPEED","pattern":"331mb"}
+{"label":"PORT_SPEED","pattern":"332mb"}
+{"label":"PORT_SPEED","pattern":"333mb"}
+{"label":"PORT_SPEED","pattern":"334mb"}
+{"label":"PORT_SPEED","pattern":"335mb"}
+{"label":"PORT_SPEED","pattern":"336mb"}
+{"label":"PORT_SPEED","pattern":"337mb"}
+{"label":"PORT_SPEED","pattern":"338mb"}
+{"label":"PORT_SPEED","pattern":"339mb"}
+{"label":"PORT_SPEED","pattern":"340mb"}
+{"label":"PORT_SPEED","pattern":"341mb"}
+{"label":"PORT_SPEED","pattern":"342mb"}
+{"label":"PORT_SPEED","pattern":"343mb"}
+{"label":"PORT_SPEED","pattern":"344mb"}
+{"label":"PORT_SPEED","pattern":"345mb"}
+{"label":"PORT_SPEED","pattern":"346mb"}
+{"label":"PORT_SPEED","pattern":"347mb"}
+{"label":"PORT_SPEED","pattern":"348mb"}
+{"label":"PORT_SPEED","pattern":"349mb"}
+{"label":"PORT_SPEED","pattern":"350mb"}
+{"label":"PORT_SPEED","pattern":"351mb"}
+{"label":"PORT_SPEED","pattern":"352mb"}
+{"label":"PORT_SPEED","pattern":"353mb"}
+{"label":"PORT_SPEED","pattern":"354mb"}
+{"label":"PORT_SPEED","pattern":"355mb"}
+{"label":"PORT_SPEED","pattern":"356mb"}
+{"label":"PORT_SPEED","pattern":"357mb"}
+{"label":"PORT_SPEED","pattern":"358mb"}
+{"label":"PORT_SPEED","pattern":"359mb"}
+{"label":"PORT_SPEED","pattern":"360mb"}
+{"label":"PORT_SPEED","pattern":"361mb"}
+{"label":"PORT_SPEED","pattern":"362mb"}
+{"label":"PORT_SPEED","pattern":"363mb"}
+{"label":"PORT_SPEED","pattern":"364mb"}
+{"label":"PORT_SPEED","pattern":"365mb"}
+{"label":"PORT_SPEED","pattern":"366mb"}
+{"label":"PORT_SPEED","pattern":"367mb"}
+{"label":"PORT_SPEED","pattern":"368mb"}
+{"label":"PORT_SPEED","pattern":"369mb"}
+{"label":"PORT_SPEED","pattern":"370mb"}
+{"label":"PORT_SPEED","pattern":"371mb"}
+{"label":"PORT_SPEED","pattern":"372mb"}
+{"label":"PORT_SPEED","pattern":"373mb"}
+{"label":"PORT_SPEED","pattern":"374mb"}
+{"label":"PORT_SPEED","pattern":"375mb"}
+{"label":"PORT_SPEED","pattern":"376mb"}
+{"label":"PORT_SPEED","pattern":"377mb"}
+{"label":"PORT_SPEED","pattern":"378mb"}
+{"label":"PORT_SPEED","pattern":"379mb"}
+{"label":"PORT_SPEED","pattern":"380mb"}
+{"label":"PORT_SPEED","pattern":"381mb"}
+{"label":"PORT_SPEED","pattern":"382mb"}
+{"label":"PORT_SPEED","pattern":"383mb"}
+{"label":"PORT_SPEED","pattern":"384mb"}
+{"label":"PORT_SPEED","pattern":"385mb"}
+{"label":"PORT_SPEED","pattern":"386mb"}
+{"label":"PORT_SPEED","pattern":"387mb"}
+{"label":"PORT_SPEED","pattern":"388mb"}
+{"label":"PORT_SPEED","pattern":"389mb"}
+{"label":"PORT_SPEED","pattern":"390mb"}
+{"label":"PORT_SPEED","pattern":"391mb"}
+{"label":"PORT_SPEED","pattern":"392mb"}
+{"label":"PORT_SPEED","pattern":"393mb"}
+{"label":"PORT_SPEED","pattern":"394mb"}
+{"label":"PORT_SPEED","pattern":"395mb"}
+{"label":"PORT_SPEED","pattern":"396mb"}
+{"label":"PORT_SPEED","pattern":"397mb"}
+{"label":"PORT_SPEED","pattern":"398mb"}
+{"label":"PORT_SPEED","pattern":"399mb"}
+{"label":"PORT_SPEED","pattern":"400mb"}
+{"label":"PORT_SPEED","pattern":"401mb"}
+{"label":"PORT_SPEED","pattern":"402mb"}
+{"label":"PORT_SPEED","pattern":"403mb"}
+{"label":"PORT_SPEED","pattern":"404mb"}
+{"label":"PORT_SPEED","pattern":"405mb"}
+{"label":"PORT_SPEED","pattern":"406mb"}
+{"label":"PORT_SPEED","pattern":"407mb"}
+{"label":"PORT_SPEED","pattern":"408mb"}
+{"label":"PORT_SPEED","pattern":"409mb"}
+{"label":"PORT_SPEED","pattern":"410mb"}
+{"label":"PORT_SPEED","pattern":"411mb"}
+{"label":"PORT_SPEED","pattern":"412mb"}
+{"label":"PORT_SPEED","pattern":"413mb"}
+{"label":"PORT_SPEED","pattern":"414mb"}
+{"label":"PORT_SPEED","pattern":"415mb"}
+{"label":"PORT_SPEED","pattern":"416mb"}
+{"label":"PORT_SPEED","pattern":"417mb"}
+{"label":"PORT_SPEED","pattern":"418mb"}
+{"label":"PORT_SPEED","pattern":"419mb"}
+{"label":"PORT_SPEED","pattern":"420mb"}
+{"label":"PORT_SPEED","pattern":"421mb"}
+{"label":"PORT_SPEED","pattern":"422mb"}
+{"label":"PORT_SPEED","pattern":"423mb"}
+{"label":"PORT_SPEED","pattern":"424mb"}
+{"label":"PORT_SPEED","pattern":"425mb"}
+{"label":"PORT_SPEED","pattern":"426mb"}
+{"label":"PORT_SPEED","pattern":"427mb"}
+{"label":"PORT_SPEED","pattern":"428mb"}
+{"label":"PORT_SPEED","pattern":"429mb"}
+{"label":"PORT_SPEED","pattern":"430mb"}
+{"label":"PORT_SPEED","pattern":"431mb"}
+{"label":"PORT_SPEED","pattern":"432mb"}
+{"label":"PORT_SPEED","pattern":"433mb"}
+{"label":"PORT_SPEED","pattern":"434mb"}
+{"label":"PORT_SPEED","pattern":"435mb"}
+{"label":"PORT_SPEED","pattern":"436mb"}
+{"label":"PORT_SPEED","pattern":"437mb"}
+{"label":"PORT_SPEED","pattern":"438mb"}
+{"label":"PORT_SPEED","pattern":"439mb"}
+{"label":"PORT_SPEED","pattern":"440mb"}
+{"label":"PORT_SPEED","pattern":"441mb"}
+{"label":"PORT_SPEED","pattern":"442mb"}
+{"label":"PORT_SPEED","pattern":"443mb"}
+{"label":"PORT_SPEED","pattern":"444mb"}
+{"label":"PORT_SPEED","pattern":"445mb"}
+{"label":"PORT_SPEED","pattern":"446mb"}
+{"label":"PORT_SPEED","pattern":"447mb"}
+{"label":"PORT_SPEED","pattern":"448mb"}
+{"label":"PORT_SPEED","pattern":"449mb"}
+{"label":"PORT_SPEED","pattern":"450mb"}
+{"label":"PORT_SPEED","pattern":"451mb"}
+{"label":"PORT_SPEED","pattern":"452mb"}
+{"label":"PORT_SPEED","pattern":"453mb"}
+{"label":"PORT_SPEED","pattern":"454mb"}
+{"label":"PORT_SPEED","pattern":"455mb"}
+{"label":"PORT_SPEED","pattern":"456mb"}
+{"label":"PORT_SPEED","pattern":"457mb"}
+{"label":"PORT_SPEED","pattern":"458mb"}
+{"label":"PORT_SPEED","pattern":"459mb"}
+{"label":"PORT_SPEED","pattern":"460mb"}
+{"label":"PORT_SPEED","pattern":"461mb"}
+{"label":"PORT_SPEED","pattern":"462mb"}
+{"label":"PORT_SPEED","pattern":"463mb"}
+{"label":"PORT_SPEED","pattern":"464mb"}
+{"label":"PORT_SPEED","pattern":"465mb"}
+{"label":"PORT_SPEED","pattern":"466mb"}
+{"label":"PORT_SPEED","pattern":"467mb"}
+{"label":"PORT_SPEED","pattern":"468mb"}
+{"label":"PORT_SPEED","pattern":"469mb"}
+{"label":"PORT_SPEED","pattern":"470mb"}
+{"label":"PORT_SPEED","pattern":"471mb"}
+{"label":"PORT_SPEED","pattern":"472mb"}
+{"label":"PORT_SPEED","pattern":"473mb"}
+{"label":"PORT_SPEED","pattern":"474mb"}
+{"label":"PORT_SPEED","pattern":"475mb"}
+{"label":"PORT_SPEED","pattern":"476mb"}
+{"label":"PORT_SPEED","pattern":"477mb"}
+{"label":"PORT_SPEED","pattern":"478mb"}
+{"label":"PORT_SPEED","pattern":"479mb"}
+{"label":"PORT_SPEED","pattern":"480mb"}
+{"label":"PORT_SPEED","pattern":"481mb"}
+{"label":"PORT_SPEED","pattern":"482mb"}
+{"label":"PORT_SPEED","pattern":"483mb"}
+{"label":"PORT_SPEED","pattern":"484mb"}
+{"label":"PORT_SPEED","pattern":"485mb"}
+{"label":"PORT_SPEED","pattern":"486mb"}
+{"label":"PORT_SPEED","pattern":"487mb"}
+{"label":"PORT_SPEED","pattern":"488mb"}
+{"label":"PORT_SPEED","pattern":"489mb"}
+{"label":"PORT_SPEED","pattern":"490mb"}
+{"label":"PORT_SPEED","pattern":"491mb"}
+{"label":"PORT_SPEED","pattern":"492mb"}
+{"label":"PORT_SPEED","pattern":"493mb"}
+{"label":"PORT_SPEED","pattern":"494mb"}
+{"label":"PORT_SPEED","pattern":"495mb"}
+{"label":"PORT_SPEED","pattern":"496mb"}
+{"label":"PORT_SPEED","pattern":"497mb"}
+{"label":"PORT_SPEED","pattern":"498mb"}
+{"label":"PORT_SPEED","pattern":"499mb"}
+{"label":"PORT_SPEED","pattern":"500mb"}
+{"label":"PORT_SPEED","pattern":"501mb"}
+{"label":"PORT_SPEED","pattern":"502mb"}
+{"label":"PORT_SPEED","pattern":"503mb"}
+{"label":"PORT_SPEED","pattern":"504mb"}
+{"label":"PORT_SPEED","pattern":"505mb"}
+{"label":"PORT_SPEED","pattern":"506mb"}
+{"label":"PORT_SPEED","pattern":"507mb"}
+{"label":"PORT_SPEED","pattern":"508mb"}
+{"label":"PORT_SPEED","pattern":"509mb"}
+{"label":"PORT_SPEED","pattern":"510mb"}
+{"label":"PORT_SPEED","pattern":"511mb"}
+{"label":"PORT_SPEED","pattern":"512mb"}
+{"label":"PORT_SPEED","pattern":"513mb"}
+{"label":"PORT_SPEED","pattern":"514mb"}
+{"label":"PORT_SPEED","pattern":"515mb"}
+{"label":"PORT_SPEED","pattern":"516mb"}
+{"label":"PORT_SPEED","pattern":"517mb"}
+{"label":"PORT_SPEED","pattern":"518mb"}
+{"label":"PORT_SPEED","pattern":"519mb"}
+{"label":"PORT_SPEED","pattern":"520mb"}
+{"label":"PORT_SPEED","pattern":"521mb"}
+{"label":"PORT_SPEED","pattern":"522mb"}
+{"label":"PORT_SPEED","pattern":"523mb"}
+{"label":"PORT_SPEED","pattern":"524mb"}
+{"label":"PORT_SPEED","pattern":"525mb"}
+{"label":"PORT_SPEED","pattern":"526mb"}
+{"label":"PORT_SPEED","pattern":"527mb"}
+{"label":"PORT_SPEED","pattern":"528mb"}
+{"label":"PORT_SPEED","pattern":"529mb"}
+{"label":"PORT_SPEED","pattern":"530mb"}
+{"label":"PORT_SPEED","pattern":"531mb"}
+{"label":"PORT_SPEED","pattern":"532mb"}
+{"label":"PORT_SPEED","pattern":"533mb"}
+{"label":"PORT_SPEED","pattern":"534mb"}
+{"label":"PORT_SPEED","pattern":"535mb"}
+{"label":"PORT_SPEED","pattern":"536mb"}
+{"label":"PORT_SPEED","pattern":"537mb"}
+{"label":"PORT_SPEED","pattern":"538mb"}
+{"label":"PORT_SPEED","pattern":"539mb"}
+{"label":"PORT_SPEED","pattern":"540mb"}
+{"label":"PORT_SPEED","pattern":"541mb"}
+{"label":"PORT_SPEED","pattern":"542mb"}
+{"label":"PORT_SPEED","pattern":"543mb"}
+{"label":"PORT_SPEED","pattern":"544mb"}
+{"label":"PORT_SPEED","pattern":"545mb"}
+{"label":"PORT_SPEED","pattern":"546mb"}
+{"label":"PORT_SPEED","pattern":"547mb"}
+{"label":"PORT_SPEED","pattern":"548mb"}
+{"label":"PORT_SPEED","pattern":"549mb"}
+{"label":"PORT_SPEED","pattern":"550mb"}
+{"label":"PORT_SPEED","pattern":"551mb"}
+{"label":"PORT_SPEED","pattern":"552mb"}
+{"label":"PORT_SPEED","pattern":"553mb"}
+{"label":"PORT_SPEED","pattern":"554mb"}
+{"label":"PORT_SPEED","pattern":"555mb"}
+{"label":"PORT_SPEED","pattern":"556mb"}
+{"label":"PORT_SPEED","pattern":"557mb"}
+{"label":"PORT_SPEED","pattern":"558mb"}
+{"label":"PORT_SPEED","pattern":"559mb"}
+{"label":"PORT_SPEED","pattern":"560mb"}
+{"label":"PORT_SPEED","pattern":"561mb"}
+{"label":"PORT_SPEED","pattern":"562mb"}
+{"label":"PORT_SPEED","pattern":"563mb"}
+{"label":"PORT_SPEED","pattern":"564mb"}
+{"label":"PORT_SPEED","pattern":"565mb"}
+{"label":"PORT_SPEED","pattern":"566mb"}
+{"label":"PORT_SPEED","pattern":"567mb"}
+{"label":"PORT_SPEED","pattern":"568mb"}
+{"label":"PORT_SPEED","pattern":"569mb"}
+{"label":"PORT_SPEED","pattern":"570mb"}
+{"label":"PORT_SPEED","pattern":"571mb"}
+{"label":"PORT_SPEED","pattern":"572mb"}
+{"label":"PORT_SPEED","pattern":"573mb"}
+{"label":"PORT_SPEED","pattern":"574mb"}
+{"label":"PORT_SPEED","pattern":"575mb"}
+{"label":"PORT_SPEED","pattern":"576mb"}
+{"label":"PORT_SPEED","pattern":"577mb"}
+{"label":"PORT_SPEED","pattern":"578mb"}
+{"label":"PORT_SPEED","pattern":"579mb"}
+{"label":"PORT_SPEED","pattern":"580mb"}
+{"label":"PORT_SPEED","pattern":"581mb"}
+{"label":"PORT_SPEED","pattern":"582mb"}
+{"label":"PORT_SPEED","pattern":"583mb"}
+{"label":"PORT_SPEED","pattern":"584mb"}
+{"label":"PORT_SPEED","pattern":"585mb"}
+{"label":"PORT_SPEED","pattern":"586mb"}
+{"label":"PORT_SPEED","pattern":"587mb"}
+{"label":"PORT_SPEED","pattern":"588mb"}
+{"label":"PORT_SPEED","pattern":"589mb"}
+{"label":"PORT_SPEED","pattern":"590mb"}
+{"label":"PORT_SPEED","pattern":"591mb"}
+{"label":"PORT_SPEED","pattern":"592mb"}
+{"label":"PORT_SPEED","pattern":"593mb"}
+{"label":"PORT_SPEED","pattern":"594mb"}
+{"label":"PORT_SPEED","pattern":"595mb"}
+{"label":"PORT_SPEED","pattern":"596mb"}
+{"label":"PORT_SPEED","pattern":"597mb"}
+{"label":"PORT_SPEED","pattern":"598mb"}
+{"label":"PORT_SPEED","pattern":"599mb"}
+{"label":"PORT_SPEED","pattern":"600mb"}
+{"label":"PORT_SPEED","pattern":"601mb"}
+{"label":"PORT_SPEED","pattern":"602mb"}
+{"label":"PORT_SPEED","pattern":"603mb"}
+{"label":"PORT_SPEED","pattern":"604mb"}
+{"label":"PORT_SPEED","pattern":"605mb"}
+{"label":"PORT_SPEED","pattern":"606mb"}
+{"label":"PORT_SPEED","pattern":"607mb"}
+{"label":"PORT_SPEED","pattern":"608mb"}
+{"label":"PORT_SPEED","pattern":"609mb"}
+{"label":"PORT_SPEED","pattern":"610mb"}
+{"label":"PORT_SPEED","pattern":"611mb"}
+{"label":"PORT_SPEED","pattern":"612mb"}
+{"label":"PORT_SPEED","pattern":"613mb"}
+{"label":"PORT_SPEED","pattern":"614mb"}
+{"label":"PORT_SPEED","pattern":"615mb"}
+{"label":"PORT_SPEED","pattern":"616mb"}
+{"label":"PORT_SPEED","pattern":"617mb"}
+{"label":"PORT_SPEED","pattern":"618mb"}
+{"label":"PORT_SPEED","pattern":"619mb"}
+{"label":"PORT_SPEED","pattern":"620mb"}
+{"label":"PORT_SPEED","pattern":"621mb"}
+{"label":"PORT_SPEED","pattern":"622mb"}
+{"label":"PORT_SPEED","pattern":"623mb"}
+{"label":"PORT_SPEED","pattern":"624mb"}
+{"label":"PORT_SPEED","pattern":"625mb"}
+{"label":"PORT_SPEED","pattern":"626mb"}
+{"label":"PORT_SPEED","pattern":"627mb"}
+{"label":"PORT_SPEED","pattern":"628mb"}
+{"label":"PORT_SPEED","pattern":"629mb"}
+{"label":"PORT_SPEED","pattern":"630mb"}
+{"label":"PORT_SPEED","pattern":"631mb"}
+{"label":"PORT_SPEED","pattern":"632mb"}
+{"label":"PORT_SPEED","pattern":"633mb"}
+{"label":"PORT_SPEED","pattern":"634mb"}
+{"label":"PORT_SPEED","pattern":"635mb"}
+{"label":"PORT_SPEED","pattern":"636mb"}
+{"label":"PORT_SPEED","pattern":"637mb"}
+{"label":"PORT_SPEED","pattern":"638mb"}
+{"label":"PORT_SPEED","pattern":"639mb"}
+{"label":"PORT_SPEED","pattern":"640mb"}
+{"label":"PORT_SPEED","pattern":"641mb"}
+{"label":"PORT_SPEED","pattern":"642mb"}
+{"label":"PORT_SPEED","pattern":"643mb"}
+{"label":"PORT_SPEED","pattern":"644mb"}
+{"label":"PORT_SPEED","pattern":"645mb"}
+{"label":"PORT_SPEED","pattern":"646mb"}
+{"label":"PORT_SPEED","pattern":"647mb"}
+{"label":"PORT_SPEED","pattern":"648mb"}
+{"label":"PORT_SPEED","pattern":"649mb"}
+{"label":"PORT_SPEED","pattern":"650mb"}
+{"label":"PORT_SPEED","pattern":"651mb"}
+{"label":"PORT_SPEED","pattern":"652mb"}
+{"label":"PORT_SPEED","pattern":"653mb"}
+{"label":"PORT_SPEED","pattern":"654mb"}
+{"label":"PORT_SPEED","pattern":"655mb"}
+{"label":"PORT_SPEED","pattern":"656mb"}
+{"label":"PORT_SPEED","pattern":"657mb"}
+{"label":"PORT_SPEED","pattern":"658mb"}
+{"label":"PORT_SPEED","pattern":"659mb"}
+{"label":"PORT_SPEED","pattern":"660mb"}
+{"label":"PORT_SPEED","pattern":"661mb"}
+{"label":"PORT_SPEED","pattern":"662mb"}
+{"label":"PORT_SPEED","pattern":"663mb"}
+{"label":"PORT_SPEED","pattern":"664mb"}
+{"label":"PORT_SPEED","pattern":"665mb"}
+{"label":"PORT_SPEED","pattern":"666mb"}
+{"label":"PORT_SPEED","pattern":"667mb"}
+{"label":"PORT_SPEED","pattern":"668mb"}
+{"label":"PORT_SPEED","pattern":"669mb"}
+{"label":"PORT_SPEED","pattern":"670mb"}
+{"label":"PORT_SPEED","pattern":"671mb"}
+{"label":"PORT_SPEED","pattern":"672mb"}
+{"label":"PORT_SPEED","pattern":"673mb"}
+{"label":"PORT_SPEED","pattern":"674mb"}
+{"label":"PORT_SPEED","pattern":"675mb"}
+{"label":"PORT_SPEED","pattern":"676mb"}
+{"label":"PORT_SPEED","pattern":"677mb"}
+{"label":"PORT_SPEED","pattern":"678mb"}
+{"label":"PORT_SPEED","pattern":"679mb"}
+{"label":"PORT_SPEED","pattern":"680mb"}
+{"label":"PORT_SPEED","pattern":"681mb"}
+{"label":"PORT_SPEED","pattern":"682mb"}
+{"label":"PORT_SPEED","pattern":"683mb"}
+{"label":"PORT_SPEED","pattern":"684mb"}
+{"label":"PORT_SPEED","pattern":"685mb"}
+{"label":"PORT_SPEED","pattern":"686mb"}
+{"label":"PORT_SPEED","pattern":"687mb"}
+{"label":"PORT_SPEED","pattern":"688mb"}
+{"label":"PORT_SPEED","pattern":"689mb"}
+{"label":"PORT_SPEED","pattern":"690mb"}
+{"label":"PORT_SPEED","pattern":"691mb"}
+{"label":"PORT_SPEED","pattern":"692mb"}
+{"label":"PORT_SPEED","pattern":"693mb"}
+{"label":"PORT_SPEED","pattern":"694mb"}
+{"label":"PORT_SPEED","pattern":"695mb"}
+{"label":"PORT_SPEED","pattern":"696mb"}
+{"label":"PORT_SPEED","pattern":"697mb"}
+{"label":"PORT_SPEED","pattern":"698mb"}
+{"label":"PORT_SPEED","pattern":"699mb"}
+{"label":"PORT_SPEED","pattern":"700mb"}
+{"label":"PORT_SPEED","pattern":"701mb"}
+{"label":"PORT_SPEED","pattern":"702mb"}
+{"label":"PORT_SPEED","pattern":"703mb"}
+{"label":"PORT_SPEED","pattern":"704mb"}
+{"label":"PORT_SPEED","pattern":"705mb"}
+{"label":"PORT_SPEED","pattern":"706mb"}
+{"label":"PORT_SPEED","pattern":"707mb"}
+{"label":"PORT_SPEED","pattern":"708mb"}
+{"label":"PORT_SPEED","pattern":"709mb"}
+{"label":"PORT_SPEED","pattern":"710mb"}
+{"label":"PORT_SPEED","pattern":"711mb"}
+{"label":"PORT_SPEED","pattern":"712mb"}
+{"label":"PORT_SPEED","pattern":"713mb"}
+{"label":"PORT_SPEED","pattern":"714mb"}
+{"label":"PORT_SPEED","pattern":"715mb"}
+{"label":"PORT_SPEED","pattern":"716mb"}
+{"label":"PORT_SPEED","pattern":"717mb"}
+{"label":"PORT_SPEED","pattern":"718mb"}
+{"label":"PORT_SPEED","pattern":"719mb"}
+{"label":"PORT_SPEED","pattern":"720mb"}
+{"label":"PORT_SPEED","pattern":"721mb"}
+{"label":"PORT_SPEED","pattern":"722mb"}
+{"label":"PORT_SPEED","pattern":"723mb"}
+{"label":"PORT_SPEED","pattern":"724mb"}
+{"label":"PORT_SPEED","pattern":"725mb"}
+{"label":"PORT_SPEED","pattern":"726mb"}
+{"label":"PORT_SPEED","pattern":"727mb"}
+{"label":"PORT_SPEED","pattern":"728mb"}
+{"label":"PORT_SPEED","pattern":"729mb"}
+{"label":"PORT_SPEED","pattern":"730mb"}
+{"label":"PORT_SPEED","pattern":"731mb"}
+{"label":"PORT_SPEED","pattern":"732mb"}
+{"label":"PORT_SPEED","pattern":"733mb"}
+{"label":"PORT_SPEED","pattern":"734mb"}
+{"label":"PORT_SPEED","pattern":"735mb"}
+{"label":"PORT_SPEED","pattern":"736mb"}
+{"label":"PORT_SPEED","pattern":"737mb"}
+{"label":"PORT_SPEED","pattern":"738mb"}
+{"label":"PORT_SPEED","pattern":"739mb"}
+{"label":"PORT_SPEED","pattern":"740mb"}
+{"label":"PORT_SPEED","pattern":"741mb"}
+{"label":"PORT_SPEED","pattern":"742mb"}
+{"label":"PORT_SPEED","pattern":"743mb"}
+{"label":"PORT_SPEED","pattern":"744mb"}
+{"label":"PORT_SPEED","pattern":"745mb"}
+{"label":"PORT_SPEED","pattern":"746mb"}
+{"label":"PORT_SPEED","pattern":"747mb"}
+{"label":"PORT_SPEED","pattern":"748mb"}
+{"label":"PORT_SPEED","pattern":"749mb"}
+{"label":"PORT_SPEED","pattern":"750mb"}
+{"label":"PORT_SPEED","pattern":"751mb"}
+{"label":"PORT_SPEED","pattern":"752mb"}
+{"label":"PORT_SPEED","pattern":"753mb"}
+{"label":"PORT_SPEED","pattern":"754mb"}
+{"label":"PORT_SPEED","pattern":"755mb"}
+{"label":"PORT_SPEED","pattern":"756mb"}
+{"label":"PORT_SPEED","pattern":"757mb"}
+{"label":"PORT_SPEED","pattern":"758mb"}
+{"label":"PORT_SPEED","pattern":"759mb"}
+{"label":"PORT_SPEED","pattern":"760mb"}
+{"label":"PORT_SPEED","pattern":"761mb"}
+{"label":"PORT_SPEED","pattern":"762mb"}
+{"label":"PORT_SPEED","pattern":"763mb"}
+{"label":"PORT_SPEED","pattern":"764mb"}
+{"label":"PORT_SPEED","pattern":"765mb"}
+{"label":"PORT_SPEED","pattern":"766mb"}
+{"label":"PORT_SPEED","pattern":"767mb"}
+{"label":"PORT_SPEED","pattern":"768mb"}
+{"label":"PORT_SPEED","pattern":"769mb"}
+{"label":"PORT_SPEED","pattern":"770mb"}
+{"label":"PORT_SPEED","pattern":"771mb"}
+{"label":"PORT_SPEED","pattern":"772mb"}
+{"label":"PORT_SPEED","pattern":"773mb"}
+{"label":"PORT_SPEED","pattern":"774mb"}
+{"label":"PORT_SPEED","pattern":"775mb"}
+{"label":"PORT_SPEED","pattern":"776mb"}
+{"label":"PORT_SPEED","pattern":"777mb"}
+{"label":"PORT_SPEED","pattern":"778mb"}
+{"label":"PORT_SPEED","pattern":"779mb"}
+{"label":"PORT_SPEED","pattern":"780mb"}
+{"label":"PORT_SPEED","pattern":"781mb"}
+{"label":"PORT_SPEED","pattern":"782mb"}
+{"label":"PORT_SPEED","pattern":"783mb"}
+{"label":"PORT_SPEED","pattern":"784mb"}
+{"label":"PORT_SPEED","pattern":"785mb"}
+{"label":"PORT_SPEED","pattern":"786mb"}
+{"label":"PORT_SPEED","pattern":"787mb"}
+{"label":"PORT_SPEED","pattern":"788mb"}
+{"label":"PORT_SPEED","pattern":"789mb"}
+{"label":"PORT_SPEED","pattern":"790mb"}
+{"label":"PORT_SPEED","pattern":"791mb"}
+{"label":"PORT_SPEED","pattern":"792mb"}
+{"label":"PORT_SPEED","pattern":"793mb"}
+{"label":"PORT_SPEED","pattern":"794mb"}
+{"label":"PORT_SPEED","pattern":"795mb"}
+{"label":"PORT_SPEED","pattern":"796mb"}
+{"label":"PORT_SPEED","pattern":"797mb"}
+{"label":"PORT_SPEED","pattern":"798mb"}
+{"label":"PORT_SPEED","pattern":"799mb"}
+{"label":"PORT_SPEED","pattern":"800mb"}
+{"label":"PORT_SPEED","pattern":"801mb"}
+{"label":"PORT_SPEED","pattern":"802mb"}
+{"label":"PORT_SPEED","pattern":"803mb"}
+{"label":"PORT_SPEED","pattern":"804mb"}
+{"label":"PORT_SPEED","pattern":"805mb"}
+{"label":"PORT_SPEED","pattern":"806mb"}
+{"label":"PORT_SPEED","pattern":"807mb"}
+{"label":"PORT_SPEED","pattern":"808mb"}
+{"label":"PORT_SPEED","pattern":"809mb"}
+{"label":"PORT_SPEED","pattern":"810mb"}
+{"label":"PORT_SPEED","pattern":"811mb"}
+{"label":"PORT_SPEED","pattern":"812mb"}
+{"label":"PORT_SPEED","pattern":"813mb"}
+{"label":"PORT_SPEED","pattern":"814mb"}
+{"label":"PORT_SPEED","pattern":"815mb"}
+{"label":"PORT_SPEED","pattern":"816mb"}
+{"label":"PORT_SPEED","pattern":"817mb"}
+{"label":"PORT_SPEED","pattern":"818mb"}
+{"label":"PORT_SPEED","pattern":"819mb"}
+{"label":"PORT_SPEED","pattern":"820mb"}
+{"label":"PORT_SPEED","pattern":"821mb"}
+{"label":"PORT_SPEED","pattern":"822mb"}
+{"label":"PORT_SPEED","pattern":"823mb"}
+{"label":"PORT_SPEED","pattern":"824mb"}
+{"label":"PORT_SPEED","pattern":"825mb"}
+{"label":"PORT_SPEED","pattern":"826mb"}
+{"label":"PORT_SPEED","pattern":"827mb"}
+{"label":"PORT_SPEED","pattern":"828mb"}
+{"label":"PORT_SPEED","pattern":"829mb"}
+{"label":"PORT_SPEED","pattern":"830mb"}
+{"label":"PORT_SPEED","pattern":"831mb"}
+{"label":"PORT_SPEED","pattern":"832mb"}
+{"label":"PORT_SPEED","pattern":"833mb"}
+{"label":"PORT_SPEED","pattern":"834mb"}
+{"label":"PORT_SPEED","pattern":"835mb"}
+{"label":"PORT_SPEED","pattern":"836mb"}
+{"label":"PORT_SPEED","pattern":"837mb"}
+{"label":"PORT_SPEED","pattern":"838mb"}
+{"label":"PORT_SPEED","pattern":"839mb"}
+{"label":"PORT_SPEED","pattern":"840mb"}
+{"label":"PORT_SPEED","pattern":"841mb"}
+{"label":"PORT_SPEED","pattern":"842mb"}
+{"label":"PORT_SPEED","pattern":"843mb"}
+{"label":"PORT_SPEED","pattern":"844mb"}
+{"label":"PORT_SPEED","pattern":"845mb"}
+{"label":"PORT_SPEED","pattern":"846mb"}
+{"label":"PORT_SPEED","pattern":"847mb"}
+{"label":"PORT_SPEED","pattern":"848mb"}
+{"label":"PORT_SPEED","pattern":"849mb"}
+{"label":"PORT_SPEED","pattern":"850mb"}
+{"label":"PORT_SPEED","pattern":"851mb"}
+{"label":"PORT_SPEED","pattern":"852mb"}
+{"label":"PORT_SPEED","pattern":"853mb"}
+{"label":"PORT_SPEED","pattern":"854mb"}
+{"label":"PORT_SPEED","pattern":"855mb"}
+{"label":"PORT_SPEED","pattern":"856mb"}
+{"label":"PORT_SPEED","pattern":"857mb"}
+{"label":"PORT_SPEED","pattern":"858mb"}
+{"label":"PORT_SPEED","pattern":"859mb"}
+{"label":"PORT_SPEED","pattern":"860mb"}
+{"label":"PORT_SPEED","pattern":"861mb"}
+{"label":"PORT_SPEED","pattern":"862mb"}
+{"label":"PORT_SPEED","pattern":"863mb"}
+{"label":"PORT_SPEED","pattern":"864mb"}
+{"label":"PORT_SPEED","pattern":"865mb"}
+{"label":"PORT_SPEED","pattern":"866mb"}
+{"label":"PORT_SPEED","pattern":"867mb"}
+{"label":"PORT_SPEED","pattern":"868mb"}
+{"label":"PORT_SPEED","pattern":"869mb"}
+{"label":"PORT_SPEED","pattern":"870mb"}
+{"label":"PORT_SPEED","pattern":"871mb"}
+{"label":"PORT_SPEED","pattern":"872mb"}
+{"label":"PORT_SPEED","pattern":"873mb"}
+{"label":"PORT_SPEED","pattern":"874mb"}
+{"label":"PORT_SPEED","pattern":"875mb"}
+{"label":"PORT_SPEED","pattern":"876mb"}
+{"label":"PORT_SPEED","pattern":"877mb"}
+{"label":"PORT_SPEED","pattern":"878mb"}
+{"label":"PORT_SPEED","pattern":"879mb"}
+{"label":"PORT_SPEED","pattern":"880mb"}
+{"label":"PORT_SPEED","pattern":"881mb"}
+{"label":"PORT_SPEED","pattern":"882mb"}
+{"label":"PORT_SPEED","pattern":"883mb"}
+{"label":"PORT_SPEED","pattern":"884mb"}
+{"label":"PORT_SPEED","pattern":"885mb"}
+{"label":"PORT_SPEED","pattern":"886mb"}
+{"label":"PORT_SPEED","pattern":"887mb"}
+{"label":"PORT_SPEED","pattern":"888mb"}
+{"label":"PORT_SPEED","pattern":"889mb"}
+{"label":"PORT_SPEED","pattern":"890mb"}
+{"label":"PORT_SPEED","pattern":"891mb"}
+{"label":"PORT_SPEED","pattern":"892mb"}
+{"label":"PORT_SPEED","pattern":"893mb"}
+{"label":"PORT_SPEED","pattern":"894mb"}
+{"label":"PORT_SPEED","pattern":"895mb"}
+{"label":"PORT_SPEED","pattern":"896mb"}
+{"label":"PORT_SPEED","pattern":"897mb"}
+{"label":"PORT_SPEED","pattern":"898mb"}
+{"label":"PORT_SPEED","pattern":"899mb"}
+{"label":"PORT_SPEED","pattern":"900mb"}
+{"label":"PORT_SPEED","pattern":"901mb"}
+{"label":"PORT_SPEED","pattern":"902mb"}
+{"label":"PORT_SPEED","pattern":"903mb"}
+{"label":"PORT_SPEED","pattern":"904mb"}
+{"label":"PORT_SPEED","pattern":"905mb"}
+{"label":"PORT_SPEED","pattern":"906mb"}
+{"label":"PORT_SPEED","pattern":"907mb"}
+{"label":"PORT_SPEED","pattern":"908mb"}
+{"label":"PORT_SPEED","pattern":"909mb"}
+{"label":"PORT_SPEED","pattern":"910mb"}
+{"label":"PORT_SPEED","pattern":"911mb"}
+{"label":"PORT_SPEED","pattern":"912mb"}
+{"label":"PORT_SPEED","pattern":"913mb"}
+{"label":"PORT_SPEED","pattern":"914mb"}
+{"label":"PORT_SPEED","pattern":"915mb"}
+{"label":"PORT_SPEED","pattern":"916mb"}
+{"label":"PORT_SPEED","pattern":"917mb"}
+{"label":"PORT_SPEED","pattern":"918mb"}
+{"label":"PORT_SPEED","pattern":"919mb"}
+{"label":"PORT_SPEED","pattern":"920mb"}
+{"label":"PORT_SPEED","pattern":"921mb"}
+{"label":"PORT_SPEED","pattern":"922mb"}
+{"label":"PORT_SPEED","pattern":"923mb"}
+{"label":"PORT_SPEED","pattern":"924mb"}
+{"label":"PORT_SPEED","pattern":"925mb"}
+{"label":"PORT_SPEED","pattern":"926mb"}
+{"label":"PORT_SPEED","pattern":"927mb"}
+{"label":"PORT_SPEED","pattern":"928mb"}
+{"label":"PORT_SPEED","pattern":"929mb"}
+{"label":"PORT_SPEED","pattern":"930mb"}
+{"label":"PORT_SPEED","pattern":"931mb"}
+{"label":"PORT_SPEED","pattern":"932mb"}
+{"label":"PORT_SPEED","pattern":"933mb"}
+{"label":"PORT_SPEED","pattern":"934mb"}
+{"label":"PORT_SPEED","pattern":"935mb"}
+{"label":"PORT_SPEED","pattern":"936mb"}
+{"label":"PORT_SPEED","pattern":"937mb"}
+{"label":"PORT_SPEED","pattern":"938mb"}
+{"label":"PORT_SPEED","pattern":"939mb"}
+{"label":"PORT_SPEED","pattern":"940mb"}
+{"label":"PORT_SPEED","pattern":"941mb"}
+{"label":"PORT_SPEED","pattern":"942mb"}
+{"label":"PORT_SPEED","pattern":"943mb"}
+{"label":"PORT_SPEED","pattern":"944mb"}
+{"label":"PORT_SPEED","pattern":"945mb"}
+{"label":"PORT_SPEED","pattern":"946mb"}
+{"label":"PORT_SPEED","pattern":"947mb"}
+{"label":"PORT_SPEED","pattern":"948mb"}
+{"label":"PORT_SPEED","pattern":"949mb"}
+{"label":"PORT_SPEED","pattern":"950mb"}
+{"label":"PORT_SPEED","pattern":"951mb"}
+{"label":"PORT_SPEED","pattern":"952mb"}
+{"label":"PORT_SPEED","pattern":"953mb"}
+{"label":"PORT_SPEED","pattern":"954mb"}
+{"label":"PORT_SPEED","pattern":"955mb"}
+{"label":"PORT_SPEED","pattern":"956mb"}
+{"label":"PORT_SPEED","pattern":"957mb"}
+{"label":"PORT_SPEED","pattern":"958mb"}
+{"label":"PORT_SPEED","pattern":"959mb"}
+{"label":"PORT_SPEED","pattern":"960mb"}
+{"label":"PORT_SPEED","pattern":"961mb"}
+{"label":"PORT_SPEED","pattern":"962mb"}
+{"label":"PORT_SPEED","pattern":"963mb"}
+{"label":"PORT_SPEED","pattern":"964mb"}
+{"label":"PORT_SPEED","pattern":"965mb"}
+{"label":"PORT_SPEED","pattern":"966mb"}
+{"label":"PORT_SPEED","pattern":"967mb"}
+{"label":"PORT_SPEED","pattern":"968mb"}
+{"label":"PORT_SPEED","pattern":"969mb"}
+{"label":"PORT_SPEED","pattern":"970mb"}
+{"label":"PORT_SPEED","pattern":"971mb"}
+{"label":"PORT_SPEED","pattern":"972mb"}
+{"label":"PORT_SPEED","pattern":"973mb"}
+{"label":"PORT_SPEED","pattern":"974mb"}
+{"label":"PORT_SPEED","pattern":"975mb"}
+{"label":"PORT_SPEED","pattern":"976mb"}
+{"label":"PORT_SPEED","pattern":"977mb"}
+{"label":"PORT_SPEED","pattern":"978mb"}
+{"label":"PORT_SPEED","pattern":"979mb"}
+{"label":"PORT_SPEED","pattern":"980mb"}
+{"label":"PORT_SPEED","pattern":"981mb"}
+{"label":"PORT_SPEED","pattern":"982mb"}
+{"label":"PORT_SPEED","pattern":"983mb"}
+{"label":"PORT_SPEED","pattern":"984mb"}
+{"label":"PORT_SPEED","pattern":"985mb"}
+{"label":"PORT_SPEED","pattern":"986mb"}
+{"label":"PORT_SPEED","pattern":"987mb"}
+{"label":"PORT_SPEED","pattern":"988mb"}
+{"label":"PORT_SPEED","pattern":"989mb"}
+{"label":"PORT_SPEED","pattern":"990mb"}
+{"label":"PORT_SPEED","pattern":"991mb"}
+{"label":"PORT_SPEED","pattern":"992mb"}
+{"label":"PORT_SPEED","pattern":"993mb"}
+{"label":"PORT_SPEED","pattern":"994mb"}
+{"label":"PORT_SPEED","pattern":"995mb"}
+{"label":"PORT_SPEED","pattern":"996mb"}
+{"label":"PORT_SPEED","pattern":"997mb"}
+{"label":"PORT_SPEED","pattern":"998mb"}
+{"label":"PORT_SPEED","pattern":"999mb"}
+{"label":"PORT_SPEED","pattern":"1000mb"}
+{"label":"PORT_SPEED","pattern":"1 gbps"}
+{"label":"PORT_SPEED","pattern":"2 gbps"}
+{"label":"PORT_SPEED","pattern":"3 gbps"}
+{"label":"PORT_SPEED","pattern":"4 gbps"}
+{"label":"PORT_SPEED","pattern":"5 gbps"}
+{"label":"PORT_SPEED","pattern":"6 gbps"}
+{"label":"PORT_SPEED","pattern":"7 gbps"}
+{"label":"PORT_SPEED","pattern":"8 gbps"}
+{"label":"PORT_SPEED","pattern":"9 gbps"}
+{"label":"PORT_SPEED","pattern":"10 gbps"}
+{"label":"PORT_SPEED","pattern":"11 gbps"}
+{"label":"PORT_SPEED","pattern":"12 gbps"}
+{"label":"PORT_SPEED","pattern":"13 gbps"}
+{"label":"PORT_SPEED","pattern":"14 gbps"}
+{"label":"PORT_SPEED","pattern":"15 gbps"}
+{"label":"PORT_SPEED","pattern":"16 gbps"}
+{"label":"PORT_SPEED","pattern":"17 gbps"}
+{"label":"PORT_SPEED","pattern":"18 gbps"}
+{"label":"PORT_SPEED","pattern":"19 gbps"}
+{"label":"PORT_SPEED","pattern":"20 gbps"}
+{"label":"PORT_SPEED","pattern":"21 gbps"}
+{"label":"PORT_SPEED","pattern":"22 gbps"}
+{"label":"PORT_SPEED","pattern":"23 gbps"}
+{"label":"PORT_SPEED","pattern":"24 gbps"}
+{"label":"PORT_SPEED","pattern":"25 gbps"}
+{"label":"PORT_SPEED","pattern":"26 gbps"}
+{"label":"PORT_SPEED","pattern":"27 gbps"}
+{"label":"PORT_SPEED","pattern":"28 gbps"}
+{"label":"PORT_SPEED","pattern":"29 gbps"}
+{"label":"PORT_SPEED","pattern":"30 gbps"}
+{"label":"PORT_SPEED","pattern":"31 gbps"}
+{"label":"PORT_SPEED","pattern":"32 gbps"}
+{"label":"PORT_SPEED","pattern":"33 gbps"}
+{"label":"PORT_SPEED","pattern":"34 gbps"}
+{"label":"PORT_SPEED","pattern":"35 gbps"}
+{"label":"PORT_SPEED","pattern":"36 gbps"}
+{"label":"PORT_SPEED","pattern":"37 gbps"}
+{"label":"PORT_SPEED","pattern":"38 gbps"}
+{"label":"PORT_SPEED","pattern":"39 gbps"}
+{"label":"PORT_SPEED","pattern":"40 gbps"}
+{"label":"PORT_SPEED","pattern":"41 gbps"}
+{"label":"PORT_SPEED","pattern":"42 gbps"}
+{"label":"PORT_SPEED","pattern":"43 gbps"}
+{"label":"PORT_SPEED","pattern":"44 gbps"}
+{"label":"PORT_SPEED","pattern":"45 gbps"}
+{"label":"PORT_SPEED","pattern":"46 gbps"}
+{"label":"PORT_SPEED","pattern":"47 gbps"}
+{"label":"PORT_SPEED","pattern":"48 gbps"}
+{"label":"PORT_SPEED","pattern":"49 gbps"}
+{"label":"PORT_SPEED","pattern":"50 gbps"}
+{"label":"PORT_SPEED","pattern":"51 gbps"}
+{"label":"PORT_SPEED","pattern":"52 gbps"}
+{"label":"PORT_SPEED","pattern":"53 gbps"}
+{"label":"PORT_SPEED","pattern":"54 gbps"}
+{"label":"PORT_SPEED","pattern":"55 gbps"}
+{"label":"PORT_SPEED","pattern":"56 gbps"}
+{"label":"PORT_SPEED","pattern":"57 gbps"}
+{"label":"PORT_SPEED","pattern":"58 gbps"}
+{"label":"PORT_SPEED","pattern":"59 gbps"}
+{"label":"PORT_SPEED","pattern":"60 gbps"}
+{"label":"PORT_SPEED","pattern":"61 gbps"}
+{"label":"PORT_SPEED","pattern":"62 gbps"}
+{"label":"PORT_SPEED","pattern":"63 gbps"}
+{"label":"PORT_SPEED","pattern":"64 gbps"}
+{"label":"PORT_SPEED","pattern":"65 gbps"}
+{"label":"PORT_SPEED","pattern":"66 gbps"}
+{"label":"PORT_SPEED","pattern":"67 gbps"}
+{"label":"PORT_SPEED","pattern":"68 gbps"}
+{"label":"PORT_SPEED","pattern":"69 gbps"}
+{"label":"PORT_SPEED","pattern":"70 gbps"}
+{"label":"PORT_SPEED","pattern":"71 gbps"}
+{"label":"PORT_SPEED","pattern":"72 gbps"}
+{"label":"PORT_SPEED","pattern":"73 gbps"}
+{"label":"PORT_SPEED","pattern":"74 gbps"}
+{"label":"PORT_SPEED","pattern":"75 gbps"}
+{"label":"PORT_SPEED","pattern":"76 gbps"}
+{"label":"PORT_SPEED","pattern":"77 gbps"}
+{"label":"PORT_SPEED","pattern":"78 gbps"}
+{"label":"PORT_SPEED","pattern":"79 gbps"}
+{"label":"PORT_SPEED","pattern":"80 gbps"}
+{"label":"PORT_SPEED","pattern":"81 gbps"}
+{"label":"PORT_SPEED","pattern":"82 gbps"}
+{"label":"PORT_SPEED","pattern":"83 gbps"}
+{"label":"PORT_SPEED","pattern":"84 gbps"}
+{"label":"PORT_SPEED","pattern":"85 gbps"}
+{"label":"PORT_SPEED","pattern":"86 gbps"}
+{"label":"PORT_SPEED","pattern":"87 gbps"}
+{"label":"PORT_SPEED","pattern":"88 gbps"}
+{"label":"PORT_SPEED","pattern":"89 gbps"}
+{"label":"PORT_SPEED","pattern":"90 gbps"}
+{"label":"PORT_SPEED","pattern":"91 gbps"}
+{"label":"PORT_SPEED","pattern":"92 gbps"}
+{"label":"PORT_SPEED","pattern":"93 gbps"}
+{"label":"PORT_SPEED","pattern":"94 gbps"}
+{"label":"PORT_SPEED","pattern":"95 gbps"}
+{"label":"PORT_SPEED","pattern":"96 gbps"}
+{"label":"PORT_SPEED","pattern":"97 gbps"}
+{"label":"PORT_SPEED","pattern":"98 gbps"}
+{"label":"PORT_SPEED","pattern":"99 gbps"}
+{"label":"PORT_SPEED","pattern":"100 gbps"}
+{"label":"PORT_SPEED","pattern":"1 gb"}
+{"label":"PORT_SPEED","pattern":"2 gb"}
+{"label":"PORT_SPEED","pattern":"3 gb"}
+{"label":"PORT_SPEED","pattern":"4 gb"}
+{"label":"PORT_SPEED","pattern":"5 gb"}
+{"label":"PORT_SPEED","pattern":"6 gb"}
+{"label":"PORT_SPEED","pattern":"7 gb"}
+{"label":"PORT_SPEED","pattern":"8 gb"}
+{"label":"PORT_SPEED","pattern":"9 gb"}
+{"label":"PORT_SPEED","pattern":"10 gb"}
+{"label":"PORT_SPEED","pattern":"11 gb"}
+{"label":"PORT_SPEED","pattern":"12 gb"}
+{"label":"PORT_SPEED","pattern":"13 gb"}
+{"label":"PORT_SPEED","pattern":"14 gb"}
+{"label":"PORT_SPEED","pattern":"15 gb"}
+{"label":"PORT_SPEED","pattern":"16 gb"}
+{"label":"PORT_SPEED","pattern":"17 gb"}
+{"label":"PORT_SPEED","pattern":"18 gb"}
+{"label":"PORT_SPEED","pattern":"19 gb"}
+{"label":"PORT_SPEED","pattern":"20 gb"}
+{"label":"PORT_SPEED","pattern":"21 gb"}
+{"label":"PORT_SPEED","pattern":"22 gb"}
+{"label":"PORT_SPEED","pattern":"23 gb"}
+{"label":"PORT_SPEED","pattern":"24 gb"}
+{"label":"PORT_SPEED","pattern":"25 gb"}
+{"label":"PORT_SPEED","pattern":"26 gb"}
+{"label":"PORT_SPEED","pattern":"27 gb"}
+{"label":"PORT_SPEED","pattern":"28 gb"}
+{"label":"PORT_SPEED","pattern":"29 gb"}
+{"label":"PORT_SPEED","pattern":"30 gb"}
+{"label":"PORT_SPEED","pattern":"31 gb"}
+{"label":"PORT_SPEED","pattern":"32 gb"}
+{"label":"PORT_SPEED","pattern":"33 gb"}
+{"label":"PORT_SPEED","pattern":"34 gb"}
+{"label":"PORT_SPEED","pattern":"35 gb"}
+{"label":"PORT_SPEED","pattern":"36 gb"}
+{"label":"PORT_SPEED","pattern":"37 gb"}
+{"label":"PORT_SPEED","pattern":"38 gb"}
+{"label":"PORT_SPEED","pattern":"39 gb"}
+{"label":"PORT_SPEED","pattern":"40 gb"}
+{"label":"PORT_SPEED","pattern":"41 gb"}
+{"label":"PORT_SPEED","pattern":"42 gb"}
+{"label":"PORT_SPEED","pattern":"43 gb"}
+{"label":"PORT_SPEED","pattern":"44 gb"}
+{"label":"PORT_SPEED","pattern":"45 gb"}
+{"label":"PORT_SPEED","pattern":"46 gb"}
+{"label":"PORT_SPEED","pattern":"47 gb"}
+{"label":"PORT_SPEED","pattern":"48 gb"}
+{"label":"PORT_SPEED","pattern":"49 gb"}
+{"label":"PORT_SPEED","pattern":"50 gb"}
+{"label":"PORT_SPEED","pattern":"51 gb"}
+{"label":"PORT_SPEED","pattern":"52 gb"}
+{"label":"PORT_SPEED","pattern":"53 gb"}
+{"label":"PORT_SPEED","pattern":"54 gb"}
+{"label":"PORT_SPEED","pattern":"55 gb"}
+{"label":"PORT_SPEED","pattern":"56 gb"}
+{"label":"PORT_SPEED","pattern":"57 gb"}
+{"label":"PORT_SPEED","pattern":"58 gb"}
+{"label":"PORT_SPEED","pattern":"59 gb"}
+{"label":"PORT_SPEED","pattern":"60 gb"}
+{"label":"PORT_SPEED","pattern":"61 gb"}
+{"label":"PORT_SPEED","pattern":"62 gb"}
+{"label":"PORT_SPEED","pattern":"63 gb"}
+{"label":"PORT_SPEED","pattern":"64 gb"}
+{"label":"PORT_SPEED","pattern":"65 gb"}
+{"label":"PORT_SPEED","pattern":"66 gb"}
+{"label":"PORT_SPEED","pattern":"67 gb"}
+{"label":"PORT_SPEED","pattern":"68 gb"}
+{"label":"PORT_SPEED","pattern":"69 gb"}
+{"label":"PORT_SPEED","pattern":"70 gb"}
+{"label":"PORT_SPEED","pattern":"71 gb"}
+{"label":"PORT_SPEED","pattern":"72 gb"}
+{"label":"PORT_SPEED","pattern":"73 gb"}
+{"label":"PORT_SPEED","pattern":"74 gb"}
+{"label":"PORT_SPEED","pattern":"75 gb"}
+{"label":"PORT_SPEED","pattern":"76 gb"}
+{"label":"PORT_SPEED","pattern":"77 gb"}
+{"label":"PORT_SPEED","pattern":"78 gb"}
+{"label":"PORT_SPEED","pattern":"79 gb"}
+{"label":"PORT_SPEED","pattern":"80 gb"}
+{"label":"PORT_SPEED","pattern":"81 gb"}
+{"label":"PORT_SPEED","pattern":"82 gb"}
+{"label":"PORT_SPEED","pattern":"83 gb"}
+{"label":"PORT_SPEED","pattern":"84 gb"}
+{"label":"PORT_SPEED","pattern":"85 gb"}
+{"label":"PORT_SPEED","pattern":"86 gb"}
+{"label":"PORT_SPEED","pattern":"87 gb"}
+{"label":"PORT_SPEED","pattern":"88 gb"}
+{"label":"PORT_SPEED","pattern":"89 gb"}
+{"label":"PORT_SPEED","pattern":"90 gb"}
+{"label":"PORT_SPEED","pattern":"91 gb"}
+{"label":"PORT_SPEED","pattern":"92 gb"}
+{"label":"PORT_SPEED","pattern":"93 gb"}
+{"label":"PORT_SPEED","pattern":"94 gb"}
+{"label":"PORT_SPEED","pattern":"95 gb"}
+{"label":"PORT_SPEED","pattern":"96 gb"}
+{"label":"PORT_SPEED","pattern":"97 gb"}
+{"label":"PORT_SPEED","pattern":"98 gb"}
+{"label":"PORT_SPEED","pattern":"99 gb"}
+{"label":"PORT_SPEED","pattern":"100 gb"}
+{"label":"PORT_SPEED","pattern":"1gbps"}
+{"label":"PORT_SPEED","pattern":"2gbps"}
+{"label":"PORT_SPEED","pattern":"3gbps"}
+{"label":"PORT_SPEED","pattern":"4gbps"}
+{"label":"PORT_SPEED","pattern":"5gbps"}
+{"label":"PORT_SPEED","pattern":"6gbps"}
+{"label":"PORT_SPEED","pattern":"7gbps"}
+{"label":"PORT_SPEED","pattern":"8gbps"}
+{"label":"PORT_SPEED","pattern":"9gbps"}
+{"label":"PORT_SPEED","pattern":"10gbps"}
+{"label":"PORT_SPEED","pattern":"11gbps"}
+{"label":"PORT_SPEED","pattern":"12gbps"}
+{"label":"PORT_SPEED","pattern":"13gbps"}
+{"label":"PORT_SPEED","pattern":"14gbps"}
+{"label":"PORT_SPEED","pattern":"15gbps"}
+{"label":"PORT_SPEED","pattern":"16gbps"}
+{"label":"PORT_SPEED","pattern":"17gbps"}
+{"label":"PORT_SPEED","pattern":"18gbps"}
+{"label":"PORT_SPEED","pattern":"19gbps"}
+{"label":"PORT_SPEED","pattern":"20gbps"}
+{"label":"PORT_SPEED","pattern":"21gbps"}
+{"label":"PORT_SPEED","pattern":"22gbps"}
+{"label":"PORT_SPEED","pattern":"23gbps"}
+{"label":"PORT_SPEED","pattern":"24gbps"}
+{"label":"PORT_SPEED","pattern":"25gbps"}
+{"label":"PORT_SPEED","pattern":"26gbps"}
+{"label":"PORT_SPEED","pattern":"27gbps"}
+{"label":"PORT_SPEED","pattern":"28gbps"}
+{"label":"PORT_SPEED","pattern":"29gbps"}
+{"label":"PORT_SPEED","pattern":"30gbps"}
+{"label":"PORT_SPEED","pattern":"31gbps"}
+{"label":"PORT_SPEED","pattern":"32gbps"}
+{"label":"PORT_SPEED","pattern":"33gbps"}
+{"label":"PORT_SPEED","pattern":"34gbps"}
+{"label":"PORT_SPEED","pattern":"35gbps"}
+{"label":"PORT_SPEED","pattern":"36gbps"}
+{"label":"PORT_SPEED","pattern":"37gbps"}
+{"label":"PORT_SPEED","pattern":"38gbps"}
+{"label":"PORT_SPEED","pattern":"39gbps"}
+{"label":"PORT_SPEED","pattern":"40gbps"}
+{"label":"PORT_SPEED","pattern":"41gbps"}
+{"label":"PORT_SPEED","pattern":"42gbps"}
+{"label":"PORT_SPEED","pattern":"43gbps"}
+{"label":"PORT_SPEED","pattern":"44gbps"}
+{"label":"PORT_SPEED","pattern":"45gbps"}
+{"label":"PORT_SPEED","pattern":"46gbps"}
+{"label":"PORT_SPEED","pattern":"47gbps"}
+{"label":"PORT_SPEED","pattern":"48gbps"}
+{"label":"PORT_SPEED","pattern":"49gbps"}
+{"label":"PORT_SPEED","pattern":"50gbps"}
+{"label":"PORT_SPEED","pattern":"51gbps"}
+{"label":"PORT_SPEED","pattern":"52gbps"}
+{"label":"PORT_SPEED","pattern":"53gbps"}
+{"label":"PORT_SPEED","pattern":"54gbps"}
+{"label":"PORT_SPEED","pattern":"55gbps"}
+{"label":"PORT_SPEED","pattern":"56gbps"}
+{"label":"PORT_SPEED","pattern":"57gbps"}
+{"label":"PORT_SPEED","pattern":"58gbps"}
+{"label":"PORT_SPEED","pattern":"59gbps"}
+{"label":"PORT_SPEED","pattern":"60gbps"}
+{"label":"PORT_SPEED","pattern":"61gbps"}
+{"label":"PORT_SPEED","pattern":"62gbps"}
+{"label":"PORT_SPEED","pattern":"63gbps"}
+{"label":"PORT_SPEED","pattern":"64gbps"}
+{"label":"PORT_SPEED","pattern":"65gbps"}
+{"label":"PORT_SPEED","pattern":"66gbps"}
+{"label":"PORT_SPEED","pattern":"67gbps"}
+{"label":"PORT_SPEED","pattern":"68gbps"}
+{"label":"PORT_SPEED","pattern":"69gbps"}
+{"label":"PORT_SPEED","pattern":"70gbps"}
+{"label":"PORT_SPEED","pattern":"71gbps"}
+{"label":"PORT_SPEED","pattern":"72gbps"}
+{"label":"PORT_SPEED","pattern":"73gbps"}
+{"label":"PORT_SPEED","pattern":"74gbps"}
+{"label":"PORT_SPEED","pattern":"75gbps"}
+{"label":"PORT_SPEED","pattern":"76gbps"}
+{"label":"PORT_SPEED","pattern":"77gbps"}
+{"label":"PORT_SPEED","pattern":"78gbps"}
+{"label":"PORT_SPEED","pattern":"79gbps"}
+{"label":"PORT_SPEED","pattern":"80gbps"}
+{"label":"PORT_SPEED","pattern":"81gbps"}
+{"label":"PORT_SPEED","pattern":"82gbps"}
+{"label":"PORT_SPEED","pattern":"83gbps"}
+{"label":"PORT_SPEED","pattern":"84gbps"}
+{"label":"PORT_SPEED","pattern":"85gbps"}
+{"label":"PORT_SPEED","pattern":"86gbps"}
+{"label":"PORT_SPEED","pattern":"87gbps"}
+{"label":"PORT_SPEED","pattern":"88gbps"}
+{"label":"PORT_SPEED","pattern":"89gbps"}
+{"label":"PORT_SPEED","pattern":"90gbps"}
+{"label":"PORT_SPEED","pattern":"91gbps"}
+{"label":"PORT_SPEED","pattern":"92gbps"}
+{"label":"PORT_SPEED","pattern":"93gbps"}
+{"label":"PORT_SPEED","pattern":"94gbps"}
+{"label":"PORT_SPEED","pattern":"95gbps"}
+{"label":"PORT_SPEED","pattern":"96gbps"}
+{"label":"PORT_SPEED","pattern":"97gbps"}
+{"label":"PORT_SPEED","pattern":"98gbps"}
+{"label":"PORT_SPEED","pattern":"99gbps"}
+{"label":"PORT_SPEED","pattern":"100gbps"}
+{"label":"PORT_SPEED","pattern":"1gb"}
+{"label":"PORT_SPEED","pattern":"2gb"}
+{"label":"PORT_SPEED","pattern":"3gb"}
+{"label":"PORT_SPEED","pattern":"4gb"}
+{"label":"PORT_SPEED","pattern":"5gb"}
+{"label":"PORT_SPEED","pattern":"6gb"}
+{"label":"PORT_SPEED","pattern":"7gb"}
+{"label":"PORT_SPEED","pattern":"8gb"}
+{"label":"PORT_SPEED","pattern":"9gb"}
+{"label":"PORT_SPEED","pattern":"10gb"}
+{"label":"PORT_SPEED","pattern":"11gb"}
+{"label":"PORT_SPEED","pattern":"12gb"}
+{"label":"PORT_SPEED","pattern":"13gb"}
+{"label":"PORT_SPEED","pattern":"14gb"}
+{"label":"PORT_SPEED","pattern":"15gb"}
+{"label":"PORT_SPEED","pattern":"16gb"}
+{"label":"PORT_SPEED","pattern":"17gb"}
+{"label":"PORT_SPEED","pattern":"18gb"}
+{"label":"PORT_SPEED","pattern":"19gb"}
+{"label":"PORT_SPEED","pattern":"20gb"}
+{"label":"PORT_SPEED","pattern":"21gb"}
+{"label":"PORT_SPEED","pattern":"22gb"}
+{"label":"PORT_SPEED","pattern":"23gb"}
+{"label":"PORT_SPEED","pattern":"24gb"}
+{"label":"PORT_SPEED","pattern":"25gb"}
+{"label":"PORT_SPEED","pattern":"26gb"}
+{"label":"PORT_SPEED","pattern":"27gb"}
+{"label":"PORT_SPEED","pattern":"28gb"}
+{"label":"PORT_SPEED","pattern":"29gb"}
+{"label":"PORT_SPEED","pattern":"30gb"}
+{"label":"PORT_SPEED","pattern":"31gb"}
+{"label":"PORT_SPEED","pattern":"32gb"}
+{"label":"PORT_SPEED","pattern":"33gb"}
+{"label":"PORT_SPEED","pattern":"34gb"}
+{"label":"PORT_SPEED","pattern":"35gb"}
+{"label":"PORT_SPEED","pattern":"36gb"}
+{"label":"PORT_SPEED","pattern":"37gb"}
+{"label":"PORT_SPEED","pattern":"38gb"}
+{"label":"PORT_SPEED","pattern":"39gb"}
+{"label":"PORT_SPEED","pattern":"40gb"}
+{"label":"PORT_SPEED","pattern":"41gb"}
+{"label":"PORT_SPEED","pattern":"42gb"}
+{"label":"PORT_SPEED","pattern":"43gb"}
+{"label":"PORT_SPEED","pattern":"44gb"}
+{"label":"PORT_SPEED","pattern":"45gb"}
+{"label":"PORT_SPEED","pattern":"46gb"}
+{"label":"PORT_SPEED","pattern":"47gb"}
+{"label":"PORT_SPEED","pattern":"48gb"}
+{"label":"PORT_SPEED","pattern":"49gb"}
+{"label":"PORT_SPEED","pattern":"50gb"}
+{"label":"PORT_SPEED","pattern":"51gb"}
+{"label":"PORT_SPEED","pattern":"52gb"}
+{"label":"PORT_SPEED","pattern":"53gb"}
+{"label":"PORT_SPEED","pattern":"54gb"}
+{"label":"PORT_SPEED","pattern":"55gb"}
+{"label":"PORT_SPEED","pattern":"56gb"}
+{"label":"PORT_SPEED","pattern":"57gb"}
+{"label":"PORT_SPEED","pattern":"58gb"}
+{"label":"PORT_SPEED","pattern":"59gb"}
+{"label":"PORT_SPEED","pattern":"60gb"}
+{"label":"PORT_SPEED","pattern":"61gb"}
+{"label":"PORT_SPEED","pattern":"62gb"}
+{"label":"PORT_SPEED","pattern":"63gb"}
+{"label":"PORT_SPEED","pattern":"64gb"}
+{"label":"PORT_SPEED","pattern":"65gb"}
+{"label":"PORT_SPEED","pattern":"66gb"}
+{"label":"PORT_SPEED","pattern":"67gb"}
+{"label":"PORT_SPEED","pattern":"68gb"}
+{"label":"PORT_SPEED","pattern":"69gb"}
+{"label":"PORT_SPEED","pattern":"70gb"}
+{"label":"PORT_SPEED","pattern":"71gb"}
+{"label":"PORT_SPEED","pattern":"72gb"}
+{"label":"PORT_SPEED","pattern":"73gb"}
+{"label":"PORT_SPEED","pattern":"74gb"}
+{"label":"PORT_SPEED","pattern":"75gb"}
+{"label":"PORT_SPEED","pattern":"76gb"}
+{"label":"PORT_SPEED","pattern":"77gb"}
+{"label":"PORT_SPEED","pattern":"78gb"}
+{"label":"PORT_SPEED","pattern":"79gb"}
+{"label":"PORT_SPEED","pattern":"80gb"}
+{"label":"PORT_SPEED","pattern":"81gb"}
+{"label":"PORT_SPEED","pattern":"82gb"}
+{"label":"PORT_SPEED","pattern":"83gb"}
+{"label":"PORT_SPEED","pattern":"84gb"}
+{"label":"PORT_SPEED","pattern":"85gb"}
+{"label":"PORT_SPEED","pattern":"86gb"}
+{"label":"PORT_SPEED","pattern":"87gb"}
+{"label":"PORT_SPEED","pattern":"88gb"}
+{"label":"PORT_SPEED","pattern":"89gb"}
+{"label":"PORT_SPEED","pattern":"90gb"}
+{"label":"PORT_SPEED","pattern":"91gb"}
+{"label":"PORT_SPEED","pattern":"92gb"}
+{"label":"PORT_SPEED","pattern":"93gb"}
+{"label":"PORT_SPEED","pattern":"94gb"}
+{"label":"PORT_SPEED","pattern":"95gb"}
+{"label":"PORT_SPEED","pattern":"96gb"}
+{"label":"PORT_SPEED","pattern":"97gb"}
+{"label":"PORT_SPEED","pattern":"98gb"}
+{"label":"PORT_SPEED","pattern":"99gb"}
+{"label":"PORT_SPEED","pattern":"100gb"}

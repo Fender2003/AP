@@ -1,0 +1,7 @@
+The client requested a 1 Gbps connection in New York (NY) with a contract of 36 months. Meanwhile, another customer in Berlin, Germany, has opted for a 500 Mbps plan under a 24-month agreement.
+
+A new order in Los Angeles, California, requires a 2 Gbps port speed with DIA circuit configuration. In contrast, a business in Tokyo, Japan, is finalizing a deal for 1.5 Gbps service under EPL with a 12-month term.
+
+Additionally, a provider in Paris, France, confirmed a 750 Mbps plan for Microwave, while a customer in Sydney, Australia, signed up for DIA with a 60-month term.
+
+banglore , bharat

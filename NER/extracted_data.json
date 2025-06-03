@@ -1,0 +1,29 @@
+{
+    "PORT_SPEED": [
+        [
+            "10 gbps",
+            "PORT_SPEED"
+        ],
+        [
+            "1 gbps",
+            "PORT_SPEED"
+        ]
+    ],
+    "STATES_CITIES": [
+        "co",
+        "fl"
+    ],
+    "TERM": [
+        [
+            "12 months",
+            "DATE"
+        ],
+        [
+            "24 months",
+            "DATE"
+        ]
+    ],
+    "CIR_TYPES": [
+        "wavelength"
+    ]
+}

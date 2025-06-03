@@ -1,0 +1,40 @@
+# Ignore Python environments
+venv/
+myenv/
+env/
+ENV/
+*.egg-info/
+
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# Logs and temp files
+*.log
+logs/
+
+# Environment secrets
+.env
+
+# Data and models
+data/
+*.csv
+*.tsv
+*.h5
+*.pth
+*.pt
+*.ckpt
+
+# Build artifacts
+build/
+dist/
