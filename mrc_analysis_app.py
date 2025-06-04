@@ -273,6 +273,11 @@ if True:
         provider_encoding_list = list(provider_encoding.iloc[:,1])
         provider_count_list = list(provider_count.iloc[:,0])
 
+        mrc_per_mbps = list(provider_count.iloc[:,1])
+
+        # st.write(provider_count_list)
+        
+
         #slider
         num_providers = st.slider('Select number of providers', min_value=1, max_value=15, value=5)
         
@@ -282,31 +287,34 @@ if True:
             temp_provider = provider_count_list[idx]
             index = provider_list.index(temp_provider)
             extract_provider_indexes.append(provider_encoding_list[index])
-
-
+        st.write(extract_provider_indexes)
 
 
 
         for i in range(num_providers):
             df[provider_count_list[i]] = extract_provider_indexes[i]
-
+            
+  
         df['TERM'] = pd.to_numeric(df['TERM'], errors='coerce').astype('Int64')
+
+        temperory_df = df #just for printing purpose
+
+        for i in range(num_providers):
+            df[provider_count_list[i]+"_mrc_per_mbps"] = mrc_per_mbps[i]
+
+        # st.write(df)
 
         temp_data = pd.DataFrame()
         best_xgb= joblib.load("./model_and_encoders/best_xgb_model.pkl")
 
         # prediction
         for i in range(num_providers):
-            features_inorder = [
-            'PORT_SPEED', 'TERM', 'A Loc State_Freq', 
-            provider_count_list[i],
-            'generalized_Cir_Freq']
+            features_inorder = ['PORT_SPEED', 'TERM', 'A Loc State_Freq', provider_count_list[i], 'generalized_Cir_Freq', f'{provider_count_list[i]}_mrc_per_mbps']
 
             X_test = df[features_inorder]
 
             y_pred = best_xgb.predict(X_test).round().astype(int)
 
-            # y_pred = int(y_pred)
             temp_data[provider_count_list[i]] = y_pred
         
 
