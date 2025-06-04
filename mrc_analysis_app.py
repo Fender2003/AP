@@ -304,8 +304,9 @@ if True:
 
             X_test = df[features_inorder]
 
-            y_pred = best_xgb.predict(X_test)
+            y_pred = best_xgb.predict(X_test).round().astype(int)
 
+            # y_pred = int(y_pred)
             temp_data[provider_count_list[i]] = y_pred
         
 
@@ -361,10 +362,14 @@ if True:
     filter_state_data['MRC'] = filter_state_data['MRC'].str.replace(r'[\$,]', '', regex=True)
     filter_state_data['MRC'] = pd.to_numeric(filter_state_data['MRC'], errors='coerce')
 
-    filter_state_data = filter_state_data[filter_state_data['MRC'] <= 20000]
+    filter_state_data = filter_state_data[filter_state_data['MRC'] <= 8000]
+
+    filter_state_data['MRC'] = filter_state_data['MRC'].round().astype(int)
 
     filter_state_data['A Loc City'] = filter_state_data['A Loc City'].str.lower()
     filter_state_data['A Loc State'] = filter_state_data['A Loc State'].str.lower()
+
+
 
     city_corrections = {
         '2-4-1, marunouchi,chiyoda-ku tokyo': 'tokyo',
@@ -436,7 +441,6 @@ if True:
 
     filter_state_data['Term_Cleaned'] = filter_state_data['Term'].apply(clean_term)
     filter_state_data['Term_Cleaned'] = pd.to_numeric(filter_state_data['Term_Cleaned'], errors='coerce')
-
 
 
 
@@ -598,9 +602,9 @@ if True:
 
             filtered_data = filter_state_data[filter_state_data['A Loc State'].isin(selected_states)]
 
-            city_term_mrc = filtered_data.groupby(['A Loc State', 'Term_Cleaned'])['MRC'].mean().reset_index()
+            city_term_mrc = filtered_data.groupby(['A Loc State', 'Term_Cleaned'])['MRC'].mean().round().astype(int).reset_index()
 
-            city_term_mrc['Term_Cleaned'] = city_term_mrc['Term_Cleaned'].astype(float)
+            city_term_mrc['Term_Cleaned'] = city_term_mrc['Term_Cleaned'].astype(int)
 
             all_terms = sorted(city_term_mrc['Term_Cleaned'].unique())
             all_combinations = pd.MultiIndex.from_product(
@@ -657,7 +661,7 @@ if True:
     with col2:
         filtered_cir_data = filter_state_data[filter_state_data['generalized_Cir'].isin(selected_cir_types)]
         
-        cir_mrc = filtered_cir_data.groupby('generalized_Cir')['MRC'].mean().reset_index()
+        cir_mrc = filtered_cir_data.groupby('generalized_Cir')['MRC'].mean().round().astype(int).reset_index()
         
         fig_cir = px.bar(
             cir_mrc,
@@ -700,15 +704,16 @@ if True:
 
             filtered_us_data = filter_state_data[filter_state_data['A Loc State'].isin(us_states)]
 
-            grouped_avg = filtered_us_data.groupby('A Loc State')['MRC'].mean().reset_index()
+            
+
+            grouped_avg = filtered_us_data.groupby('A Loc State')['MRC'].mean().round().astype(int).reset_index()
 
             # Map state names to state codes
             grouped_avg['state_code'] = grouped_avg['A Loc State'].map(state_name_to_code)
 
-
             us_heatmap_data = {
                 'state': grouped_avg['state_code'].tolist(),
-                'MRC': grouped_avg['MRC'].round(2).tolist()
+                'MRC': grouped_avg['MRC'].round(0).tolist()
             }
 
             us_df = pd.DataFrame(us_heatmap_data)
@@ -751,7 +756,7 @@ if True:
                 state_data = filtered_us_data[filtered_us_data['A Loc State'] == clicked_state_full_name]
 
                 if not state_data.empty:
-                    provider_mrc = state_data.groupby('Provider')['MRC'].mean().reset_index()
+                    provider_mrc = state_data.groupby('Provider')['MRC'].mean().round().astype(int).reset_index()
                     provider_mrc = provider_mrc.sort_values(by='MRC', ascending=False)
 
                     fig_bar = px.bar(

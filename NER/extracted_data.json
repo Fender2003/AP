@@ -1,29 +1,53 @@
 {
     "PORT_SPEED": [
         [
-            "10 gbps",
+            "50 mb",
             "PORT_SPEED"
         ],
         [
             "1 gbps",
             "PORT_SPEED"
+        ],
+        [
+            "5mbps",
+            "PORT_SPEED"
+        ],
+        [
+            "8gbps",
+            "PORT_SPEED"
+        ],
+        [
+            "10 gb",
+            "PORT_SPEED"
         ]
     ],
     "STATES_CITIES": [
-        "co",
-        "fl"
+        "ca"
     ],
     "TERM": [
         [
-            "12 months",
+            "five years",
             "DATE"
         ],
         [
-            "24 months",
+            "10months",
+            "DATE"
+        ],
+        [
+            "three months",
+            "DATE"
+        ],
+        [
+            "7 months",
+            "DATE"
+        ],
+        [
+            "three weeks",
             "DATE"
         ]
     ],
     "CIR_TYPES": [
-        "wavelength"
+        "epl",
+        "mpls"
     ]
 }

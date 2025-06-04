@@ -40,6 +40,8 @@ if __name__ == "__main__":
         text = f.read()
         text = text.lower()
 
+        print(text)
+
     states_cities = test_model(text)
     port_speeds = extract_entities(text, port_speed_nlp)
     term = extract_entities(text, term_nlp)
