@@ -287,7 +287,7 @@ if True:
             temp_provider = provider_count_list[idx]
             index = provider_list.index(temp_provider)
             extract_provider_indexes.append(provider_encoding_list[index])
-        st.write(extract_provider_indexes)
+        # st.write(extract_provider_indexes)
 
 
 
@@ -553,98 +553,98 @@ if True:
 
 
 
-    with st.container():
-        col1, spacer, col2 = st.columns([6, 1, 7])
+    # with st.container():
+    #     col1, spacer, col2 = st.columns([6, 1, 7])
 
 
 
 
-        with col1:
-            # Plot 1
-            st.header("Top Providers")
+        # with col1:
+        #     # Plot 1
+        #     st.header("Top Providers")
 
-            top_x = st.slider("Number of Top Providers", min_value=1, max_value=20, value=5)
+        #     top_x = st.slider("Number of Top Providers", min_value=1, max_value=20, value=5)
 
-            top_providers = filter_state_data['Provider'].value_counts().nlargest(top_x).index
-            df_filtered = filter_state_data[filter_state_data['Provider'].isin(top_providers)]
-
-
-            fig1 = px.box(
-                df_filtered,
-                x='Provider',
-                y='MRC',
-                title=' ',
-                color='Provider',
-                points='all',
-            )
-
-            fig1.update_layout(
-                plot_bgcolor='rgba(0,0,0,0)',
-                paper_bgcolor='rgba(0,0,0,0)',
-                title_font=dict(size=20, color='black'),
-                xaxis_title='Provider',
-                yaxis_title='MRC ($)',
-                xaxis=dict(tickangle=45),
-                font=dict(color='black'),
-                showlegend=False,  # Hide legend since x-axis already labels providers
-            )
-
-            st.plotly_chart(fig1, use_container_width=True)
+        #     top_providers = filter_state_data['Provider'].value_counts().nlargest(top_x).index
+        #     df_filtered = filter_state_data[filter_state_data['Provider'].isin(top_providers)]
 
 
+        #     fig1 = px.box(
+        #         df_filtered,
+        #         x='Provider',
+        #         y='MRC',
+        #         title=' ',
+        #         color='Provider',
+        #         points='all',
+        #     )
+
+        #     fig1.update_layout(
+        #         plot_bgcolor='rgba(0,0,0,0)',
+        #         paper_bgcolor='rgba(0,0,0,0)',
+        #         title_font=dict(size=20, color='black'),
+        #         xaxis_title='Provider',
+        #         yaxis_title='MRC ($)',
+        #         xaxis=dict(tickangle=45),
+        #         font=dict(color='black'),
+        #         showlegend=False,  # Hide legend since x-axis already labels providers
+        #     )
+
+        #     st.plotly_chart(fig1, use_container_width=True)
 
 
 
-        with col2:
-            # Plot 2
-            st.header(" MRC vs Term")
 
-            unique_states = filter_state_data['A Loc State'].dropna().unique()
-            unique_states = sorted(unique_states)
 
-            selected_states = st.multiselect(
-                'Select States/Countries to display:',
-                options=unique_states,
-                default=['New Jersey', 'California', 'Washington DC']
-            )
+        # with col2:
+        #     # Plot 2
+        #     st.header(" MRC vs Term")
 
-            filtered_data = filter_state_data[filter_state_data['A Loc State'].isin(selected_states)]
+        #     unique_states = filter_state_data['A Loc State'].dropna().unique()
+        #     unique_states = sorted(unique_states)
 
-            city_term_mrc = filtered_data.groupby(['A Loc State', 'Term_Cleaned'])['MRC'].mean().round().astype(int).reset_index()
+        #     selected_states = st.multiselect(
+        #         'Select States/Countries to display:',
+        #         options=unique_states,
+        #         default=['New Jersey', 'California', 'Washington DC']
+        #     )
 
-            city_term_mrc['Term_Cleaned'] = city_term_mrc['Term_Cleaned'].astype(int)
+        #     filtered_data = filter_state_data[filter_state_data['A Loc State'].isin(selected_states)]
 
-            all_terms = sorted(city_term_mrc['Term_Cleaned'].unique())
-            all_combinations = pd.MultiIndex.from_product(
-                [selected_states, all_terms],
-                names=['A Loc State', 'Term_Cleaned']
-            ).to_frame(index=False)
+        #     city_term_mrc = filtered_data.groupby(['A Loc State', 'Term_Cleaned'])['MRC'].mean().round().astype(int).reset_index()
 
-            city_term_mrc_full = pd.merge(all_combinations, city_term_mrc, how='left', on=['A Loc State', 'Term_Cleaned'])
-            city_term_mrc_full = city_term_mrc_full.sort_values(by=['A Loc State', 'Term_Cleaned'])
+        #     city_term_mrc['Term_Cleaned'] = city_term_mrc['Term_Cleaned'].astype(int)
 
-            fig = px.line(
-                city_term_mrc_full,
-                x='Term_Cleaned',
-                y='MRC',
-                color='A Loc State',
-                markers=True,
-                title=' ',
-                labels={'Term_Cleaned': 'Contract Term (Months)', 'MRC': 'Average MRC ($)', 'A Loc State': 'State/Country'}
-            )
+        #     all_terms = sorted(city_term_mrc['Term_Cleaned'].unique())
+        #     all_combinations = pd.MultiIndex.from_product(
+        #         [selected_states, all_terms],
+        #         names=['A Loc State', 'Term_Cleaned']
+        #     ).to_frame(index=False)
 
-            fig.update_traces(connectgaps=True)
-            fig.update_layout(
-                xaxis=dict(
-                    title='Contract Term (Months)',
-                    tickmode='array',
-                    tickvals=[12, 24, 36, 48, 60],
-                    ticktext=['12', '24', '36', '48', '60'],
-                    type='linear'
-                ),
-                yaxis_title='Average MRC ($)'
-            )
-            st.plotly_chart(fig, use_container_width=True)
+        #     city_term_mrc_full = pd.merge(all_combinations, city_term_mrc, how='left', on=['A Loc State', 'Term_Cleaned'])
+        #     city_term_mrc_full = city_term_mrc_full.sort_values(by=['A Loc State', 'Term_Cleaned'])
+
+        #     fig = px.line(
+        #         city_term_mrc_full,
+        #         x='Term_Cleaned',
+        #         y='MRC',
+        #         color='A Loc State',
+        #         markers=True,
+        #         title=' ',
+        #         labels={'Term_Cleaned': 'Contract Term (Months)', 'MRC': 'Average MRC ($)', 'A Loc State': 'State/Country'}
+        #     )
+
+        #     fig.update_traces(connectgaps=True)
+        #     fig.update_layout(
+        #         xaxis=dict(
+        #             title='Contract Term (Months)',
+        #             tickmode='array',
+        #             tickvals=[12, 24, 36, 48, 60],
+        #             ticktext=['12', '24', '36', '48', '60'],
+        #             type='linear'
+        #         ),
+        #         yaxis_title='Average MRC ($)'
+        #     )
+        #     st.plotly_chart(fig, use_container_width=True)
 
 
 
