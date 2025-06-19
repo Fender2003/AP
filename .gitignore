@@ -25,6 +25,10 @@ logs/
 
 # Environment secrets
 .env
+venv/
+ENV/
+env/
+
 
 # Data and models
 data/
